@@ -2,7 +2,7 @@
 
 import { motion, AnimatePresence } from 'framer-motion';
 import { useTranslations } from 'next-intl';
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useCallback } from 'react';
 import { ChevronDown, Search, MessageCircle, HelpCircle, Shield, Wallet } from 'lucide-react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -26,12 +26,15 @@ export default function FAQPage() {
   const [searchQuery, setSearchQuery] = useState('');
   const [openItems, setOpenItems] = useState<Record<string, boolean>>({});
 
-  const categories = [
+  const categories = useMemo(() => [
     { key: 'general', icon: <HelpCircle className="w-6 h-6" /> },
     { key: 'trading', icon: <MessageCircle className="w-6 h-6" /> },
     { key: 'security', icon: <Shield className="w-6 h-6" /> },
     { key: 'account', icon: <Wallet className="w-6 h-6" /> }
-  ];
+  ] as const, []);
+
+  type Category = typeof categories[number];
+  type CategoryKey = Category['key'];
 
   const toggleItem = (categoryKey: string, itemKey: string) => {
     const key = `${categoryKey}-${itemKey}`;
@@ -43,7 +46,7 @@ export default function FAQPage() {
   };
 
   // Function to check if an item matches the search query
-  const itemMatchesSearch = (categoryKey: string, itemKey: string) => {
+  const itemMatchesSearch = useCallback((categoryKey: string, itemKey: string) => {
     if (!searchQuery) return true;
     
     const query = searchQuery.toLowerCase();
@@ -51,17 +54,15 @@ export default function FAQPage() {
     const answer = t(`categories.${categoryKey}.items.${itemKey}.answer`).toLowerCase();
     
     return question.includes(query) || answer.includes(query);
-  };
+  }, [searchQuery, t]);
 
   // Filter categories and items based on search
   const filteredCategories = useMemo(() => {
     if (!searchQuery) return categories;
-
-    return categories.map(category => ({
-      ...category,
-      hasMatches: ['1', '2', '3'].some(itemKey => itemMatchesSearch(category.key, itemKey))
-    })).filter(category => category.hasMatches);
-  }, [searchQuery]);
+    return categories.filter(category => 
+      ['1', '2', '3'].some(itemKey => itemMatchesSearch(category.key, itemKey))
+    );
+  }, [searchQuery, categories, itemMatchesSearch]);
 
   // Auto-expand items that match search
   const handleSearch = (value: string) => {

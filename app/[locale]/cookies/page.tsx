@@ -88,9 +88,9 @@ export default function CookiePolicyPage() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Managing Cookies</h2>
           <p className="mb-4">
-            Most web browsers allow you to control cookies through their settings preferences.
-            However, if you limit the ability of websites to set cookies, you may impact your
-            overall user experience.
+            We use cookies and similar tracking technologies to enhance your experience. You can
+            control cookie preferences through your browser settings. For more information, please
+            see our Cookie Policy.
           </p>
 
           <h3 className="text-xl font-semibold mb-2">Browser Settings</h3>

@@ -12,7 +12,7 @@ export default function TermsOfServicePage() {
         <section>
           <h2 className="text-2xl font-semibold mb-4">Agreement to Terms</h2>
           <p className="mb-4">
-            By accessing or using Quantum AI's trading platform and services, you agree to be bound
+            By accessing or using Quantum AI&apos;s trading platform and services, you agree to be bound
             by these Terms of Service. If you disagree with any part of these terms, you may not
             access our services.
           </p>

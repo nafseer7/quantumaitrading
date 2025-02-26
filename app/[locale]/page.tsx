@@ -5,7 +5,6 @@ import Support from '@/components/Support';
 import Testimonials from '@/components/Testimonials';
 import Advantages from '@/components/Advantages';
 import FAQ from '@/components/FAQ';
-import Navbar from '@/components/Navbar';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 

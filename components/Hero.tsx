@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import Image from 'next/image';
 import { useState } from 'react';
 import { Star } from 'lucide-react';
-import PartnerLogo from './PartnerLogo';
 
 const Hero = () => {
   const [phoneCode, setPhoneCode] = useState('+971');
