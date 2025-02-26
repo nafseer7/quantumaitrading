@@ -41,23 +41,23 @@ const FAQ = () => {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   return (
-    <section className="py-32 bg-gradient-to-b from-[#0d1f35] to-[#0A1628] relative overflow-hidden">
+    <section className="py-16 sm:py-24 lg:py-32 bg-gradient-to-b from-[#0d1f35] to-[#0A1628] relative overflow-hidden">
       <div className="absolute inset-0 bg-[url('/wave-pattern.svg')] opacity-5"></div>
       
-      <div className="max-w-[1440px] mx-auto px-6 sm:px-8 lg:px-12 relative">
+      <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-12 relative">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="text-center space-y-4 mb-20"
+          className="text-center space-y-3 sm:space-y-4 mb-12 sm:mb-16 lg:mb-20"
         >
-          <span className="text-xl font-medium text-blue-400 tracking-wider">FAQ</span>
-          <h2 className="text-5xl md:text-6xl font-bold text-white">
-            Frequently Asked<br />Questions
+          <span className="text-lg sm:text-xl font-medium text-blue-400 tracking-wider block">FAQ</span>
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-[1.2]">
+            Frequently Asked<br className="hidden sm:block" /> Questions
           </h2>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-5 lg:gap-6">
           {faqs.map((faq, index) => (
             <motion.div
               key={faq.id}
@@ -65,13 +65,13 @@ const FAQ = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
-              className="bg-white/5 backdrop-blur-xl rounded-2xl border border-white/10 overflow-hidden hover:border-blue-500/30 transition-colors"
+              className="bg-white/5 backdrop-blur-xl rounded-xl sm:rounded-2xl border border-white/10 overflow-hidden hover:border-blue-500/30 transition-colors"
             >
               <button
                 onClick={() => setOpenIndex(openIndex === index ? null : index)}
-                className="w-full p-6 flex items-center justify-between text-left"
+                className="w-full p-4 sm:p-5 lg:p-6 flex items-center justify-between text-left"
               >
-                <span className="text-xl font-bold text-white pr-8">
+                <span className="text-base sm:text-lg lg:text-xl font-bold text-white pr-6 sm:pr-8">
                   {faq.question}
                 </span>
                 <motion.div
@@ -79,7 +79,7 @@ const FAQ = () => {
                   transition={{ duration: 0.2 }}
                   className="flex-shrink-0"
                 >
-                  <ChevronDown className="w-6 h-6 text-blue-400" />
+                  <ChevronDown className="w-5 h-5 sm:w-6 sm:h-6 text-blue-400" />
                 </motion.div>
               </button>
               
@@ -92,8 +92,8 @@ const FAQ = () => {
                     transition={{ duration: 0.2 }}
                     className="overflow-hidden"
                   >
-                    <div className="px-6 pb-6">
-                      <p className="text-lg text-gray-300 leading-relaxed">
+                    <div className="px-4 sm:px-5 lg:px-6 pb-4 sm:pb-5 lg:pb-6">
+                      <p className="text-sm sm:text-base lg:text-lg text-gray-300 leading-relaxed">
                         {faq.answer}
                       </p>
                     </div>

@@ -27,23 +27,23 @@ const testimonials = [
 
 const Testimonials = () => {
   return (
-    <section className="py-32 bg-gradient-to-b from-[#0d1f35] to-[#0A1628] relative overflow-hidden">
+    <section className="py-16 sm:py-24 lg:py-32 bg-gradient-to-b from-[#0d1f35] to-[#0A1628] relative overflow-hidden">
       <div className="absolute inset-0 bg-[url('/wave-pattern.svg')] opacity-5"></div>
       
-      <div className="max-w-[1440px] mx-auto px-6 sm:px-8 lg:px-12 relative">
+      <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-12 relative">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="text-center space-y-4 mb-20"
+          className="text-center space-y-3 sm:space-y-4 mb-12 sm:mb-16 lg:mb-20"
         >
-          <span className="text-xl font-medium text-blue-400 tracking-wider">TESTIMONIALS</span>
-          <h2 className="text-5xl md:text-6xl font-bold text-white">
-            Trusted by Traders<br />Worldwide
+          <span className="text-lg sm:text-xl font-medium text-blue-400 tracking-wider block">TESTIMONIALS</span>
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-[1.2]">
+            Trusted by Traders<br className="hidden sm:block" /> Worldwide
           </h2>
         </motion.div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-10">
           {testimonials.map((testimonial, index) => (
             <motion.div
               key={testimonial.id}
@@ -51,16 +51,16 @@ const Testimonials = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: index * 0.2 }}
-              className={`bg-white/5 backdrop-blur-xl rounded-3xl p-10 border border-white/10 hover:border-blue-500/50 transition-all duration-300 ${
+              className={`bg-white/5 backdrop-blur-xl rounded-2xl sm:rounded-3xl p-6 sm:p-8 lg:p-10 border border-white/10 hover:border-blue-500/50 transition-all duration-300 ${
                 testimonial.featured ? 'md:col-span-2 lg:col-span-1' : ''
               }`}
             >
-              <div className="space-y-8">
-                <div className="flex items-center gap-2">
+              <div className="space-y-6 sm:space-y-8">
+                <div className="flex items-center gap-1.5 sm:gap-2">
                   {[...Array(5)].map((_, i) => (
                     <svg
                       key={i}
-                      className="w-6 h-6 text-yellow-500"
+                      className="w-4 h-4 sm:w-5 sm:h-5 lg:w-6 lg:h-6 text-yellow-500"
                       fill="currentColor"
                       viewBox="0 0 20 20"
                     >
@@ -69,19 +69,19 @@ const Testimonials = () => {
                   ))}
                 </div>
 
-                <p className="text-xl text-gray-300 leading-relaxed">
+                <p className="text-base sm:text-lg lg:text-xl text-gray-300 leading-relaxed">
                   {testimonial.content}
                 </p>
 
-                <div className="flex items-center gap-4">
-                  <div className="h-16 w-16 rounded-full bg-blue-500/10 flex items-center justify-center">
-                    <User className="w-8 h-8 text-blue-400" />
+                <div className="flex items-center gap-3 sm:gap-4">
+                  <div className="h-12 w-12 sm:h-14 sm:w-14 lg:h-16 lg:w-16 rounded-full bg-blue-500/10 flex items-center justify-center">
+                    <User className="w-6 h-6 sm:w-7 sm:h-7 lg:w-8 lg:h-8 text-blue-400" />
                   </div>
                   <div>
-                    <h4 className="text-2xl font-bold text-white">
+                    <h4 className="text-lg sm:text-xl lg:text-2xl font-bold text-white">
                       {testimonial.author}
                     </h4>
-                    <p className="text-lg text-gray-400">
+                    <p className="text-sm sm:text-base lg:text-lg text-gray-400">
                       {testimonial.position}
                     </p>
                   </div>
