@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient1" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0052FF"/>
+      <stop offset="50%" stop-color="#00A3FF"/>
+      <stop offset="100%" stop-color="#05C19C"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="800" y1="0" x2="0" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0052FF"/>
+      <stop offset="50%" stop-color="#00A3FF"/>
+      <stop offset="100%" stop-color="#05C19C"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Pattern -->
+  <rect width="800" height="600" fill="#0A1628"/>
+  <path d="M0 0 L800 0 L800 600 L0 600 Z" fill="url(#gradient1)" fill-opacity="0.1"/>
+  
+  <!-- Abstract Shapes -->
+  <circle cx="400" cy="300" r="200" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+  <circle cx="400" cy="300" r="150" stroke="url(#gradient1)" stroke-width="2" fill="none"/>
+  <circle cx="400" cy="300" r="100" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+  
+  <!-- Support Icons -->
+  <g transform="translate(300,250)">
+    <circle cx="100" cy="50" r="40" fill="#0052FF" fill-opacity="0.2"/>
+    <path d="M80 50 Q100 20 120 50 T160 50" stroke="#00A3FF" stroke-width="3" fill="none"/>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <g opacity="0.5">
+    <circle cx="200" cy="150" r="5" fill="#0052FF"/>
+    <circle cx="600" cy="450" r="5" fill="#05C19C"/>
+    <circle cx="150" cy="400" r="5" fill="#00A3FF"/>
+    <circle cx="650" cy="200" r="5" fill="#0052FF"/>
+  </g>
+</svg> 

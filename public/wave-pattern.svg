@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.3">
+    <path d="M0 200 Q 200 100, 400 200 T 800 200" stroke="url(#gradient1)" stroke-width="3" fill="none"/>
+    <path d="M0 300 Q 200 200, 400 300 T 800 300" stroke="url(#gradient1)" stroke-width="3" fill="none"/>
+    <path d="M0 400 Q 200 300, 400 400 T 800 400" stroke="url(#gradient1)" stroke-width="3" fill="none"/>
+    <path d="M0 500 Q 200 400, 400 500 T 800 500" stroke="url(#gradient1)" stroke-width="3" fill="none"/>
+    <path d="M0 600 Q 200 500, 400 600 T 800 600" stroke="url(#gradient1)" stroke-width="3" fill="none"/>
+    
+    <path d="M0 250 Q 200 150, 400 250 T 800 250" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+    <path d="M0 350 Q 200 250, 400 350 T 800 350" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+    <path d="M0 450 Q 200 350, 400 450 T 800 450" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+    <path d="M0 550 Q 200 450, 400 550 T 800 550" stroke="url(#gradient2)" stroke-width="2" fill="none"/>
+  </g>
+  <defs>
+    <linearGradient id="gradient1" x1="0" y1="0" x2="800" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0052FF"/>
+      <stop offset="50%" stop-color="#00A3FF"/>
+      <stop offset="100%" stop-color="#05C19C"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="800" y1="0" x2="0" y2="800" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0052FF"/>
+      <stop offset="50%" stop-color="#00A3FF"/>
+      <stop offset="100%" stop-color="#05C19C"/>
+    </linearGradient>
+  </defs>
+</svg> 

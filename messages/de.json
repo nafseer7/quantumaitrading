@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "markets": "Märkte",
+    "testimonials": "Referenzen",
+    "faq": "FAQ"
+  },
+  "header": {
+    "login": "Anmelden",
+    "getStarted": "Loslegen",
+    "selectLanguage": "Sprache auswählen"
+  },
+  "hero": {
+    "title": "Erleben Sie die Zukunft des KI-gestützten Handels",
+    "description": "Nutzen Sie die Leistungsfähigkeit der künstlichen Intelligenz für Ihre Handelsstrategie. Unser fortschrittlicher Algorithmus analysiert Markttrends in Echtzeit und führt präzise Trades aus.",
+    "getStarted": "Jetzt starten",
+    "watchDemo": "Demo ansehen",
+    "rating": "Ausgezeichnete Bewertung von über 10.000 Händlern weltweit"
+  },
+  "features": {
+    "title": "Einfacher Einstieg in den KI-Handel",
+    "subtitle": "Folgen Sie diesen einfachen Schritten, um Ihre Handelsreise zu beginnen",
+    "step1": {
+      "title": "Registrieren Sie sich",
+      "description": "Erstellen Sie Ihr Konto in weniger als 2 Minuten. Wir benötigen nur grundlegende Informationen."
+    },
+    "step2": {
+      "title": "Verbinden Sie Ihr Konto",
+      "description": "Verknüpfen Sie Ihr Handelskonto sicher mit unserer Plattform."
+    },
+    "step3": {
+      "title": "Starten Sie den Handel",
+      "description": "Aktivieren Sie den KI-Trader und lassen Sie ihn für Sie arbeiten."
+    },
+    "security": "Ihre Sicherheit hat für uns oberste Priorität. Alle Verbindungen sind verschlüsselt."
+  },
+  "advantages": {
+    "title": "Warum Quantum AI?",
+    "subtitle": "Entdecken Sie die Vorteile unserer fortschrittlichen Handelsplattform",
+    "items": {
+      "interface": {
+        "title": "Benutzerfreundliche Oberfläche",
+        "description": "Intuitive Plattform, die sowohl für Anfänger als auch für erfahrene Händler geeignet ist."
+      },
+      "automation": {
+        "title": "Automatisiertes Handelssystem",
+        "description": "Lassen Sie unsere KI rund um die Uhr die besten Handelsmöglichkeiten identifizieren."
+      },
+      "security": {
+        "title": "Erstklassige Sicherheit",
+        "description": "Modernste Verschlüsselung und Sicherheitsprotokolle zum Schutz Ihrer Daten und Mittel."
+      },
+      "strategies": {
+        "title": "Expertenstrategien",
+        "description": "Zugriff auf bewährte Handelsstrategien, entwickelt von Finanzexperten."
+      },
+      "demo": {
+        "title": "Risikofreier Demo-Modus",
+        "description": "Üben Sie mit virtuellem Geld, bevor Sie echte Trades ausführen."
+      },
+      "protection": {
+        "title": "Erweiterte Sicherheit",
+        "description": "Mehrschichtige Sicherheitssysteme zum Schutz Ihrer Vermögenswerte."
+      }
+    }
+  },
+  "support": {
+    "title": "Unterstützung rund um die Uhr",
+    "subtitle": "Unser engagiertes Team steht Ihnen zur Verfügung",
+    "availability": {
+      "title": "24/7 Experten-Support",
+      "description": "Unser Team von Handelsexperten steht Ihnen rund um die Uhr zur Verfügung."
+    },
+    "satisfaction": {
+      "title": "98% Kundenzufriedenheit",
+      "description": "Unsere Kunden schätzen unseren schnellen und effektiven Support."
+    },
+    "multilingual": {
+      "title": "Mehrsprachiger Support",
+      "description": "Erhalten Sie Unterstützung in Ihrer bevorzugten Sprache."
+    }
+  },
+  "testimonials": {
+    "title": "Vertrauenswürdig weltweit",
+    "subtitle": "Was unsere Kunden über uns sagen"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Finden Sie Antworten auf die häufigsten Fragen"
+  },
+  "footer": {
+    "description": "Quantum AI ist Ihre vertrauenswürdige Plattform für KI-gestützten Handel. Wir kombinieren fortschrittliche Technologie mit benutzerfreundlichem Design.",
+    "products": {
+      "title": "Produkte",
+      "trading": "Trading Bot",
+      "signals": "Handelssignale",
+      "analytics": "Marktanalyse",
+      "education": "Bildungsressourcen"
+    },
+    "links": {
+      "title": "Links",
+      "about": "Über uns",
+      "careers": "Karriere",
+      "blog": "Blog",
+      "contact": "Kontakt"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutz",
+      "cookies": "Cookie-Richtlinie"
+    },
+    "copyright": "© 2024 Quantum AI. Alle Rechte vorbehalten."
+  }
+} 

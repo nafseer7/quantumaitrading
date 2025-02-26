@@ -1,0 +1,133 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "features": "Características",
+    "markets": "Mercados",
+    "testimonials": "Testimonios",
+    "faq": "Preguntas Frecuentes"
+  },
+  "header": {
+    "login": "Iniciar Sesión",
+    "getStarted": "Comenzar",
+    "selectLanguage": "Seleccionar Idioma"
+  },
+  "hero": {
+    "title": "Abraza el Futuro del Trading Impulsado por IA",
+    "description": "Experimenta un trading sin igual con nuestros algoritmos avanzados de IA. Comienza a maximizar tus ganancias hoy.",
+    "getStarted": "Comenzar",
+    "watchDemo": "Ver Demo",
+    "stats": {
+      "tradingVolume": "Volumen de Trading",
+      "activeTraders": "Traders Activos",
+      "uptime": "Tiempo de Actividad"
+    }
+  },
+  "features": {
+    "title": "FÁCIL DE EMPEZAR",
+    "subtitle": "Confiable. Directo. Rápido.",
+    "steps": {
+      "join": {
+        "title": "Únete",
+        "description": "Solo ingresa tus datos para configurar tu cuenta. Nuestro proceso optimizado asegura que estés listo para operar en minutos."
+      },
+      "connect": {
+        "title": "Conecta",
+        "description": "Conéctate con nuestra plataforma de trading y aprovecha la potencia de Quantum AI. Accede a herramientas e insights poderosos."
+      },
+      "trade": {
+        "title": "Comienza a Operar",
+        "description": "Embárcate en operaciones inteligentes y lucrativas, aprovechando nuestra IA avanzada para impulsar tu destreza en el trading."
+      }
+    },
+    "security": "El cifrado de alto nivel protege tus datos en todo momento."
+  },
+  "advantages": {
+    "title": "LO QUE NOS DISTINGUE",
+    "subtitle": "Mejora tu Estrategia de Trading con Quantum AI",
+    "items": {
+      "interface": {
+        "title": "Interfaz Amigable",
+        "description": "Experimenta un trading sin esfuerzo con nuestra plataforma Quantum AI, diseñada para la simplicidad y facilidad. Navega por las decisiones de trading sin la complejidad habitual."
+      },
+      "automated": {
+        "title": "Sistema de Trading Automatizado",
+        "description": "Configura y olvídate con los bots de trading de Quantum AI. Automatiza tus operaciones y disfruta de más ganancias con menos estrés."
+      },
+      "secure": {
+        "title": "Espacio de Trading Confiable",
+        "description": "Nuestra plataforma está diseñada para máxima seguridad, proporcionando un entorno de trading seguro y confiable para todos los usuarios."
+      },
+      "expert": {
+        "title": "Estrategias Diseñadas por Expertos",
+        "description": "Quantum AI te trae estrategias de trading meticulosamente desarrolladas, equipándote para operar como un profesional experimentado."
+      },
+      "demo": {
+        "title": "Modo Demo Sin Riesgos",
+        "description": "¿Curioso sobre nuestro robot de trading pero no estás listo para comprometerte? Nuestro Modo Demo Gratuito ofrece una prueba completa, permitiéndote explorar y aprender sin riesgos."
+      },
+      "security": {
+        "title": "Seguridad de Alto Nivel",
+        "description": "La aplicación Quantum AI ha sido rigurosamente probada y verificada por líderes de la industria. Ten la seguridad de que tus fondos son gestionados de forma segura por nuestro algoritmo de IA de primer nivel."
+      }
+    }
+  },
+  "support": {
+    "title": "SIEMPRE A TU SERVICIO",
+    "subtitle": "Asistencia Experta las 24 Horas",
+    "features": {
+      "availability": {
+        "title": "Disponible con Cada Plan y Servicio",
+        "description": "Nos comprometemos a proporcionar a todos nuestros suscriptores, independientemente del plan elegido, acceso ininterrumpido a nuestro equipo de soporte, disponible 24/7, todos los días del año."
+      },
+      "satisfaction": {
+        "title": "Niveles Excepcionales de Satisfacción",
+        "description": "Con una tasa de satisfacción del cliente del 97%, siempre estamos aquí para ti, esforzándonos por alcanzar la excelencia y apuntando a llegar lo más cerca posible al 100% de satisfacción."
+      },
+      "multilingual": {
+        "title": "Soporte Multilingüe",
+        "description": "Quantum AI se adapta a tus preferencias de idioma, ofreciendo soporte en inglés, español, francés, holandés e italiano. Siéntete libre de cambiar de idioma en cualquier momento según tu comodidad."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "TESTIMONIOS",
+    "subtitle": "Confiado por Traders en Todo el Mundo"
+  },
+  "faq": {
+    "title": "PREGUNTAS FRECUENTES",
+    "subtitle": "Preguntas Frecuentes"
+  },
+  "footer": {
+    "description": "Experimenta el futuro del trading con nuestra plataforma avanzada impulsada por IA. Únete a miles de traders exitosos en todo el mundo.",
+    "categories": {
+      "product": "Producto",
+      "company": "Empresa",
+      "support": "Soporte",
+      "legal": "Legal"
+    },
+    "links": {
+      "features": "Características",
+      "markets": "Mercados",
+      "pricing": "Precios",
+      "demo": "Cuenta Demo",
+      "about": "Sobre Nosotros",
+      "careers": "Carreras",
+      "press": "Prensa",
+      "news": "Noticias",
+      "help": "Centro de Ayuda",
+      "contact": "Contáctanos",
+      "community": "Comunidad",
+      "status": "Estado",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Política de Cookies",
+      "licenses": "Licencias"
+    },
+    "copyright": "© {year} QuantumAI. Todos los derechos reservados.",
+    "bottomLinks": {
+      "terms": "Términos",
+      "privacy": "Privacidad",
+      "cookies": "Cookies"
+    }
+  }
+} 

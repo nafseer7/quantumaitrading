@@ -1,6 +1,13 @@
-import { redirect } from 'next/navigation';
 import type { Metadata } from 'next';
 import Hero from '@/components/Hero';
+import Features from '@/components/Features';
+import Support from '@/components/Support';
+import Testimonials from '@/components/Testimonials';
+import Advantages from '@/components/Advantages';
+import FAQ from '@/components/FAQ';
+import Navbar from '@/components/Navbar';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: "Quantum AI ™️ - Official Website for Quantum Trading [UPDATED 2025]",
@@ -20,9 +27,16 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  return (
-    <main>
-      <Hero />
-    </main>
-  );
+    return (
+        <main className="min-h-screen bg-[#0A1628]">
+            <Header />
+            <Hero />
+            <Features />
+            <Advantages />
+            <Support />
+            <Testimonials />
+            <FAQ />
+            <Footer />
+        </main>
+    );
 } 
