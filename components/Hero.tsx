@@ -34,7 +34,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="max-w-[1280px] w-full mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-[1280px] w-full mx-auto pt-5 mt-3 px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-10 lg:gap-16 items-start">
           <motion.div
             initial="initial"
