@@ -1,0 +1,857 @@
+{
+    "navigation": {
+        "home": "Strona Główna",
+        "features": "Funkcje",
+        "markets": "Rynki",
+        "testimonials": "Opinie",
+        "faq": "FAQ"
+    },
+    "header": {
+        "login": "Zaloguj się",
+        "getStarted": "Rozpocznij",
+        "selectLanguage": "Wybierz język"
+    },
+    "hero": {
+        "title": "Quantum AI - Nowa Era Handlu Napędzanego Sztuczną Inteligencją",
+        "description": "Wejdź w przyszłość handlu z Quantum AI – Twoją bramą do inteligentniejszych, szybszych i bardziej precyzyjnych decyzji rynkowych. Wykorzystaj najnowszą technologię AI, aby zoptymalizować transakcje, zminimalizować ryzyko i zmaksymalizować potencjalne zyski jak nigdy dotąd.",
+        "rating": "Ocenione na 4,8 gwiazdki przez ponad 9 150 użytkowników",
+        "trustedBy": "Zaufane przez liderów branży",
+        "formTitle": "Rozpocznij handel teraz",
+        "form": {
+            "firstName": "Imię",
+            "lastName": "Nazwisko",
+            "email": "Adres e-mail",
+            "phone": "Numer telefonu",
+            "submit": "Utwórz darmowe konto",
+            "terms": "Rejestrując się, akceptujesz nasze",
+            "termsLink": "Warunki użytkowania",
+            "and": "oraz",
+            "privacyLink": "Politykę prywatności"
+        }
+    },
+    "features": {
+        "title": "ŁATWY START",
+        "subtitle": "Niezawodność. Prostota. Szybkość.",
+        "steps": {
+            "join": {
+                "title": "Dołącz",
+                "description": "Wprowadź swoje dane, aby utworzyć konto. Nasz uproszczony proces zapewnia gotowość do handlu w ciągu kilku minut."
+            },
+            "connect": {
+                "title": "Połącz",
+                "description": "Połącz się z naszą platformą handlową i wykorzystaj moc Quantum AI. Uzyskaj dostęp do potężnych narzędzi i analiz."
+            },
+            "trade": {
+                "title": "Rozpocznij handel",
+                "description": "Rozpocznij inteligentne i zyskowne transakcje na żywo, korzystając z naszej zaawansowanej sztucznej inteligencji."
+            }
+        },
+        "security": "Zaawansowane szyfrowanie chroni Twoje dane przez cały czas.",
+        "page": {
+            "hero": {
+                "title": "Zaawansowane funkcje dla nowoczesnego handlu",
+                "description": "Odkryj potężne funkcje, które czynią Quantum AI najlepszym wyborem dla traderów na całym świecie. Nasza platforma łączy najnowszą technologię z przyjaznym dla użytkownika interfejsem, zapewniając niezrównane doświadczenie handlowe."
+            },
+            "mainFeatures": {
+                "ai": {
+                    "title": "Handel wspomagany przez AI",
+                    "description": "Zaawansowane algorytmy sztucznej inteligencji analizują wzorce rynkowe i przewidują potencjalne możliwości handlowe z niezwykłą dokładnością."
+                },
+                "analysis": {
+                    "title": "Analiza w czasie rzeczywistym",
+                    "description": "Uzyskaj natychmiastowe informacje dzięki naszym kompleksowym narzędziom analizy rynku i zaawansowanym wykresom."
+                },
+                "security": {
+                    "title": "Bezpieczeństwo na poziomie bankowym",
+                    "description": "Twoje aktywa są chronione przez szyfrowanie wojskowe i wielopoziomowe protokoły bezpieczeństwa."
+                }
+            },
+            "additionalFeatures": {
+                "title": "Wszystko, czego potrzebujesz do sukcesu",
+                "subtitle": "Potężne narzędzia i funkcje, które poprawią Twoje doświadczenie handlowe",
+                "realtime": {
+                    "title": "Handel w czasie rzeczywistym",
+                    "description": "Natychmiast wykonuj transakcje dzięki naszej wysokowydajnej platformie handlowej."
+                },
+                "portfolio": {
+                    "title": "Zarządzanie portfelem",
+                    "description": "Śledź i zarządzaj swoimi inwestycjami za pomocą zaawansowanych narzędzi."
+                },
+                "security": {
+                    "title": "Zwiększone bezpieczeństwo",
+                    "description": "Wieloskładnikowe uwierzytelnianie i zaawansowana ochrona przed oszustwami."
+                },
+                "mobile": {
+                    "title": "Handel mobilny",
+                    "description": "Handluj gdziekolwiek i kiedykolwiek dzięki naszej potężnej aplikacji mobilnej."
+                },
+                "global": {
+                    "title": "Rynki globalne",
+                    "description": "Uzyskaj dostęp do rynków na całym świecie dzięki 24/7 możliwościom handlu."
+                },
+                "support": {
+                    "title": "Wsparcie ekspertów",
+                    "description": "Uzyskaj pomoc od naszego zespołu ekspertów handlowych, kiedy tylko jej potrzebujesz."
+                }
+            },
+            "cta": {
+                "title": "Gotowy do rozpoczęcia handlu?",
+                "description": "Dołącz do tysięcy zadowolonych traderów, którzy już odkryli moc Quantum AI.",
+                "button": "Rozpocznij teraz"
+            }
+        }
+    },
+    "advantages": {
+        "title": "WHAT SETS US APART",
+        "subtitle": "Advance Your Trading Strategy with Quantum AI",
+        "items": {
+            "interface": {
+                "title": "User-Friendly Interface",
+                "description": "Experience effortless trading with our Quantum AI platform, designed for simplicity and ease. Navigate trading decisions smoothly without the usual complexity."
+            },
+            "automated": {
+                "title": "Automated Trading System",
+                "description": "Set it and forget it with Quantum AI's trading bots. Automate your trades and enjoy more profits with less stress."
+            },
+            "secure": {
+                "title": "Trusted Trading Space",
+                "description": "Our platform is engineered for maximum security, providing a safe and reliable trading environment for all users."
+            },
+            "expert": {
+                "title": "Expert-Designed Strategies",
+                "description": "Quantum AI brings you meticulously developed trading strategies, equipping you to trade like a seasoned professional."
+            },
+            "demo": {
+                "title": "Risk-Free Demo Mode",
+                "description": "Curious about our trading robot but not ready to commit? Our Free Demo Mode offers a comprehensive trial, allowing you to explore and learn risk-free."
+            },
+            "security": {
+                "title": "Top-Level Security",
+                "description": "The Quantum AI app has been rigorously tested and verified by industry leaders. Rest assured, your funds are securely managed by our top-tier AI trading algorithm."
+            }
+        }
+    },
+    "support": {
+        "tagline": "ZAWSZE DO TWOJEJ DYSPOZYCJI",
+        "title": "Całodobowa pomoc ekspertów",
+        "subtitle": "Pomoc ekspertów dostępna 24/7",
+        "features": {
+            "availability": {
+                "title": "Dostępne w każdym planie i usłudze",
+                "description": "Zapewniamy wszystkim naszym subskrybentom, niezależnie od wybranego planu, nieprzerwany dostęp do naszego zespołu wsparcia — dostępnego 24/7, przez cały rok."
+            },
+            "satisfaction": {
+                "title": "Niezwykłe poziomy satysfakcji",
+                "description": "Dzięki 97% poziomowi satysfakcji klientów, zawsze jesteśmy tu dla Ciebie, dążąc do doskonałości i osiągając jak najbliżej 100% satysfakcji."
+            },
+            "multilingual": {
+                "title": "Wsparcie w wielu językach",
+                "description": "Quantum AI dostosowuje się do Twoich preferencji językowych, oferując wsparcie w języku angielskim, hiszpańskim, francuskim, niderlandzkim i włoskim. Możesz dowolnie przełączać języki według własnych upodobań."
+            }
+        },
+        "image": {
+            "alt": "Zespół wsparcia"
+        }
+    },
+    "testimonials": {
+        "tagline": "OPINIE",
+        "title": "OPINIE",
+        "subtitle": "Zaufane przez traderów na całym świecie",
+        "page": {
+            "hero": {
+                "title": "Co mówią nasi traderzy",
+                "description": "Dołącz do tysięcy zadowolonych traderów, którzy zmienili swoją drogę handlową dzięki Quantum AI. Przeczytaj ich historie sukcesu i doświadczenia."
+            },
+            "stats": {
+                "title": "Zaufanie i uznanie",
+                "traders": {
+                    "value": "50K+",
+                    "label": "Aktywni traderzy"
+                },
+                "countries": {
+                    "value": "150+",
+                    "label": "Kraje"
+                },
+                "rating": {
+                    "value": "4.8/5",
+                    "label": "Średnia ocena"
+                },
+                "volume": {
+                    "value": "$2B+",
+                    "label": "Miesięczny wolumen"
+                }
+            },
+            "featured": {
+                "title": "Polecane historie sukcesu",
+                "subtitle": "Odkryj, jak traderzy osiągają swoje cele z Quantum AI",
+                "testimonials": {
+                    "1": {
+                        "name": "Sarah Johnson",
+                        "role": "Profesjonalny trader",
+                        "location": "Londyn, Wielka Brytania",
+                        "image": "/testimonials/sarah.jpg",
+                        "content": "Quantum AI całkowicie zrewolucjonizowało moją strategię handlową. Wspomagane przez AI analizy pomogły mi zidentyfikować okazje, które mogłabym przeoczyć. Mój portfel wzrósł o 40% od czasu rozpoczęcia korzystania z platformy.",
+                        "rating": 5,
+                        "tag1": "Akcje",
+                        "tag2": "Handel AI",
+                        "tagCount": 2
+                    },
+                    "2": {
+                        "name": "Michael Chen",
+                        "role": "Entuzjasta kryptowalut",
+                        "location": "Singapur",
+                        "image": "/testimonials/michael.jpg",
+                        "content": "Rynki kryptowalut działają 24/7, podobnie jak Quantum AI. Funkcje automatycznego handlu i alerty w czasie rzeczywistym pozwoliły mi wykorzystać każdą okazję. Wyjątkowa platforma!",
+                        "rating": 5,
+                        "tag1": "Krypto",
+                        "tag2": "Handel automatyczny",
+                        "tagCount": 2
+                    },
+                    "3": {
+                        "name": "David Miller",
+                        "role": "Trader Forex",
+                        "location": "Nowy Jork, USA",
+                        "image": "/testimonials/david.jpg",
+                        "content": "Jako trader forex, precyzja i czas są kluczowe. Inteligentne wykonanie transakcji i brak poślizgu w Quantum AI dały mi znaczną przewagę na rynku. Narzędzia zarządzania ryzykiem są szczególnie imponujące.",
+                        "rating": 5,
+                        "tag1": "Forex",
+                        "tag2": "Zarządzanie ryzykiem",
+                        "tagCount": 2
+                    },
+                    "4": {
+                        "name": "Emma Thompson",
+                        "role": "Doradca inwestycyjny",
+                        "location": "Sydney, Australia",
+                        "image": "/testimonials/emma.jpg",
+                        "content": "Polecam Quantum AI wszystkim moim klientom. Przyjazny interfejs w połączeniu z zaawansowanymi narzędziami handlowymi sprawia, że platforma jest idealna zarówno dla początkujących, jak i doświadczonych traderów.",
+                        "rating": 5,
+                        "tag1": "Inwestycje",
+                        "tag2": "Doświadczenie użytkownika",
+                        "tagCount": 2
+                    }
+                }
+            },
+            "reviews": {
+                "title": "Ostatnie recenzje",
+                "subtitle": "Przeczytaj, co mówi nasza społeczność",
+                "items": {
+                    "1": {
+                        "name": "Alex Rivera",
+                        "date": "2 dni temu",
+                        "content": "Narzędzia analizy technicznej są na najwyższym poziomie. Szczególnie podoba mi się funkcja niestandardowych wskaźników.",
+                        "rating": 5
+                    },
+                    "2": {
+                        "name": "Sophie Martin",
+                        "date": "1 tydzień temu",
+                        "content": "Obsługa klienta jest niezwykle responsywna i pomocna. Pomogli mi skonfigurować moją pierwszą automatyczną strategię.",
+                        "rating": 5
+                    },
+                    "3": {
+                        "name": "James Wilson",
+                        "date": "2 tygodnie temu",
+                        "content": "Aplikacja mobilna jest fantastyczna! Mogę monitorować moje transakcje i otrzymywać alerty w dowolnym miejscu.",
+                        "rating": 4
+                    },
+                    "4": {
+                        "name": "Lisa Anderson",
+                        "date": "3 tygodnie temu",
+                        "content": "Prognozy AI są niezwykle trafne. To jak posiadanie profesjonalnego analityka u boku.",
+                        "rating": 5
+                    },
+                    "5": {
+                        "name": "Robert Kim",
+                        "date": "1 miesiąc temu",
+                        "content": "Świetna platforma zarówno dla day tradingu, jak i długoterminowych strategii inwestycyjnych.",
+                        "rating": 5
+                    },
+                    "6": {
+                        "name": "Maria Garcia",
+                        "date": "1 miesiąc temu",
+                        "content": "Funkcja konta demo pomogła mi przećwiczyć i zbudować pewność siebie przed handlem prawdziwymi pieniędzmi.",
+                        "rating": 5
+                    }
+                }
+            },
+            "cta": {
+                "title": "Dołącz do naszej rosnącej społeczności",
+                "description": "Rozpocznij swoją historię sukcesu z Quantum AI już dziś. Dołącz do tysięcy zadowolonych traderów na całym świecie.",
+                "button": "Rozpocznij handel teraz",
+                "demo": "Wypróbuj konto demo"
+            }
+        }
+    },
+    "faq": {
+        "title": "FAQ",
+        "subtitle": "Najczęściej zadawane pytania",
+        "page": {
+            "hero": {
+                "title": "Jak możemy Ci pomóc?",
+                "description": "Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące platformy handlowej Quantum AI. Nie możesz znaleźć tego, czego szukasz? Skontaktuj się z naszym zespołem wsparcia."
+            },
+            "categories": {
+                "general": {
+                    "title": "Ogólne pytania",
+                    "items": {
+                        "1": {
+                            "question": "Czym jest platforma handlowa Quantum AI?",
+                            "answer": "Quantum AI to zaawansowana platforma handlowa, która łączy sztuczną inteligencję z wyrafinowanymi algorytmami handlowymi. Nasza platforma analizuje dane rynkowe w czasie rzeczywistym, aby identyfikować potencjalne możliwości handlowe i pomagać traderom w podejmowaniu świadomych decyzji."
+                        },
+                        "2": {
+                            "question": "Jak mogę rozpocząć korzystanie z Quantum AI?",
+                            "answer": "Rozpoczęcie jest proste: 1) Załóż darmowe konto, 2) Ukończ proces weryfikacji, 3) Zasil swoje konto i 4) Zacznij handlować. Nasza platforma oferuje konto demo, które pozwala na praktykę przed handlem prawdziwymi pieniędzmi."
+                        },
+                        "3": {
+                            "question": "Czy Quantum AI nadaje się dla początkujących?",
+                            "answer": "Tak! Quantum AI jest przeznaczone dla traderów na każdym poziomie zaawansowania. Oferujemy kompleksowe materiały edukacyjne, przyjazny interfejs użytkownika oraz konto demo, które pomaga początkującym nauczyć się i przećwiczyć strategie handlowe."
+                        }
+                    }
+                },
+                "trading": {
+                    "title": "Handel i rynki",
+                    "items": {
+                        "1": {
+                            "question": "Na jakich rynkach mogę handlować na Quantum AI?",
+                            "answer": "Quantum AI zapewnia dostęp do szerokiej gamy rynków, w tym akcji, kryptowalut, forex i surowców. Nasza platforma obsługuje handel na głównych światowych rynkach z danymi i analizami w czasie rzeczywistym."
+                        },
+                        "2": {
+                            "question": "Jakie są godziny handlu?",
+                            "answer": "Godziny handlu różnią się w zależności od rynku. Handel kryptowalutami jest dostępny 24/7, podczas gdy akcje podlegają godzinom otwarcia odpowiednich giełd. Handel na rynku Forex jest dostępny 24/5, od niedzieli wieczorem do piątku po południu czasu EST."
+                        },
+                        "3": {
+                            "question": "Jakie narzędzia handlowe są dostępne?",
+                            "answer": "Nasza platforma oferuje zaawansowane narzędzia do analizy wykresów, wskaźniki techniczne, analizę rynkową w czasie rzeczywistym, strategie automatycznego handlu, narzędzia zarządzania ryzykiem oraz wgląd w rynek wspomagany przez AI."
+                        }
+                    }
+                },
+                "security": {
+                    "title": "Bezpieczeństwo i wsparcie",
+                    "items": {
+                        "1": {
+                            "question": "Jak bezpieczne jest moje konto?",
+                            "answer": "Stosujemy zabezpieczenia na poziomie bankowym, w tym uwierzytelnianie dwuskładnikowe (2FA), szyfrowanie oraz regularne audyty bezpieczeństwa. Twoje środki są przechowywane na oddzielnych kontach, a my przestrzegamy surowych standardów zgodności regulacyjnej."
+                        },
+                        "2": {
+                            "question": "Jakie opcje wsparcia klienta są dostępne?",
+                            "answer": "Oferujemy wsparcie klienta 24/7 za pośrednictwem czatu na żywo, e-maila i telefonu. Nasz zespół wsparcia mówi w wielu językach i może pomóc w problemach technicznych, pytaniach dotyczących konta i strategii handlowych."
+                        },
+                        "3": {
+                            "question": "Jak chronione są dane użytkownika?",
+                            "answer": "Stosujemy zaawansowane protokoły szyfrowania w celu ochrony Twoich danych osobowych i finansowych. Nasza polityka prywatności gwarantuje, że Twoje informacje nie będą udostępniane osobom trzecim bez Twojej zgody."
+                        }
+                    }
+                },
+                "account": {
+                    "title": "Konto i płatności",
+                    "items": {
+                        "1": {
+                            "question": "Jakie metody płatności są akceptowane?",
+                            "answer": "Akceptujemy różne metody płatności, w tym karty kredytowe/debetowe, przelewy bankowe oraz popularne portfele elektroniczne. Obsługujemy również wpłaty kryptowalutowe dla wybranych walut."
+                        },
+                        "2": {
+                            "question": "Jakie są minimalne wymagania dotyczące depozytu?",
+                            "answer": "Minimalny depozyt zależy od rodzaju konta i zaczyna się od 250 USD dla kont standardowych. Konta demo są dostępne za darmo, aby umożliwić praktykę handlową."
+                        },
+                        "3": {
+                            "question": "Jak długo trwa przetwarzanie wypłaty?",
+                            "answer": "Czas przetwarzania wypłat zależy od metody płatności: portfele elektroniczne (24 godziny), karty kredytowe (2-5 dni roboczych), przelewy bankowe (3-7 dni roboczych). Wypłaty kryptowalut są zazwyczaj przetwarzane w ciągu 1 godziny."
+                        }
+                    }
+                }
+            },
+            "cta": {
+                "title": "Masz jeszcze pytania?",
+                "description": "Nasz zespół wsparcia jest dostępny 24/7, aby Ci pomóc",
+                "button": "Skontaktuj się z pomocą techniczną",
+                "demo": "Wypróbuj konto demo"
+            }
+        }
+    },
+    "footer": {
+        "description": "Doświadcz przyszłości handlu dzięki naszej zaawansowanej platformie opartej na sztucznej inteligencji. Dołącz do tysięcy odnoszących sukcesy traderów na całym świecie.",
+        "categories": {
+            "product": "Produkt",
+            "company": "Firma",
+            "support": "Wsparcie",
+            "legal": "Prawne"
+        },
+        "links": {
+            "features": "Funkcje",
+            "markets": "Rynki",
+            "pricing": "Cennik",
+            "demo": "Konto Demo",
+            "about": "O Nas",
+            "careers": "Kariera",
+            "press": "Prasa",
+            "news": "Aktualności",
+            "help": "Centrum Pomocy",
+            "contact": "Kontakt",
+            "community": "Społeczność",
+            "status": "Status",
+            "privacy": "Polityka Prywatności",
+            "terms": "Regulamin",
+            "cookies": "Polityka Cookies",
+            "licenses": "Licencje"
+        },
+        "copyright": "© {year} QuantumAI. Wszelkie prawa zastrzeżone.",
+        "bottomLinks": {
+            "terms": "Regulamin",
+            "privacy": "Prywatność",
+            "cookies": "Cookies"
+        }
+    },
+    "markets": {
+        "page": {
+            "hero": {
+                "title": "Globalne Rynki na Wyciągnięcie Ręki",
+                "description": "Uzyskaj dostęp do świata możliwości handlowych na akcjach, kryptowalutach, forex, surowcach i nie tylko. Nasza platforma oparta na sztucznej inteligencji zapewnia analizy i wgląd w czasie rzeczywistym, umożliwiając podejmowanie świadomych decyzji inwestycyjnych."
+            },
+            "mainMarkets": {
+                "title": "Polecane Rynki",
+                "subtitle": "Odkryj nasze najpopularniejsze rynki handlowe",
+                "stocks": {
+                    "title": "Globalne Akcje",
+                    "description": "Handluj akcjami największych światowych firm dzięki analizom AI i rynkowym danym w czasie rzeczywistym.",
+                    "feature1": "Akcje USA",
+                    "feature2": "Rynki Europejskie",
+                    "feature3": "Rynki Azjatyckie",
+                    "feature4": "Handel Przedrynkowy"
+                },
+                "crypto": {
+                    "title": "Kryptowaluty",
+                    "description": "Dostęp do rynków kryptowalut 24/7 z zaawansowanymi narzędziami handlowymi i natychmiastową realizacją transakcji.",
+                    "feature1": "Bitcoin",
+                    "feature2": "Ethereum",
+                    "feature3": "Tokeny DeFi",
+                    "feature4": "Wschodzące Altcoiny"
+                },
+                "forex": {
+                    "title": "Handel na Rynku Forex",
+                    "description": "Handluj głównymi, mniejszymi i egzotycznymi parami walutowymi z konkurencyjnymi spreadami i analizą ekspertów.",
+                    "feature1": "Główne Pary Walutowe",
+                    "feature2": "Mniejsze Pary Walutowe",
+                    "feature3": "Rynki Wschodzące",
+                    "feature4": "Metale Szlachetne"
+                }
+            },
+            "marketFeatures": {
+                "title": "Zaawansowane Funkcje Handlowe",
+                "subtitle": "Wszystko, czego potrzebujesz do skutecznego handlu",
+                "analysis": {
+                    "title": "Analiza Techniczna",
+                    "description": "Zaawansowane narzędzia do wykresów z ponad 100 wskaźnikami technicznymi"
+                },
+                "execution": {
+                    "title": "Inteligentna Realizacja",
+                    "description": "Błyskawiczne wykonywanie transakcji bez poślizgu cenowego"
+                },
+                "alerts": {
+                    "title": "Alerty Rynkowe",
+                    "description": "Powiadomienia w czasie rzeczywistym o ruchach rynkowych i okazjach inwestycyjnych"
+                },
+                "research": {
+                    "title": "Badania Rynkowe",
+                    "description": "Dogłębna analiza rynkowa i raporty badawcze"
+                },
+                "automation": {
+                    "title": "Automatyczny Handel",
+                    "description": "Skonfiguruj niestandardowe strategie handlowe dzięki naszym algorytmom AI"
+                },
+                "risk": {
+                    "title": "Zarządzanie Ryzykiem",
+                    "description": "Zaawansowane narzędzia do zarządzania ryzykiem w portfelu"
+                }
+            },
+            "marketStats": {
+                "title": "Statystyki Rynkowe",
+                "subtitle": "Informacje w czasie rzeczywistym o globalnych rynkach",
+                "stats": {
+                    "volume": "Dzienny Wolumen Handlu",
+                    "markets": "Dostępne Rynki",
+                    "execution": "Szybkość Realizacji",
+                    "uptime": "Czas Działania Platformy"
+                },
+                "values": {
+                    "volume": "$5.2B+",
+                    "markets": "2,000+",
+                    "execution": "<0.1s",
+                    "uptime": "99.99%"
+                }
+            },
+            "tradingTools": {
+                "title": "Profesjonalne Narzędzia Handlowe",
+                "subtitle": "Najnowsze narzędzia dla każdego tradera",
+                "items": {
+                    "charts": {
+                        "title": "Zaawansowane Wykresy",
+                        "description": "Wykresy klasy profesjonalnej z możliwością personalizacji i wskaźnikami"
+                    },
+                    "scanner": {
+                        "title": "Skaner Rynku",
+                        "description": "Skanowanie rynku w czasie rzeczywistym w poszukiwaniu okazji inwestycyjnych"
+                    },
+                    "news": {
+                        "title": "Integracja z Wiadomościami",
+                        "description": "Strumień wiadomości na żywo z analizą sentymentu AI"
+                    },
+                    "calendar": {
+                        "title": "Kalendarz Ekonomiczny",
+                        "description": "Pełny harmonogram wydarzeń ekonomicznych i raportów finansowych"
+                    }
+                }
+            },
+            "cta": {
+                "title": "Rozpocznij Handel na Globalnych Rynkach",
+                "description": "Dołącz do tysięcy traderów na całym świecie i uzyskaj dostęp do nieograniczonych możliwości handlowych z Quantum AI.",
+                "button": "Otwórz Konto Handlowe",
+                "demo": "Wypróbuj Konto Demo"
+            }
+        }
+    },
+    "team": {
+        "page": {
+            "hero": {
+                "title": "Poznaj Nasz Globalny Zespół",
+                "description": "Pełni pasji profesjonaliści wspólnie rewolucjonizują doświadczenie handlowe"
+            },
+            "stats": {
+                "title": "Statystyki Zespołu",
+                "employees": "50+ Pracowników",
+                "countries": "12 Krajów",
+                "remote": "100% Zdalnie",
+                "culture": "Jedna Kultura"
+            },
+            "departments": {
+                "leadership": {
+                    "title": "Kadra Kierownicza",
+                    "description": "Kierowanie naszą wizją i strategią",
+                    "members": {
+                        "1": {
+                            "name": "Alexander Chen",
+                            "role": "Dyrektor Generalny",
+                            "bio": "Były dyrektor fintech z ponad 15-letnim doświadczeniem w budowaniu skalowalnych platform handlowych",
+                            "location": "Singapur",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "twitter",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "2": {
+                            "name": "Sofia Rodriguez",
+                            "role": "Dyrektor Technologiczny",
+                            "bio": "Ekspert w technologii HFT i blockchainie",
+                            "location": "Barcelona",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "github",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "3": {
+                            "name": "Marcus Thompson",
+                            "role": "Dyrektor ds. Produktu",
+                            "bio": "Strateg produktowy koncentrujący się na projektowaniu zorientowanym na użytkownika i innowacjach w fintechu",
+                            "location": "Londyn",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "twitter",
+                                    "url": "#"
+                                }
+                            }
+                        }
+                    }
+                },
+                "engineering": {
+                    "title": "Dział Inżynierii",
+                    "description": "Budowanie przyszłości technologii handlowych",
+                    "members": {
+                        "1": {
+                            "name": "Yuki Tanaka",
+                            "role": "Starszy Inżynier Backendowy",
+                            "bio": "Ekspert ds. systemów rozproszonych, koncentrujący się na wysokowydajnych silnikach handlowych",
+                            "location": "Tokio",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "github",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "2": {
+                            "name": "Elena Popov",
+                            "role": "Lider Zespołu Frontendowego",
+                            "bio": "Specjalistka React tworząca intuicyjne interfejsy handlowe",
+                            "location": "Berlin",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "github",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "dribbble",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "3": {
+                            "name": "Raj Patel",
+                            "role": "Inżynier Bezpieczeństwa",
+                            "bio": "Ekspert ds. cyberbezpieczeństwa zapewniający bezpieczne operacje handlowe",
+                            "location": "Mumbaj",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "github",
+                                    "url": "#"
+                                }
+                            }
+                        }
+                    }
+                },
+                "product": {
+                    "title": "Produkt i Projektowanie",
+                    "description": "Tworzenie płynnych doświadczeń użytkownika",
+                    "members": {
+                        "1": {
+                            "name": "Isabella Costa",
+                            "role": "Menedżer Produktu",
+                            "bio": "Doświadczona w budowaniu produktów handlowych zorientowanych na użytkownika",
+                            "location": "São Paulo",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "medium",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "2": {
+                            "name": "Lucas Weber",
+                            "role": "Lider Badań UX",
+                            "bio": "Prowadzenie badań użytkowników w celu optymalizacji procesów handlowych",
+                            "location": "Amsterdam",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "medium",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "3": {
+                            "name": "Zara Mitchell",
+                            "role": "Starszy Projektant UI",
+                            "bio": "Tworzenie pięknych i funkcjonalnych interfejsów handlowych",
+                            "location": "Sydney",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "dribbble",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "behance",
+                                    "url": "#"
+                                }
+                            }
+                        }
+                    }
+                },
+                "marketing": {
+                    "title": "Marketing i Rozwój",
+                    "description": "Rozszerzanie naszej globalnej obecności",
+                    "members": {
+                        "1": {
+                            "name": "Pierre Dubois",
+                            "role": "Dyrektor ds. Marketingu",
+                            "bio": "Strategiczny marketer z doświadczeniem na globalnych rynkach fintech",
+                            "location": "Paryż",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "twitter",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "2": {
+                            "name": "Sarah O'Connor",
+                            "role": "Lider Strategii Treści",
+                            "bio": "Tworzenie edukacyjnych treści dla traderów na całym świecie",
+                            "location": "Dublin",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "medium",
+                                    "url": "#"
+                                }
+                            }
+                        },
+                        "3": {
+                            "name": "Mohammed Al-Rashid",
+                            "role": "Menedżer ds. Rozwoju",
+                            "bio": "Realizacja strategii pozyskiwania i utrzymywania użytkowników",
+                            "location": "Dubaj",
+                            "links": {
+                                "count": 2,
+                                "link1": {
+                                    "type": "linkedin",
+                                    "url": "#"
+                                },
+                                "link2": {
+                                    "type": "twitter",
+                                    "url": "#"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "joinUs": {
+                "title": "Dołącz do Naszego Zespołu",
+                "description": "Zawsze szukamy utalentowanych osób, które dołączą do naszej misji",
+                "button": "Zobacz Oferty Pracy",
+                "culture": "Dowiedz się więcej o naszej kulturze"
+            }
+        }
+    },
+    "auth": {
+        "signup": {
+            "title": "Rozpocznij Swoją Podróż Tradingową",
+            "subtitle": "Dołącz do tysięcy udanych traderów na Quantum AI",
+            "benefits": {
+                "title": "Dlaczego Warto Wybrać Quantum AI?",
+                "items": {
+                    "ai": {
+                        "title": "Trading Wspomagany przez AI",
+                        "description": "Uzyskaj dostęp do najnowocześniejszej sztucznej inteligencji dla mądrzejszych decyzji inwestycyjnych"
+                    },
+                    "security": {
+                        "title": "Bezpieczeństwo na Poziomie Bankowym",
+                        "description": "Twoje środki i dane są chronione szyfrowaniem klasy wojskowej"
+                    },
+                    "support": {
+                        "title": "Wsparcie Ekspertów 24/7",
+                        "description": "Uzyskaj pomoc w każdej chwili od naszego doświadczonego zespołu"
+                    }
+                }
+            },
+            "form": {
+                "title": "Utwórz Konto",
+                "firstName": {
+                    "label": "Imię",
+                    "placeholder": "Wpisz swoje imię"
+                },
+                "lastName": {
+                    "label": "Nazwisko",
+                    "placeholder": "Wpisz swoje nazwisko"
+                },
+                "email": {
+                    "label": "Adres E-mail",
+                    "placeholder": "Wpisz swój adres e-mail"
+                },
+                "phone": {
+                    "label": "Numer Telefonu",
+                    "placeholder": "Wpisz swój numer telefonu"
+                },
+                "password": {
+                    "label": "Hasło",
+                    "placeholder": "Wybierz silne hasło"
+                },
+                "confirmPassword": {
+                    "label": "Potwierdź Hasło",
+                    "placeholder": "Potwierdź swoje hasło"
+                },
+                "submit": "Utwórz Konto",
+                "terms": "Rejestrując się, akceptujesz nasze",
+                "termsLink": "Warunki korzystania",
+                "and": "oraz",
+                "privacyLink": "Politykę prywatności",
+                "loginPrompt": "Masz już konto?",
+                "loginLink": "Zaloguj się"
+            }
+        },
+        "signin": {
+            "title": "Witamy Ponownie",
+            "subtitle": "Uzyskaj dostęp do swojego konta Quantum AI",
+            "form": {
+                "title": "Zaloguj Się na Swoje Konto",
+                "email": {
+                    "label": "Adres E-mail",
+                    "placeholder": "Wpisz swój adres e-mail"
+                },
+                "password": {
+                    "label": "Hasło",
+                    "placeholder": "Wpisz swoje hasło"
+                },
+                "rememberMe": "Zapamiętaj mnie",
+                "forgotPassword": "Zapomniałeś hasła?",
+                "submit": "Zaloguj się",
+                "signupPrompt": "Nie masz konta?",
+                "signupLink": "Zarejestruj się",
+                "demo": "Wypróbuj Konto Demo"
+            },
+            "features": {
+                "title": "Korzyści z Konta",
+                "items": {
+                    "markets": {
+                        "title": "Globalne Rynki",
+                        "description": "Handluj akcjami, kryptowalutami, forex i więcej"
+                    },
+                    "analysis": {
+                        "title": "Zaawansowana Analiza",
+                        "description": "Uzyskaj dostęp do profesjonalnych narzędzi analitycznych i wglądów"
+                    },
+                    "portfolio": {
+                        "title": "Zarządzanie Portfelem",
+                        "description": "Śledź i optymalizuj swoje inwestycje"
+                    }
+                }
+            }
+        }
+    }
+}

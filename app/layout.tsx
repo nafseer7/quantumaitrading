@@ -145,6 +145,7 @@ export const metadata: Metadata = {
       'pt': '/pt',
       'zh': '/zh',
       'nl': '/nl',
+      'pl': '/pl',
     }
   },
   openGraph: {
