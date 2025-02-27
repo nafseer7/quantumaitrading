@@ -375,6 +375,7 @@
       "markets": "Mercati",
       "pricing": "Prezzi",
       "demo": "Account Demo",
+      "elon-musk": "Esplorando i veri legami tra Elon Musk e Quantum AI",
       "about": "Chi Siamo",
       "careers": "Carriere",
       "press": "Stampa",
@@ -387,6 +388,14 @@
       "terms": "Termini di Servizio",
       "cookies": "Politica sui Cookie",
       "licenses": "Licenze"
+    },
+    "disclaimer": {
+      "warning": "Avviso di rischio:",
+      "risk": "Il trading comporta un rischio significativo di perdita. Circa il 70% degli investitori potrebbe subire perdite.",
+      "marketing": "\"Quantum AI\" è un termine di marketing e non rappresenta entità specifiche. I nostri contenuti promozionali, inclusi i video, presentano attori piuttosto che utenti reali.",
+      "terms": "Si consiglia di esaminare attentamente i Termini e Condizioni e le Dichiarazioni di responsabilità di qualsiasi piattaforma di trading. Considera i tuoi obblighi fiscali, in particolare per quanto riguarda le plusvalenze.",
+      "regulations": "Nota: Negli Stati Uniti, il trading di opzioni su materie prime è limitato alle borse approvate dalla CFTC o a esenzioni legali. I residenti nel Regno Unito sono soggetti alla politica FCA PS20/10 sui CFD.",
+      "consent": "Utilizzando il nostro servizio, acconsenti alla condivisione delle tue informazioni con servizi di trading di terze parti come indicato nella nostra Informativa sulla privacy. Puoi scegliere tra trading automatizzato, broker umani o trading indipendente."
     },
     "copyright": "© {year} QuantumAI. Tutti i diritti riservati.",
     "bottomLinks": {

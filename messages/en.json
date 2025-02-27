@@ -380,6 +380,7 @@
       "markets": "Markets",
       "pricing": "Pricing",
       "demo": "Demo Account",
+      "elon-musk": "Exploring the Actual Ties Between Elon Musk and Quantum AI",
       "about": "About Us",
       "careers": "Careers",
       "press": "Press",
@@ -392,6 +393,14 @@
       "terms": "Terms of Service",
       "cookies": "Cookie Policy",
       "licenses": "Licenses"
+    },
+    "disclaimer": {
+      "warning": "Risk Warning:",
+      "risk": "Trading involves substantial risk of loss. Approximately 70% of investors may experience losses.",
+      "marketing": "\"Quantum AI\" is a marketing term and doesn't represent specific entities. Our promotional content, including videos, features actors rather than actual users.",
+      "terms": "We recommend carefully reviewing Terms & Conditions and Disclaimers of any trading platforms. Consider your tax obligations, particularly regarding capital gains.",
+      "regulations": "Note: In the US, commodity options trading is restricted to CFTC-approved exchanges or legal exemptions. UK residents are subject to FCA policy PS20/10 regarding CFDs.",
+      "consent": "By using our service, you consent to sharing your information with third-party trading services as per our Privacy Policy. You may choose between automated trading, human brokers, or independent trading."
     },
     "copyright": "© {year} QuantumAI. All rights reserved.",
     "bottomLinks": {
@@ -852,6 +861,36 @@
           }
         }
       }
+    }
+  },
+  "elonMusk": {
+    "title": "Clarifying Quantum AI and Elon Musk",
+    "disclaimer": {
+      "title": "Important Disclaimer",
+      "content": "We want to be absolutely clear: Elon Musk has no connection to Quantum AI's trading software, Quantum AI Ltd, the Quantum AI app, platform, robot, or any of our services. Any claims suggesting otherwise are incorrect."
+    },
+    "sections": {
+      "independent": {
+        "title": "Understanding Quantum AI's Independent Operation",
+        "content": "Quantum AI operates as an autonomous entity, delivering specialized services for the financial market. Our suite includes advanced trading software, a comprehensive platform, a user-friendly application, and an automated trading system. We integrate cutting-edge quantum computing technology in our trading system, marking a significant leap forward in automated trading capabilities."
+      },
+      "platform": {
+        "title": "Quantum AI Platform Features",
+        "content": "Our trading software distinguishes itself through its effectiveness and transformative impact on trading dynamics. The platform enables traders to customize their settings, while our AI-driven bot operates within these parameters, revolutionizing traditional trading approaches. We've successfully addressed and overcome various challenges to establish our legitimacy in the market."
+      },
+      "muskVentures": {
+        "title": "Elon Musk's Actual AI Ventures",
+        "content": "While Elon Musk has no association with Quantum AI, his genuine interest in artificial intelligence is noteworthy. As the innovator behind Tesla and SpaceX, Musk advocates for responsible AI development, particularly through his work with OpenAI and Tesla's AI initiatives."
+      },
+      "security": {
+        "title": "Security and Regulation",
+        "content": "We emphasize the importance of working with regulated brokers to ensure security and trustworthiness in financial trading. This principle guides our operations at Quantum AI, where we maintain strict compliance with regulatory standards."
+      }
+    },
+    "cta": {
+      "title": "Start Trading with Quantum AI",
+      "description": "Experience the power of advanced AI-driven trading technology. Create your account today and join thousands of successful traders.",
+      "button": "Get Started Now"
     }
   }
 } 

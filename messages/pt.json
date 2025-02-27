@@ -375,6 +375,7 @@
       "markets": "Mercados",
       "pricing": "Preços",
       "demo": "Conta Demo",
+      "elon-musk": "Explorando os verdadeiros laços entre Elon Musk e Quantum AI",
       "about": "Sobre Nós",
       "careers": "Carreiras",
       "press": "Imprensa",
@@ -387,6 +388,14 @@
       "terms": "Termos de Serviço",
       "cookies": "Política de Cookies",
       "licenses": "Licenças"
+    },
+    "disclaimer": {
+      "warning": "Aviso de Risco:",
+      "risk": "A negociação envolve um risco substancial de perda. Aproximadamente 70% dos investidores podem sofrer perdas.",
+      "marketing": "\"Quantum AI\" é um termo de marketing e não representa entidades específicas. Nosso conteúdo promocional, incluindo vídeos, apresenta atores em vez de usuários reais.",
+      "terms": "Recomendamos revisar cuidadosamente os Termos e Condições e os Avisos Legais de qualquer plataforma de negociação. Considere suas obrigações fiscais, especialmente em relação aos ganhos de capital.",
+      "regulations": "Nota: Nos EUA, a negociação de opções de commodities é limitada a bolsas aprovadas pela CFTC ou isenções legais. Os residentes do Reino Unido estão sujeitos à política PS20/10 da FCA em relação aos CFDs.",
+      "consent": "Ao utilizar nosso serviço, você concorda em compartilhar suas informações com serviços de negociação de terceiros conforme descrito em nossa Política de Privacidade. Você pode escolher entre negociação automatizada, corretores humanos ou negociação independente."
     },
     "copyright": "© {year} QuantumAI. Todos os direitos reservados.",
     "bottomLinks": {
@@ -849,4 +858,4 @@
       }
     }
   }
-} 
+}

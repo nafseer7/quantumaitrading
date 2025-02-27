@@ -380,6 +380,7 @@
             "markets": "Rynki",
             "pricing": "Cennik",
             "demo": "Konto Demo",
+            "elon-musk": "Odkrywanie rzeczywistych powiązań między Elonem Muskiem a Quantum AI",
             "about": "O Nas",
             "careers": "Kariera",
             "press": "Prasa",
@@ -393,6 +394,15 @@
             "cookies": "Polityka Cookies",
             "licenses": "Licencje"
         },
+        "disclaimer": {
+            "warning": "Ostrzeżenie o ryzyku:",
+            "risk": "Handel wiąże się ze znacznym ryzykiem strat. Około 70% inwestorów może ponieść straty.",
+            "marketing": "\"Quantum AI\" to termin marketingowy i nie reprezentuje konkretnych podmiotów. Nasze materiały promocyjne, w tym filmy, zawierają aktorów zamiast rzeczywistych użytkowników.",
+            "terms": "Zalecamy dokładne zapoznanie się z Warunkami i Zastrzeżeniami każdej platformy handlowej. Weź pod uwagę swoje zobowiązania podatkowe, szczególnie w zakresie zysków kapitałowych.",
+            "regulations": "Uwaga: W Stanach Zjednoczonych handel opcjami na towary jest ograniczony do giełd zatwierdzonych przez CFTC lub legalnych wyjątków. Mieszkańcy Wielkiej Brytanii podlegają polityce FCA PS20/10 dotyczącej kontraktów CFD.",
+            "consent": "Korzystając z naszej usługi, wyrażasz zgodę na udostępnianie swoich informacji zewnętrznym usługom handlowym zgodnie z naszą Polityką Prywatności. Możesz wybrać między handlem automatycznym, brokerami ludzkimi lub samodzielnym handlem."
+        },
+        
         "copyright": "© {year} QuantumAI. Wszelkie prawa zastrzeżone.",
         "bottomLinks": {
             "terms": "Regulamin",

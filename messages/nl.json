@@ -375,6 +375,7 @@
       "markets": "Markten",
       "pricing": "Prijzen",
       "demo": "Demo Account",
+      "elon-musk": "De werkelijke banden tussen Elon Musk en Quantum AI verkennen",
       "about": "Over Ons",
       "careers": "Carrières",
       "press": "Pers",
@@ -387,6 +388,14 @@
       "terms": "Servicevoorwaarden",
       "cookies": "Cookiebeleid",
       "licenses": "Licenties"
+    },
+    "disclaimer": {
+      "warning": "Risicowaarschuwing:",
+      "risk": "Handelen brengt een aanzienlijk risico op verlies met zich mee. Ongeveer 70% van de investeerders kan verliezen lijden.",
+      "marketing": "\"Quantum AI\" is een marketingterm en vertegenwoordigt geen specifieke entiteiten. Onze promotionele inhoud, inclusief video's, bevat acteurs in plaats van echte gebruikers.",
+      "terms": "Wij raden aan om de Algemene Voorwaarden en de Disclaimer van elk handelsplatform zorgvuldig te bekijken. Houd rekening met uw fiscale verplichtingen, vooral met betrekking tot vermogenswinsten.",
+      "regulations": "Let op: In de VS is handel in grondstoffenopties beperkt tot door de CFTC goedgekeurde beurzen of wettelijke uitzonderingen. Inwoners van het VK vallen onder FCA-beleid PS20/10 met betrekking tot CFD’s.",
+      "consent": "Door onze service te gebruiken, stemt u ermee in uw informatie te delen met derde partijen voor handelsdiensten zoals beschreven in ons Privacybeleid. U kunt kiezen tussen geautomatiseerde handel, menselijke makelaars of zelfstandig handelen."
     },
     "copyright": "© {year} QuantumAI. Alle rechten voorbehouden.",
     "bottomLinks": {
@@ -849,4 +858,4 @@
       }
     }
   }
-} 
+}

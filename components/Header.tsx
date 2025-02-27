@@ -18,7 +18,6 @@ const navigation = [
 const languages = [
   { code: 'en', name: 'English', href: '/en' },
   { code: 'es', name: 'Español', href: '/es' },
-  { code: 'de', name: 'Deutsch', href: '/de' },
   { code: 'fr', name: 'Français', href: '/fr' },
   { code: 'it', name: 'Italiano', href: '/it' },
   { code: 'pt', name: 'Português', href: '/pt' },

@@ -388,6 +388,14 @@
       "cookies": "Política de Cookies",
       "licenses": "Licencias"
     },
+    "disclaimer": {
+      "warning": "Advertencia de riesgo:",
+      "risk": "El trading conlleva un riesgo significativo de pérdida. Aproximadamente el 70% de los inversores pueden experimentar pérdidas.",
+      "marketing": "\"Quantum AI\" es un término de marketing y no representa entidades específicas. Nuestro contenido promocional, incluidos los videos, presenta actores en lugar de usuarios reales.",
+      "terms": "Recomendamos revisar detenidamente los Términos y Condiciones, así como los Avisos de Descargo de Responsabilidad de cualquier plataforma de trading. Considere sus obligaciones fiscales, especialmente en lo que respecta a las ganancias de capital.",
+      "regulations": "Nota: En EE.UU., el trading de opciones sobre materias primas está restringido a bolsas aprobadas por la CFTC o exenciones legales. Los residentes del Reino Unido están sujetos a la política FCA PS20/10 con respecto a los CFDs.",
+      "consent": "Al utilizar nuestro servicio, acepta compartir su información con servicios de trading de terceros según nuestra Política de Privacidad. Puede elegir entre trading automatizado, corredores humanos o trading independiente."
+    },
     "copyright": "© {year} QuantumAI. Todos los derechos reservados.",
     "bottomLinks": {
       "terms": "Términos",
