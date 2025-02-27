@@ -22,6 +22,7 @@ const socialLinks = [
 
 const Footer = () => {
   const t = useTranslations('footer');
+  const currentYear = new Date().getFullYear();
 
   return (
     <footer className="bg-[#0A1628] border-t border-white/10">
@@ -77,7 +78,7 @@ const Footer = () => {
         <div className="py-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-center md:text-left">
-              {t('copyright').replace('{year}', new Date().getFullYear().toString())}
+              {t('copyright', { year: currentYear })}
             </p>
             <div className="flex items-center gap-8">
               <Link
