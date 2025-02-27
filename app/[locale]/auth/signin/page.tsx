@@ -33,7 +33,7 @@ export default function SignInPage() {
   return (
     <div className="min-h-screen bg-[#0A1628]">
       <Header />
-      
+
       <div className="relative pt-32 pb-20 overflow-hidden">
         {/* Background Gradients */}
         <div className="absolute inset-0 overflow-hidden">
@@ -137,16 +137,17 @@ export default function SignInPage() {
                   </div>
                 </div>
 
-                <div>
-                  <button
+                <div className="flex justify-center">
+                  <Link href="/auth/signup"
                     type="button"
-                    className="w-full px-8 py-4 bg-white/5 border border-white/10 text-white
-                             rounded-xl text-lg font-semibold hover:bg-white/10 transition-all
-                             duration-300 transform hover:scale-[1.02]"
+                    className="text-center w-full max-w-[300px] px-8 py-4 bg-white/5 border border-white/10 text-white
+               rounded-xl text-lg font-semibold hover:bg-white/10 transition-all
+               duration-300 transform hover:scale-[1.02]"
                   >
                     {t('form.demo')}
-                  </button>
+                  </Link>
                 </div>
+
 
                 <div className="border-t border-white/10 pt-6 text-center">
                   <p className="text-gray-400">
