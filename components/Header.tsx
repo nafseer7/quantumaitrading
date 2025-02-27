@@ -25,6 +25,7 @@ const languages = [
   { code: 'zh', name: 'Chinese', href: '/zh' },
   { code: 'nl', name: 'Dutch', href: '/nl' },
   { code: 'pl', name: 'Polish', href: '/pl' },
+  { code: 'ar', name: 'Arabic', href: '/ar' },
 ];
 
 const Header = () => {
