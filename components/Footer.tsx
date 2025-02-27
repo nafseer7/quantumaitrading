@@ -3,32 +3,13 @@
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { Facebook, Twitter, Instagram, Linkedin, Youtube } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 
-const footerLinks = {
-  product: [
-    { name: 'Features', href: '#features' },
-    { name: 'Markets', href: '#markets' },
-    { name: 'Pricing', href: '#pricing' },
-    { name: 'Demo Account', href: '#demo' },
-  ],
-  company: [
-    { name: 'About Us', href: '#about' },
-    { name: 'Careers', href: '#careers' },
-    { name: 'Press', href: '#press' },
-    { name: 'News', href: '#news' },
-  ],
-  support: [
-    { name: 'Help Center', href: '#help' },
-    { name: 'Contact Us', href: '#contact' },
-    { name: 'Community', href: '#community' },
-    { name: 'Status', href: '#status' },
-  ],
-  legal: [
-    { name: 'Privacy Policy', href: '/privacy' },
-    { name: 'Terms of Service', href: '/terms' },
-    { name: 'Cookie Policy', href: '/cookies' },
-    { name: 'Licenses', href: '/licenses' },
-  ],
+const footerLinkKeys = {
+  product: ['features', 'markets', 'pricing', 'demo'],
+  company: ['about', 'careers', 'press', 'news'],
+  support: ['help', 'contact', 'community', 'status'],
+  legal: ['privacy', 'terms', 'cookies', 'licenses']
 };
 
 const socialLinks = [
@@ -40,6 +21,10 @@ const socialLinks = [
 ];
 
 const Footer = () => {
+  const t = useTranslations('footer');
+  const linksT = useTranslations('footer.links');
+  const socialT = useTranslations('footer.social');
+
   return (
     <footer className="bg-[#0A1628] border-t border-white/10">
       <div className="max-w-[1440px] mx-auto px-6 sm:px-8 lg:px-12">
@@ -49,11 +34,11 @@ const Footer = () => {
           <div className="col-span-2 md:col-span-3 lg:col-span-1">
             <Link href="/" className="inline-block mb-6">
               <span className="text-2xl font-bold text-white">
-                Quantum<span className="text-blue-400">AI</span>
+                {t('brand.name.first')}<span className="text-blue-400">{t('brand.name.second')}</span>
               </span>
             </Link>
             <p className="text-gray-400 mb-8 max-w-md">
-              Experience the future of trading with our advanced AI-powered platform. Join thousands of successful traders worldwide.
+              {t('description')}
             </p>
             <div className="flex items-center gap-4">
               {socialLinks.map((social) => (
@@ -61,6 +46,7 @@ const Footer = () => {
                   key={social.name}
                   href={social.href}
                   className="w-10 h-10 rounded-full bg-white/5 hover:bg-blue-500/10 flex items-center justify-center transition-colors group"
+                  aria-label={socialT(`${social.name.toLowerCase()}.aria`)}
                 >
                   <social.icon className="w-5 h-5 text-gray-400 group-hover:text-blue-400 transition-colors" />
                 </Link>
@@ -69,19 +55,19 @@ const Footer = () => {
           </div>
 
           {/* Links Columns */}
-          {Object.entries(footerLinks).map(([category, links]) => (
+          {Object.entries(footerLinkKeys).map(([category, links]) => (
             <div key={category}>
               <h3 className="text-white font-semibold uppercase mb-6">
-                {category}
+                {t(`categories.${category}`)}
               </h3>
               <ul className="space-y-4">
                 {links.map((link) => (
-                  <li key={link.name}>
+                  <li key={link}>
                     <Link
-                      href={link.href}
+                      href={`#${link}`}
                       className="text-gray-400 hover:text-blue-400 transition-colors"
                     >
-                      {link.name}
+                      {linksT(`${category}.${link}`)}
                     </Link>
                   </li>
                 ))}
@@ -94,26 +80,26 @@ const Footer = () => {
         <div className="py-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-center md:text-left">
-              © {new Date().getFullYear()} QuantumAI. All rights reserved.
+              © {new Date().getFullYear()} {t('copyright')}
             </p>
             <div className="flex items-center gap-8">
               <Link
                 href="#terms"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                Terms
+                {t('bottom.terms')}
               </Link>
               <Link
                 href="#privacy"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                Privacy
+                {t('bottom.privacy')}
               </Link>
               <Link
                 href="#cookies"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                Cookies
+                {t('bottom.cookies')}
               </Link>
             </div>
           </div>
