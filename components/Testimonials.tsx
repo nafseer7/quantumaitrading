@@ -2,30 +2,30 @@
 
 import { motion } from 'framer-motion';
 import { User } from 'lucide-react';
+import { useTranslations } from 'next-intl';
 
-const testimonials = [
+const testimonialKeys = [
   {
     id: 1,
-    content: "Quantum AI has revolutionized my trading strategy. The AI-powered insights have helped me make more informed decisions, and the results speak for themselves. The platform's ease of use combined with its sophisticated technology is truly remarkable.",
-    author: "Sarah Chen",
-    position: "Professional Trader",
+    key: '1',
     featured: true
   },
   {
     id: 2,
-    content: "I've been using various trading platforms for years, but none come close to Quantum AI's capabilities. The real-time analytics and predictive modeling have given me a significant edge in the market.",
-    author: "Michael Rodriguez",
-    position: "Investment Analyst"
+    key: '2',
+    featured: false
   },
   {
     id: 3,
-    content: "The customer support team is exceptional. They're always available to help and truly understand the technical aspects of trading. This platform has exceeded all my expectations.",
-    author: "Emma Thompson",
-    position: "Hedge Fund Manager"
+    key: '3',
+    featured: false
   }
 ];
 
 const Testimonials = () => {
+  const t = useTranslations('testimonials');
+  const testimonialsT = useTranslations('testimonials.page.featured.testimonials');
+
   return (
     <section className="py-16 sm:py-24 lg:py-32 bg-gradient-to-b from-[#0d1f35] to-[#0A1628] relative overflow-hidden">
       <div className="absolute inset-0 bg-[url('/wave-pattern.svg')] opacity-5"></div>
@@ -37,14 +37,16 @@ const Testimonials = () => {
           viewport={{ once: true }}
           className="text-center space-y-3 sm:space-y-4 mb-12 sm:mb-16 lg:mb-20"
         >
-          <span className="text-lg sm:text-xl font-medium text-blue-400 tracking-wider block">TESTIMONIALS</span>
+          <span className="text-lg sm:text-xl font-medium text-blue-400 tracking-wider block">
+            {t('tagline')}
+          </span>
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-[1.2]">
-            Trusted by Traders<br className="hidden sm:block" /> Worldwide
+            {t('subtitle')}
           </h2>
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 lg:gap-10">
-          {testimonials.map((testimonial, index) => (
+          {testimonialKeys.map((testimonial, index) => (
             <motion.div
               key={testimonial.id}
               initial={{ opacity: 0, y: 20 }}
@@ -70,7 +72,7 @@ const Testimonials = () => {
                 </div>
 
                 <p className="text-base sm:text-lg lg:text-xl text-gray-300 leading-relaxed">
-                  {testimonial.content}
+                  {testimonialsT(`${testimonial.key}.content`)}
                 </p>
 
                 <div className="flex items-center gap-3 sm:gap-4">
@@ -79,10 +81,10 @@ const Testimonials = () => {
                   </div>
                   <div>
                     <h4 className="text-lg sm:text-xl lg:text-2xl font-bold text-white">
-                      {testimonial.author}
+                      {testimonialsT(`${testimonial.key}.name`)}
                     </h4>
                     <p className="text-sm sm:text-base lg:text-lg text-gray-400">
-                      {testimonial.position}
+                      {testimonialsT(`${testimonial.key}.role`)}
                     </p>
                   </div>
                 </div>
