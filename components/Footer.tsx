@@ -22,8 +22,6 @@ const socialLinks = [
 
 const Footer = () => {
   const t = useTranslations('footer');
-  const linksT = useTranslations('footer.links');
-  const socialT = useTranslations('footer.social');
 
   return (
     <footer className="bg-[#0A1628] border-t border-white/10">
@@ -34,7 +32,7 @@ const Footer = () => {
           <div className="col-span-2 md:col-span-3 lg:col-span-1">
             <Link href="/" className="inline-block mb-6">
               <span className="text-2xl font-bold text-white">
-                {t('brand.name.first')}<span className="text-blue-400">{t('brand.name.second')}</span>
+                Quantum<span className="text-blue-400">AI</span>
               </span>
             </Link>
             <p className="text-gray-400 mb-8 max-w-md">
@@ -46,7 +44,6 @@ const Footer = () => {
                   key={social.name}
                   href={social.href}
                   className="w-10 h-10 rounded-full bg-white/5 hover:bg-blue-500/10 flex items-center justify-center transition-colors group"
-                  aria-label={socialT(`${social.name.toLowerCase()}.aria`)}
                 >
                   <social.icon className="w-5 h-5 text-gray-400 group-hover:text-blue-400 transition-colors" />
                 </Link>
@@ -67,7 +64,7 @@ const Footer = () => {
                       href={`#${link}`}
                       className="text-gray-400 hover:text-blue-400 transition-colors"
                     >
-                      {linksT(`${category}.${link}`)}
+                      {t(`links.${link}`)}
                     </Link>
                   </li>
                 ))}
@@ -80,26 +77,26 @@ const Footer = () => {
         <div className="py-8 border-t border-white/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-center md:text-left">
-              © {new Date().getFullYear()} {t('copyright')}
+              {t('copyright').replace('{year}', new Date().getFullYear().toString())}
             </p>
             <div className="flex items-center gap-8">
               <Link
                 href="#terms"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                {t('bottom.terms')}
+                {t('bottomLinks.terms')}
               </Link>
               <Link
                 href="#privacy"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                {t('bottom.privacy')}
+                {t('bottomLinks.privacy')}
               </Link>
               <Link
                 href="#cookies"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
-                {t('bottom.cookies')}
+                {t('bottomLinks.cookies')}
               </Link>
             </div>
           </div>
