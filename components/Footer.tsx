@@ -29,7 +29,7 @@ const footerLinkKeys = {
     { key: 'privacy', href: '/privacy' },
     { key: 'terms', href: '/terms' },
     { key: 'cookies', href: '/cookies' },
-    { key: 'licenses', href: '/licenses' }
+    // { key: 'licenses', href: '/licenses' }
   ]
 };
 
@@ -121,19 +121,19 @@ const Footer = () => {
             </p>
             <div className="flex items-center gap-8">
               <Link
-                href="/terms-of-service"
+                href="/terms"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
                 {t('bottomLinks.terms')}
               </Link>
               <Link
-                href="/privacy-policy"
+                href="/privacy"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
                 {t('bottomLinks.privacy')}
               </Link>
               <Link
-                href="/cookie-policy"
+                href="/cookies"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
                 {t('bottomLinks.cookies')}
