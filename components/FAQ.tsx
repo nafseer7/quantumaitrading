@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
 import { useTranslations } from 'next-intl';
+import Link from 'next/link';
 
 const faqCategories = [
   { id: 'general', items: ['1', '2', '3'] },
@@ -15,7 +16,7 @@ const faqCategories = [
 const FAQ = () => {
   const [openCategory, setOpenCategory] = useState<string | null>(null);
   const [openQuestion, setOpenQuestion] = useState<string | null>(null);
-  
+
   const t = useTranslations('faq');
   const pageT = useTranslations('faq.page');
   const categoriesT = useTranslations('faq.page.categories');
@@ -23,7 +24,7 @@ const FAQ = () => {
   return (
     <section className="py-16 sm:py-24 lg:py-32 bg-gradient-to-b from-[#0d1f35] to-[#0A1628] relative overflow-hidden">
       <div className="absolute inset-0 bg-[url('/wave-pattern.svg')] opacity-5"></div>
-      
+
       <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-12 relative">
         {/* Hero Section */}
         <motion.div
@@ -98,7 +99,7 @@ const FAQ = () => {
                               <ChevronDown className="w-5 h-5 text-blue-400" />
                             </motion.div>
                           </button>
-                          
+
                           <AnimatePresence>
                             {openQuestion === `${category.id}-${itemId}` && (
                               <motion.div
@@ -138,12 +139,16 @@ const FAQ = () => {
             {pageT('cta.description')}
           </p>
           <div className="flex items-center justify-center gap-4 sm:gap-6">
-            <button className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg transition-colors">
-              {pageT('cta.button')}
-            </button>
-            <button className="px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-lg transition-colors">
-              {pageT('cta.demo')}
-            </button>
+            <Link href="/signup">
+              <button className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg transition-colors">
+                {pageT('cta.button')}
+              </button>
+            </Link>
+            <Link href="/demo">
+              <button className="px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-lg transition-colors">
+                {pageT('cta.demo')}
+              </button>
+            </Link>
           </div>
         </motion.div>
       </div>

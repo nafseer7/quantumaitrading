@@ -9,7 +9,7 @@ const footerLinkKeys = {
   product: [
     { key: 'features', href: '/features' },
     { key: 'markets', href: '/markets' },
-    { key: 'pricing', href: '/pricing' },
+    // { key: 'pricing', href: '/pricing' },
     { key: 'demo', href: '/auth/signup' },
     { key: 'elon-musk', href: '/elon-musk' }
   ],
