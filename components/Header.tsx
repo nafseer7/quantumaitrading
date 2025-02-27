@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { Menu, X, Globe, ChevronDown } from 'lucide-react';
 
 const navigation = [
@@ -15,15 +16,18 @@ const navigation = [
 ];
 
 const languages = [
-  { code: 'en', name: 'English' },
-  { code: 'es', name: 'Español' },
-  { code: 'de', name: 'Deutsch' },
-  { code: 'fr', name: 'Français' },
-  { code: 'it', name: 'Italiano' },
-  { code: 'pt', name: 'Português' },
+  { code: 'en', name: 'English', href: '/en' },
+  { code: 'es', name: 'Español', href: '/es' },
+  { code: 'de', name: 'Deutsch', href: '/de' },
+  { code: 'fr', name: 'Français', href: '/fr' },
+  { code: 'it', name: 'Italiano', href: '/it' },
+  { code: 'pt', name: 'Português', href: '/pt' },
+  { code: 'zh', name: 'Chinese', href: '/zh' },
+  { code: 'nl', name: 'Dutch', href: '/nl' },
 ];
 
 const Header = () => {
+  const pathname = usePathname();
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isLangMenuOpen, setIsLangMenuOpen] = useState(false);
@@ -36,6 +40,19 @@ const Header = () => {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  // Get the current path without the locale to maintain the same page when switching languages
+  const getPathWithoutLocale = () => {
+    if (!pathname) return '/';
+    const parts = pathname.split('/');
+    return parts.length > 2 ? `/${parts.slice(2).join('/')}` : '/';
+  };
+
+  // Function to get the full path for a language
+  const getLanguagePath = (langCode: string) => {
+    const pathWithoutLocale = getPathWithoutLocale();
+    return `/${langCode}${pathWithoutLocale}`;
+  };
 
   return (
     <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
@@ -85,8 +102,9 @@ const Header = () => {
                   >
                     <div className="py-2">
                       {languages.map((lang) => (
-                        <button
+                        <Link
                           key={lang.code}
+                          href={getLanguagePath(lang.code)}
                           onClick={() => {
                             setSelectedLang(lang);
                             setIsLangMenuOpen(false);
@@ -100,7 +118,7 @@ const Header = () => {
                               className="w-2 h-2 rounded-full bg-blue-400"
                             />
                           )}
-                        </button>
+                        </Link>
                       ))}
                     </div>
                   </motion.div>
@@ -162,9 +180,13 @@ const Header = () => {
                   <p className="text-lg text-gray-400 mb-3">Select Language</p>
                   <div className="grid grid-cols-2 gap-2">
                     {languages.map((lang) => (
-                      <button
+                      <Link
                         key={lang.code}
-                        onClick={() => setSelectedLang(lang)}
+                        href={getLanguagePath(lang.code)}
+                        onClick={() => {
+                          setSelectedLang(lang);
+                          setIsMobileMenuOpen(false);
+                        }}
                         className={`px-4 py-3 text-lg rounded-lg transition-colors ${
                           selectedLang.code === lang.code
                             ? 'bg-blue-500 text-white'
@@ -172,7 +194,7 @@ const Header = () => {
                         }`}
                       >
                         {lang.name}
-                      </button>
+                      </Link>
                     ))}
                   </div>
                 </div>
