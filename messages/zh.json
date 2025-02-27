@@ -1,0 +1,857 @@
+{
+  "navigation": {
+    "home": "首页",
+    "features": "功能",
+    "markets": "市场",
+    "testimonials": "用户评价",
+    "faq": "常见问题"
+  },
+  "header": {
+    "login": "登录",
+    "getStarted": "立即开始",
+    "selectLanguage": "选择语言"
+  },
+  "hero": {
+    "title": "Quantum AI - 人工智能驱动的交易新纪元",
+    "description": "借助 Quantum AI 步入交易的未来 — 您通往更智能、更快速、更精准市场决策的门户。利用尖端人工智能技术优化您的交易，将风险降至最低，实现前所未有的潜在收益最大化。",
+    "rating": "超过9,150位用户评分4.8星",
+    "trustedBy": "行业领袖的信赖之选",
+    "formTitle": "立即开始交易",
+    "form": {
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "电子邮箱",
+      "phone": "电话号码",
+      "submit": "免费创建账户",
+      "terms": "注册即表示您同意我们的",
+      "termsLink": "使用条款",
+      "and": "和",
+      "privacyLink": "隐私政策"
+    }
+  },
+  "features": {
+    "title": "轻松上手",
+    "subtitle": "可靠、简单、快速",
+    "steps": {
+      "join": {
+        "title": "加入",
+        "description": "只需输入您的详细信息即可设置账户。我们简化的流程确保您能在几分钟内准备好开始交易。"
+      },
+      "connect": {
+        "title": "连接",
+        "description": "连接我们的交易平台，利用 Quantum AI 的强大功能。获取强大的工具和见解。"
+      },
+      "trade": {
+        "title": "开始交易",
+        "description": "开始进行智能和有利可图的实时交易，利用我们的先进人工智能提升您的交易能力。"
+      }
+    },
+    "security": "高级加密技术全天候保护您的数据。",
+    "page": {
+      "hero": {
+        "title": "现代交易的高级功能",
+        "description": "探索使 Quantum AI 成为全球交易者首选的强大功能。我们的平台将尖端技术与用户友好的设计相结合，提供无与伦比的交易体验。"
+      },
+      "mainFeatures": {
+        "ai": {
+          "title": "人工智能驱动的交易",
+          "description": "先进的人工智能算法分析市场模式，以卓越的准确性预测潜在的交易机会。"
+        },
+        "analysis": {
+          "title": "实时分析",
+          "description": "通过我们全面的实时市场分析工具和高级图表功能获取即时洞察。"
+        },
+        "security": {
+          "title": "银行级安全",
+          "description": "您的资产受军事级加密和多层安全协议保护。"
+        }
+      },
+      "additionalFeatures": {
+        "title": "成功所需的一切",
+        "subtitle": "强大的工具和功能，提升您的交易体验",
+        "realtime": {
+          "title": "实时交易",
+          "description": "通过我们的高性能交易引擎即时执行交易。"
+        },
+        "portfolio": {
+          "title": "投资组合管理",
+          "description": "使用高级投资组合工具跟踪和管理您的投资。"
+        },
+        "security": {
+          "title": "增强安全性",
+          "description": "多重身份验证和高级欺诈保护。"
+        },
+        "mobile": {
+          "title": "移动交易",
+          "description": "通过我们强大的移动平台随时随地交易。"
+        },
+        "global": {
+          "title": "全球市场",
+          "description": "通过24/7交易功能访问全球市场。"
+        },
+        "support": {
+          "title": "专家支持",
+          "description": "随时获得我们交易专家团队的帮助。"
+        }
+      },
+      "cta": {
+        "title": "准备开始交易？",
+        "description": "加入已经发现 Quantum AI 力量的数千名成功交易者。",
+        "button": "立即开始"
+      }
+    }
+  },
+  "advantages": {
+    "title": "我们的优势",
+    "subtitle": "借助 Quantum AI 提升您的交易策略",
+    "items": {
+      "interface": {
+        "title": "用户友好界面",
+        "description": "通过我们专为简单易用而设计的 Quantum AI 平台体验轻松交易。轻松导航交易决策，无需面对常见的复杂性。"
+      },
+      "automated": {
+        "title": "自动交易系统",
+        "description": "设置后即可放心，让 Quantum AI 的交易机器人为您工作。自动化您的交易，享受更多收益，减少压力。"
+      },
+      "secure": {
+        "title": "值得信赖的交易空间",
+        "description": "我们的平台专为最高安全性而设计，为所有用户提供安全可靠的交易环境。"
+      },
+      "expert": {
+        "title": "专家设计的策略",
+        "description": "Quantum AI 为您带来精心开发的交易策略，让您能够像经验丰富的专业人士一样交易。"
+      },
+      "demo": {
+        "title": "零风险演示模式",
+        "description": "对我们的交易机器人感兴趣但还没准备好投入？我们的免费演示模式提供全面的试用，让您无风险探索和学习。"
+      },
+      "security": {
+        "title": "顶级安全保障",
+        "description": "Quantum AI 应用已经过行业领导者的严格测试和验证。请放心，您的资金由我们顶级的人工智能交易算法安全管理。"
+      }
+    }
+  },
+  "support": {
+    "tagline": "始终为您服务",
+    "title": "全天候专家支持",
+    "subtitle": "全天候专家支持",
+    "features": {
+      "availability": {
+        "title": "适用于所有计划和服务",
+        "description": "无论您选择的计划如何，我们都致力于为所有订阅者提供不间断的支持服务——全天候、全年无休。"
+      },
+      "satisfaction": {
+        "title": "卓越的客户满意度",
+        "description": "客户满意度高达 97%，我们始终在这里为您提供帮助，努力追求卓越，力求达到 100% 的满意度。"
+      },
+      "multilingual": {
+        "title": "多语言支持",
+        "description": "Quantum AI 可适应您的语言偏好，提供英语、西班牙语、法语、荷兰语和意大利语支持。您可以随时切换语言，以满足您的舒适度需求。"
+      }
+    },
+    "image": {
+      "alt": "支持团队"
+    }
+  },
+  "testimonials": {
+    "tagline": "用户评价",
+    "title": "用户评价",
+    "subtitle": "受全球交易者信赖",
+    "page": {
+      "hero": {
+        "title": "我们的交易者怎么说",
+        "description": "加入成千上万满意的交易者，他们通过 Quantum AI 改变了他们的交易之旅。阅读他们的成功故事和经验分享。"
+      },
+      "stats": {
+        "title": "信任与认可",
+        "traders": {
+          "value": "50K+",
+          "label": "活跃交易者"
+        },
+        "countries": {
+          "value": "150+",
+          "label": "覆盖国家"
+        },
+        "rating": {
+          "value": "4.8/5",
+          "label": "平均评分"
+        },
+        "volume": {
+          "value": "$2B+",
+          "label": "每月交易量"
+        }
+      },
+      "featured": {
+        "title": "精选成功案例",
+        "subtitle": "了解交易者如何通过 Quantum AI 实现他们的目标",
+        "testimonials": {
+          "1": {
+            "name": "Sarah Johnson",
+            "role": "专业交易员",
+            "location": "英国伦敦",
+            "image": "/testimonials/sarah.jpg",
+            "content": "Quantum AI 完全改变了我的交易策略。AI 驱动的分析帮助我发现了本可能错过的机会。自从使用该平台以来，我的投资组合增长了 40%。",
+            "rating": 5,
+            "tag1": "股票",
+            "tag2": "AI 交易",
+            "tagCount": 2
+          },
+          "2": {
+            "name": "Michael Chen",
+            "role": "加密货币爱好者",
+            "location": "新加坡",
+            "image": "/testimonials/michael.jpg",
+            "content": "加密货币市场 24/7 全天候运行，Quantum AI 也是如此。自动交易功能和实时提醒让我随时捕捉机会。这个平台太棒了！",
+            "rating": 5,
+            "tag1": "加密货币",
+            "tag2": "自动交易",
+            "tagCount": 2
+          },
+          "3": {
+            "name": "David Miller",
+            "role": "外汇交易员",
+            "location": "美国纽约",
+            "image": "/testimonials/david.jpg",
+            "content": "作为外汇交易员，时机和精确度至关重要。Quantum AI 的智能执行和零滑点让我在市场中占据了很大的优势。特别是它的风险管理工具让我印象深刻。",
+            "rating": 5,
+            "tag1": "外汇",
+            "tag2": "风险管理",
+            "tagCount": 2
+          },
+          "4": {
+            "name": "Emma Thompson",
+            "role": "投资顾问",
+            "location": "澳大利亚悉尼",
+            "image": "/testimonials/emma.jpg",
+            "content": "我向所有客户推荐 Quantum AI。该平台的用户友好界面与先进的交易工具相结合，非常适合初学者和经验丰富的交易者。",
+            "rating": 5,
+            "tag1": "投资",
+            "tag2": "用户体验",
+            "tagCount": 2
+          }
+        }
+      },
+      "reviews": {
+        "title": "最新评价",
+        "subtitle": "看看我们的社区怎么说",
+        "items": {
+          "1": {
+            "name": "Alex Rivera",
+            "date": "2 天前",
+            "content": "技术分析工具非常出色。我特别喜欢自定义指标功能。",
+            "rating": 5
+          },
+          "2": {
+            "name": "Sophie Martin",
+            "date": "1 周前",
+            "content": "客服响应速度非常快，帮助我设置了我的第一个自动交易策略。",
+            "rating": 5
+          },
+          "3": {
+            "name": "James Wilson",
+            "date": "2 周前",
+            "content": "移动应用太棒了！我可以随时监控我的交易并接收提醒。",
+            "rating": 4
+          },
+          "4": {
+            "name": "Lisa Anderson",
+            "date": "3 周前",
+            "content": "AI 预测非常准确，就像身边有一个专业分析师一样。",
+            "rating": 5
+          },
+          "5": {
+            "name": "Robert Kim",
+            "date": "1 个月前",
+            "content": "这个平台适用于日间交易和长期投资策略。",
+            "rating": 5
+          },
+          "6": {
+            "name": "Maria Garcia",
+            "date": "1 个月前",
+            "content": "模拟账户功能让我在使用真实资金交易前练习并建立信心。",
+            "rating": 5
+          }
+        }
+      },
+      "cta": {
+        "title": "加入我们不断壮大的社区",
+        "description": "今天就开始您的成功之旅，加入全球数千名满意的交易者。",
+        "button": "立即开始交易",
+        "demo": "尝试模拟账户"
+      }
+    }
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "常见问题解答",
+    "page": {
+      "hero": {
+        "title": "我们如何帮助您？",
+        "description": "查找有关 Quantum AI 交易平台的常见问题解答。如果找不到您需要的信息，请联系我们的支持团队。"
+      },
+      "categories": {
+        "general": {
+          "title": "一般问题",
+          "items": {
+            "1": {
+              "question": "什么是 Quantum AI 交易平台？",
+              "answer": "Quantum AI 是一个先进的交易平台，结合了人工智能和复杂的交易算法。我们的平台实时分析市场数据，以识别潜在的交易机会，并帮助交易者做出明智的决策。"
+            },
+            "2": {
+              "question": "如何开始使用 Quantum AI？",
+              "answer": "开始使用非常简单：1) 创建您的免费账户，2) 完成验证流程，3) 为账户注资，4) 开始交易。我们的平台提供模拟账户，以便您在使用真实资金交易前进行练习。"
+            },
+            "3": {
+              "question": "Quantum AI 适合初学者吗？",
+              "answer": "是的！Quantum AI 适用于所有经验水平的交易者。我们提供全面的教育资源、用户友好的界面和模拟账户，帮助初学者学习和练习交易策略。"
+            }
+          }
+        },
+        "trading": {
+          "title": "交易与市场",
+          "items": {
+            "1": {
+              "question": "Quantum AI 支持哪些交易市场？",
+              "answer": "Quantum AI 提供股票、加密货币、外汇和大宗商品等多种市场的交易。我们的平台支持全球主要市场的实时交易数据和分析。"
+            },
+            "2": {
+              "question": "交易时间是什么时候？",
+              "answer": "交易时间因市场而异。加密货币交易全天 24/7 可用，股票交易遵循各自的交易所时间。外汇交易为 24/5，从周日下午到周五下午（美国东部时间）。"
+            },
+            "3": {
+              "question": "Quantum AI 提供哪些交易工具？",
+              "answer": "我们的平台提供高级图表工具、技术指标、实时市场分析、自动交易策略、风险管理工具和 AI 驱动的市场见解。"
+            }
+          }
+        },
+        "security": {
+          "title": "安全性与支持",
+          "items": {
+            "1": {
+              "question": "我的账户安全吗？",
+              "answer": "我们采用银行级安全措施，包括双因素身份验证（2FA）、加密和定期安全审计。您的资金存放在独立账户中，并符合严格的监管标准。"
+            },
+            "2": {
+              "question": "提供哪些客户支持选项？",
+              "answer": "我们提供 24/7 全天候客户支持，包括实时聊天、电子邮件和电话。我们的支持团队可提供多语言服务，并可协助解决技术问题、账户问题和交易指导。"
+            },
+            "3": {
+              "question": "Quantum AI 如何保护用户数据？",
+              "answer": "我们使用先进的加密协议来保护您的个人和财务数据。我们的隐私政策确保您的信息不会在未经同意的情况下与第三方共享。"
+            }
+          }
+        },
+        "account": {
+          "title": "账户与支付",
+          "items": {
+            "1": {
+              "question": "接受哪些支付方式？",
+              "answer": "我们接受多种支付方式，包括信用卡/借记卡、银行转账和流行的电子钱包。部分加密货币存款也受到支持。"
+            },
+            "2": {
+              "question": "最低存款要求是多少？",
+              "answer": "最低存款金额因账户类型而异，标准账户的最低存款额为 250 美元。我们还提供免费模拟账户，以便交易者练习交易。"
+            },
+            "3": {
+              "question": "提款处理需要多长时间？",
+              "answer": "提款处理时间因方式而异：电子钱包（24 小时）、信用卡（2-5 个工作日）、银行转账（3-7 个工作日）。加密货币提款通常在 1 小时内完成。"
+            }
+          }
+        }
+      },
+      "cta": {
+        "title": "仍然有疑问？",
+        "description": "我们的支持团队 24/7 随时为您提供帮助",
+        "button": "联系我们的支持团队",
+        "demo": "尝试模拟账户"
+      }
+    }
+  },
+  "footer": {
+    "description": "使用我们先进的 AI 驱动平台，体验交易的未来。加入全球成千上万的成功交易者。",
+    "categories": {
+      "product": "产品",
+      "company": "公司",
+      "support": "支持",
+      "legal": "法律"
+    },
+    "links": {
+      "features": "功能",
+      "markets": "市场",
+      "pricing": "定价",
+      "demo": "模拟账户",
+      "about": "关于我们",
+      "careers": "职业发展",
+      "press": "新闻",
+      "news": "最新动态",
+      "help": "帮助中心",
+      "contact": "联系我们",
+      "community": "社区",
+      "status": "系统状态",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie 政策",
+      "licenses": "许可证"
+    },
+    "copyright": "© {year} QuantumAI。保留所有权利。",
+    "bottomLinks": {
+      "terms": "条款",
+      "privacy": "隐私",
+      "cookies": "Cookies"
+    }
+  },
+  "markets": {
+    "page": {
+      "hero": {
+        "title": "全球市场触手可及",
+        "description": "访问股票、加密货币、外汇、大宗商品等多个市场的交易机会。我们的 AI 驱动平台提供实时见解和分析，助您做出明智的交易决策。"
+      },
+      "mainMarkets": {
+        "title": "热门市场",
+        "subtitle": "探索我们最受欢迎的交易市场",
+        "stocks": {
+          "title": "全球股票",
+          "description": "交易全球领先公司的股票，享受 AI 驱动的洞察和实时市场分析。",
+          "feature1": "美国股票",
+          "feature2": "欧洲市场",
+          "feature3": "亚洲市场",
+          "feature4": "盘前交易"
+        },
+        "crypto": {
+          "title": "加密货币",
+          "description": "全天候 24/7 交易加密货币，提供先进的交易工具和即时执行。",
+          "feature1": "比特币",
+          "feature2": "以太坊",
+          "feature3": "DeFi 代币",
+          "feature4": "新兴山寨币"
+        },
+        "forex": {
+          "title": "外汇交易",
+          "description": "交易主要、次要和稀有货币对，享受有竞争力的点差和专业分析。",
+          "feature1": "主要货币对",
+          "feature2": "次要货币对",
+          "feature3": "新兴市场",
+          "feature4": "贵金属"
+        }
+      },
+      "marketFeatures": {
+        "title": "先进的交易功能",
+        "subtitle": "助力成功交易的一切工具",
+        "analysis": {
+          "title": "技术分析",
+          "description": "提供超过 100 种技术指标的高级图表工具"
+        },
+        "execution": {
+          "title": "智能执行",
+          "description": "超快交易执行，无滑点"
+        },
+        "alerts": {
+          "title": "市场警报",
+          "description": "实时通知市场动态和交易机会"
+        },
+        "research": {
+          "title": "市场研究",
+          "description": "深入的市场分析和研究报告"
+        },
+        "automation": {
+          "title": "自动化交易",
+          "description": "使用 AI 算法设置自定义交易策略"
+        },
+        "risk": {
+          "title": "风险管理",
+          "description": "提供先进的投资组合风险管理工具"
+        }
+      },
+      "marketStats": {
+        "title": "市场统计数据",
+        "subtitle": "全球市场的实时见解",
+        "stats": {
+          "volume": "每日交易量",
+          "markets": "可用市场",
+          "execution": "执行速度",
+          "uptime": "平台在线率"
+        },
+        "values": {
+          "volume": "$5.2B+",
+          "markets": "2,000+",
+          "execution": "<0.1s",
+          "uptime": "99.99%"
+        }
+      },
+      "tradingTools": {
+        "title": "专业交易工具",
+        "subtitle": "适用于每位交易者的尖端工具",
+        "items": {
+          "charts": {
+            "title": "高级图表",
+            "description": "提供专业级图表，支持自定义布局和指标"
+          },
+          "scanner": {
+            "title": "市场扫描仪",
+            "description": "实时市场扫描，捕捉交易机会"
+          },
+          "news": {
+            "title": "新闻集成",
+            "description": "AI 驱动的新闻情绪分析和实时新闻流"
+          },
+          "calendar": {
+            "title": "经济日历",
+            "description": "全面的经济事件和财报日历"
+          }
+        }
+      },
+      "cta": {
+        "title": "开始交易全球市场",
+        "description": "加入全球数千名交易者，体验无限的交易机会，选择 Quantum AI。",
+        "button": "开设交易账户",
+        "demo": "尝试模拟账户"
+      }
+    }
+  },
+  "team": {
+    "page": {
+      "hero": {
+        "title": "认识我们的全球团队",
+        "description": "充满激情的专业人士携手合作，彻底革新交易体验"
+      },
+      "stats": {
+        "title": "团队统计数据",
+        "employees": "50+ 名员工",
+        "countries": "12 个国家",
+        "remote": "100% 远程办公",
+        "culture": "统一文化"
+      },
+      "departments": {
+        "leadership": {
+          "title": "领导团队",
+          "description": "引领我们的愿景和战略",
+          "members": {
+            "1": {
+              "name": "Alexander Chen",
+              "role": "首席执行官 (CEO)",
+              "bio": "前金融科技高管，拥有 15 年以上经验，专注于构建可扩展的交易平台",
+              "location": "新加坡",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Sofia Rodriguez",
+              "role": "首席技术官 (CTO)",
+              "bio": "技术资深专家，专注于高频交易系统和区块链技术",
+              "location": "巴塞罗那",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "github",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Marcus Thompson",
+              "role": "首席产品官 (CPO)",
+              "bio": "专注于用户体验设计和金融科技创新的产品策略师",
+              "location": "伦敦",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        },
+        "engineering": {
+          "title": "工程团队",
+          "description": "构建交易技术的未来",
+          "members": {
+            "1": {
+              "name": "Yuki Tanaka",
+              "role": "后端技术负责人",
+              "bio": "分布式系统专家，专注于高性能交易引擎",
+              "location": "东京",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "github",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "linkedin",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Elena Popov",
+              "role": "前端团队负责人",
+              "bio": "React 专家，打造直观的交易界面",
+              "location": "柏林",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "github",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "dribbble",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Raj Patel",
+              "role": "安全工程师",
+              "bio": "网络安全专家，确保交易操作的安全性",
+              "location": "孟买",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "github",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        },
+        "product": {
+          "title": "产品与设计",
+          "description": "打造流畅的用户体验",
+          "members": {
+            "1": {
+              "name": "Isabella Costa",
+              "role": "产品经理",
+              "bio": "专注于用户体验的交易产品开发专家",
+              "location": "圣保罗",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "medium",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Lucas Weber",
+              "role": "UX 研究主管",
+              "bio": "进行用户研究，优化交易流程",
+              "location": "阿姆斯特丹",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "medium",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Zara Mitchell",
+              "role": "高级 UI 设计师",
+              "bio": "创建美观且功能强大的交易界面",
+              "location": "悉尼",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "dribbble",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "behance",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        },
+        "marketing": {
+          "title": "市场与增长",
+          "description": "拓展我们的全球影响力",
+          "members": {
+            "1": {
+              "name": "Pierre Dubois",
+              "role": "市场总监",
+              "bio": "战略营销专家，在全球金融科技市场经验丰富",
+              "location": "巴黎",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Sarah O'Connor",
+              "role": "内容策略主管",
+              "bio": "为全球交易者创建教育内容",
+              "location": "都柏林",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "medium",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Mohammed Al-Rashid",
+              "role": "增长经理",
+              "bio": "推动用户获取和留存策略",
+              "location": "迪拜",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        }
+      },
+      "joinUs": {
+        "title": "加入我们的团队",
+        "description": "我们一直在寻找优秀人才加入我们的使命",
+        "button": "查看开放职位",
+        "culture": "了解我们的文化"
+      }
+    }
+  },
+  "auth": {
+    "signup": {
+      "title": "开始您的交易之旅",
+      "subtitle": "加入成千上万成功的 Quantum AI 交易者",
+      "benefits": {
+        "title": "为什么选择 Quantum AI?",
+        "items": {
+          "ai": {
+            "title": "AI 驱动的交易",
+            "description": "利用最先进的人工智能，做出更明智的交易决策"
+          },
+          "security": {
+            "title": "银行级安全",
+            "description": "您的资金和数据受到军用级加密保护"
+          },
+          "support": {
+            "title": "全天候专家支持",
+            "description": "随时获得我们经验丰富团队的帮助"
+          }
+        }
+      },
+      "form": {
+        "title": "创建您的账户",
+        "firstName": {
+          "label": "名字",
+          "placeholder": "输入您的名字"
+        },
+        "lastName": {
+          "label": "姓氏",
+          "placeholder": "输入您的姓氏"
+        },
+        "email": {
+          "label": "电子邮件地址",
+          "placeholder": "输入您的电子邮件地址"
+        },
+        "phone": {
+          "label": "电话号码",
+          "placeholder": "输入您的电话号码"
+        },
+        "password": {
+          "label": "密码",
+          "placeholder": "选择一个安全的密码"
+        },
+        "confirmPassword": {
+          "label": "确认密码",
+          "placeholder": "确认您的密码"
+        },
+        "submit": "创建账户",
+        "terms": "注册即表示您同意我们的",
+        "termsLink": "服务条款",
+        "and": "和",
+        "privacyLink": "隐私政策",
+        "loginPrompt": "已经有账户？",
+        "loginLink": "登录"
+      }
+    },
+    "signin": {
+      "title": "欢迎回来",
+      "subtitle": "访问您的 Quantum AI 交易账户",
+      "form": {
+        "title": "登录您的账户",
+        "email": {
+          "label": "电子邮件地址",
+          "placeholder": "输入您的电子邮件地址"
+        },
+        "password": {
+          "label": "密码",
+          "placeholder": "输入您的密码"
+        },
+        "rememberMe": "记住我",
+        "forgotPassword": "忘记密码？",
+        "submit": "登录",
+        "signupPrompt": "还没有账户？",
+        "signupLink": "注册",
+        "demo": "试用演示账户"
+      },
+      "features": {
+        "title": "账户优势",
+        "items": {
+          "markets": {
+            "title": "全球市场",
+            "description": "交易股票、加密货币、外汇等"
+          },
+          "analysis": {
+            "title": "高级分析",
+            "description": "访问专业的交易工具和市场洞察"
+          },
+          "portfolio": {
+            "title": "投资组合管理",
+            "description": "跟踪并优化您的投资"
+          }
+        }
+      }
+    }
+  }
+}

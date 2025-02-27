@@ -132,7 +132,8 @@
     }
   },
   "support": {
-    "title": "ALWAYS AT YOUR SERVICE",
+    "tagline": "ALWAYS AT YOUR SERVICE",
+    "title": "Round-the-Clock Expert Assistance",
     "subtitle": "Round-the-Clock Expert Assistance",
     "features": {
       "availability": {
@@ -147,9 +148,13 @@
         "title": "Multilingual Support",
         "description": "Quantum AI is adaptable to your language preferences, offering support in English, Spanish, French, Dutch, and Italian. Feel free to switch languages anytime to suit your comfort."
       }
+    },
+    "image": {
+      "alt": "Support Team"
     }
   },
   "testimonials": {
+    "tagline": "TESTIMONIALS",
     "title": "TESTIMONIALS",
     "subtitle": "Trusted by Traders Worldwide",
     "page": {

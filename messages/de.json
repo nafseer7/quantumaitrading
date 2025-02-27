@@ -3,114 +3,222 @@
     "home": "Startseite",
     "features": "Funktionen",
     "markets": "Märkte",
-    "testimonials": "Referenzen",
+    "testimonials": "Erfahrungen",
     "faq": "FAQ"
   },
   "header": {
     "login": "Anmelden",
-    "getStarted": "Loslegen",
-    "selectLanguage": "Sprache auswählen"
+    "getStarted": "Jetzt Starten",
+    "selectLanguage": "Sprache Wählen"
   },
   "hero": {
-    "title": "Erleben Sie die Zukunft des KI-gestützten Handels",
-    "description": "Nutzen Sie die Leistungsfähigkeit der künstlichen Intelligenz für Ihre Handelsstrategie. Unser fortschrittlicher Algorithmus analysiert Markttrends in Echtzeit und führt präzise Trades aus.",
-    "getStarted": "Jetzt starten",
-    "watchDemo": "Demo ansehen",
-    "rating": "Ausgezeichnete Bewertung von über 10.000 Händlern weltweit"
+    "title": "Quantum AI - Neue Ära des KI-gesteuerten Handels",
+    "description": "Treten Sie ein in die Zukunft des Handels mit Quantum AI—Ihr Gateway zu intelligenteren, schnelleren und präziseren Marktentscheidungen. Nutzen Sie modernste KI-Technologie, um Ihre Trades zu optimieren, Risiken zu minimieren und potenzielle Gewinne wie nie zuvor zu maximieren.",
+    "rating": "Mit 4,8 Sternen von über 9.150 Nutzern bewertet",
+    "trustedBy": "Vertraut von Branchenführern",
+    "formTitle": "Jetzt mit dem Handel beginnen",
+    "form": {
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "submit": "Kostenloses Konto erstellen",
+      "terms": "Mit der Registrierung stimmen Sie unseren",
+      "termsLink": "Nutzungsbedingungen",
+      "and": "und",
+      "privacyLink": "Datenschutzrichtlinien"
+    }
   },
   "features": {
-    "title": "Einfacher Einstieg in den KI-Handel",
-    "subtitle": "Folgen Sie diesen einfachen Schritten, um Ihre Handelsreise zu beginnen",
-    "step1": {
-      "title": "Registrieren Sie sich",
-      "description": "Erstellen Sie Ihr Konto in weniger als 2 Minuten. Wir benötigen nur grundlegende Informationen."
+    "title": "EINFACH ZU BEGINNEN",
+    "subtitle": "Zuverlässig. Unkompliziert. Schnell.",
+    "steps": {
+      "join": {
+        "title": "Beitreten",
+        "description": "Geben Sie einfach Ihre Daten ein, um Ihr Konto einzurichten. Unser optimierter Prozess stellt sicher, dass Sie in wenigen Minuten handelsbereit sind."
+      },
+      "connect": {
+        "title": "Verbinden",
+        "description": "Verbinden Sie sich mit unserer Handelsplattform und nutzen Sie die Stärke von Quantum AI. Greifen Sie auf leistungsstarke Tools und Erkenntnisse zu."
+      },
+      "trade": {
+        "title": "Mit dem Handel beginnen",
+        "description": "Starten Sie mit intelligenten und lukrativen Live-Trades und nutzen Sie unsere fortschrittliche KI, um Ihre Handelsfähigkeiten zu verbessern."
+      }
     },
-    "step2": {
-      "title": "Verbinden Sie Ihr Konto",
-      "description": "Verknüpfen Sie Ihr Handelskonto sicher mit unserer Plattform."
-    },
-    "step3": {
-      "title": "Starten Sie den Handel",
-      "description": "Aktivieren Sie den KI-Trader und lassen Sie ihn für Sie arbeiten."
-    },
-    "security": "Ihre Sicherheit hat für uns oberste Priorität. Alle Verbindungen sind verschlüsselt."
+    "security": "Hochgradige Verschlüsselung schützt Ihre Daten zu jeder Zeit.",
+    "page": {
+      "hero": {
+        "title": "Fortschrittliche Funktionen für modernen Handel",
+        "description": "Entdecken Sie die leistungsstarken Funktionen, die Quantum AI zur führenden Wahl für Händler weltweit machen. Unsere Plattform kombiniert modernste Technologie mit benutzerfreundlichem Design für ein unvergleichliches Handelserlebnis."
+      },
+      "mainFeatures": {
+        "ai": {
+          "title": "KI-gesteuerter Handel",
+          "description": "Fortschrittliche künstliche Intelligenz-Algorithmen analysieren Marktmuster und prognostizieren potenzielle Handelsmöglichkeiten mit bemerkenswerter Genauigkeit."
+        },
+        "analysis": {
+          "title": "Echtzeit-Analyse",
+          "description": "Erhalten Sie sofortige Einblicke mit unseren umfassenden Echtzeit-Marktanalysetools und fortschrittlichen Chartingfähigkeiten."
+        },
+        "security": {
+          "title": "Bankenstandard-Sicherheit",
+          "description": "Ihre Vermögenswerte sind durch militärische Verschlüsselung und mehrschichtige Sicherheitsprotokolle geschützt."
+        }
+      },
+      "additionalFeatures": {
+        "title": "Alles, was Sie für den Erfolg brauchen",
+        "subtitle": "Leistungsstarke Tools und Funktionen zur Verbesserung Ihres Handelserlebnisses",
+        "realtime": {
+          "title": "Echtzeit-Handel",
+          "description": "Führen Sie Trades sofort mit unserer Hochleistungs-Handelsengine aus."
+        },
+        "portfolio": {
+          "title": "Portfolio-Management",
+          "description": "Verfolgen und verwalten Sie Ihre Investitionen mit fortschrittlichen Portfolio-Tools."
+        },
+        "security": {
+          "title": "Verbesserte Sicherheit",
+          "description": "Multifaktor-Authentifizierung und fortschrittlicher Betrugsschutz."
+        },
+        "mobile": {
+          "title": "Mobiler Handel",
+          "description": "Handeln Sie überall und jederzeit mit unserer leistungsstarken mobilen Plattform."
+        },
+        "global": {
+          "title": "Globale Märkte",
+          "description": "Zugang zu weltweiten Märkten mit 24/7 Handelsmöglichkeiten."
+        },
+        "support": {
+          "title": "Experten-Support",
+          "description": "Erhalten Sie Hilfe von unserem Team von Handelsexperten, wann immer Sie sie brauchen."
+        }
+      },
+      "cta": {
+        "title": "Bereit mit dem Handel zu beginnen?",
+        "description": "Schließen Sie sich Tausenden erfolgreicher Händler an, die bereits die Kraft von Quantum AI entdeckt haben.",
+        "button": "Jetzt Starten"
+      }
+    }
   },
   "advantages": {
-    "title": "Warum Quantum AI?",
-    "subtitle": "Entdecken Sie die Vorteile unserer fortschrittlichen Handelsplattform",
+    "title": "WAS UNS AUSZEICHNET",
+    "subtitle": "Verbessern Sie Ihre Handelsstrategie mit Quantum AI",
     "items": {
       "interface": {
         "title": "Benutzerfreundliche Oberfläche",
-        "description": "Intuitive Plattform, die sowohl für Anfänger als auch für erfahrene Händler geeignet ist."
+        "description": "Erleben Sie müheloses Handeln mit unserer Quantum AI-Plattform, die für Einfachheit und Benutzerfreundlichkeit entwickelt wurde. Navigieren Sie durch Handelsentscheidungen ohne die übliche Komplexität."
       },
-      "automation": {
+      "automated": {
         "title": "Automatisiertes Handelssystem",
-        "description": "Lassen Sie unsere KI rund um die Uhr die besten Handelsmöglichkeiten identifizieren."
+        "description": "Einrichten und vergessen mit Quantum AI-Handelsbots. Automatisieren Sie Ihre Trades und genießen Sie mehr Gewinne mit weniger Stress."
       },
-      "security": {
-        "title": "Erstklassige Sicherheit",
-        "description": "Modernste Verschlüsselung und Sicherheitsprotokolle zum Schutz Ihrer Daten und Mittel."
+      "secure": {
+        "title": "Sicherer Handelsraum",
+        "description": "Unsere Plattform ist für maximale Sicherheit entwickelt und bietet eine sichere und zuverlässige Handelsumgebung für alle Benutzer."
       },
-      "strategies": {
-        "title": "Expertenstrategien",
-        "description": "Zugriff auf bewährte Handelsstrategien, entwickelt von Finanzexperten."
+      "expert": {
+        "title": "Von Experten entwickelte Strategien",
+        "description": "Quantum AI bringt Ihnen sorgfältig entwickelte Handelsstrategien und rüstet Sie aus, um wie ein erfahrener Profi zu handeln."
       },
       "demo": {
         "title": "Risikofreier Demo-Modus",
-        "description": "Üben Sie mit virtuellem Geld, bevor Sie echte Trades ausführen."
+        "description": "Neugierig auf unseren Handelsroboter, aber noch nicht bereit sich zu verpflichten? Unser kostenloser Demo-Modus bietet eine umfassende Testphase, mit der Sie risikofrei erkunden und lernen können."
       },
-      "protection": {
-        "title": "Erweiterte Sicherheit",
-        "description": "Mehrschichtige Sicherheitssysteme zum Schutz Ihrer Vermögenswerte."
+      "security": {
+        "title": "Höchste Sicherheit",
+        "description": "Die Quantum AI-App wurde von Branchenführern rigoros getestet und verifiziert. Seien Sie versichert, dass Ihre Gelder sicher von unserem erstklassigen KI-Handelsalgorithmus verwaltet werden."
       }
     }
   },
   "support": {
-    "title": "Unterstützung rund um die Uhr",
-    "subtitle": "Unser engagiertes Team steht Ihnen zur Verfügung",
-    "availability": {
-      "title": "24/7 Experten-Support",
-      "description": "Unser Team von Handelsexperten steht Ihnen rund um die Uhr zur Verfügung."
-    },
-    "satisfaction": {
-      "title": "98% Kundenzufriedenheit",
-      "description": "Unsere Kunden schätzen unseren schnellen und effektiven Support."
-    },
-    "multilingual": {
-      "title": "Mehrsprachiger Support",
-      "description": "Erhalten Sie Unterstützung in Ihrer bevorzugten Sprache."
+    "title": "IMMER ZU IHREN DIENSTEN",
+    "subtitle": "Rund um die Uhr Expertenunterstützung",
+    "features": {
+      "availability": {
+        "title": "Verfügbar mit jedem Plan und Service",
+        "description": "Wir verpflichten uns, allen unseren Abonnenten, unabhängig vom gewählten Plan, ununterbrochenen Zugang zu unserem Support-Team zu bieten — verfügbar 24/7, jeden Tag im Jahr."
+      },
+      "satisfaction": {
+        "title": "Außergewöhnliche Zufriedenheitswerte",
+        "description": "Mit einer Kundenzufriedenheitsrate von 97% sind wir immer für Sie da und streben nach Exzellenz mit dem Ziel, uns so nah wie möglich an 100% Zufriedenheit anzunähern."
+      },
+      "multilingual": {
+        "title": "Mehrsprachiger Support",
+        "description": "Quantum AI passt sich Ihren Sprachpräferenzen an und bietet Support in Englisch, Spanisch, Französisch, Niederländisch und Italienisch. Wechseln Sie jederzeit die Sprache nach Ihrem Komfort."
+      }
     }
   },
   "testimonials": {
-    "title": "Vertrauenswürdig weltweit",
-    "subtitle": "Was unsere Kunden über uns sagen"
+    "title": "ERFAHRUNGSBERICHTE",
+    "subtitle": "Vertraut von Händlern weltweit",
+    "page": {
+      "hero": {
+        "title": "Was unsere Händler sagen",
+        "description": "Schließen Sie sich Tausenden zufriedener Händler an, die ihre Handelsreise mit Quantum AI transformiert haben. Lesen Sie ihre Erfolgsgeschichten und Erfahrungen."
+      },
+      "stats": {
+        "title": "Vertrauen und Anerkennung",
+        "traders": {
+          "value": "50K+",
+          "label": "Aktive Händler"
+        },
+        "countries": {
+          "value": "150+",
+          "label": "Länder"
+        },
+        "rating": {
+          "value": "4,8/5",
+          "label": "Durchschnittliche Bewertung"
+        },
+        "volume": {
+          "value": "2Mrd.€+",
+          "label": "Monatliches Volumen"
+        }
+      }
+    }
   },
   "faq": {
-    "title": "Häufig gestellte Fragen",
-    "subtitle": "Finden Sie Antworten auf die häufigsten Fragen"
+    "title": "FAQ",
+    "subtitle": "Häufig gestellte Fragen",
+    "page": {
+      "hero": {
+        "title": "Wie können wir Ihnen helfen?",
+        "description": "Finden Sie Antworten auf häufige Fragen zur Quantum AI-Handelsplattform. Nicht gefunden, wonach Sie suchen? Kontaktieren Sie unser Support-Team."
+      }
+    }
   },
   "footer": {
-    "description": "Quantum AI ist Ihre vertrauenswürdige Plattform für KI-gestützten Handel. Wir kombinieren fortschrittliche Technologie mit benutzerfreundlichem Design.",
-    "products": {
-      "title": "Produkte",
-      "trading": "Trading Bot",
-      "signals": "Handelssignale",
-      "analytics": "Marktanalyse",
-      "education": "Bildungsressourcen"
+    "description": "Erleben Sie die Zukunft des Handels mit unserer fortschrittlichen KI-gesteuerten Plattform. Schließen Sie sich Tausenden erfolgreicher Händler weltweit an.",
+    "categories": {
+      "product": "Produkt",
+      "company": "Unternehmen",
+      "support": "Support",
+      "legal": "Rechtliches"
     },
     "links": {
-      "title": "Links",
+      "features": "Funktionen",
+      "markets": "Märkte",
+      "pricing": "Preise",
+      "demo": "Demo-Konto",
       "about": "Über uns",
       "careers": "Karriere",
-      "blog": "Blog",
-      "contact": "Kontakt"
-    },
-    "legal": {
-      "title": "Rechtliches",
+      "press": "Presse",
+      "news": "Neuigkeiten",
+      "help": "Hilfecenter",
+      "contact": "Kontakt",
+      "community": "Community",
+      "status": "Status",
+      "privacy": "Datenschutzrichtlinie",
       "terms": "Nutzungsbedingungen",
-      "privacy": "Datenschutz",
-      "cookies": "Cookie-Richtlinie"
+      "cookies": "Cookie-Richtlinie",
+      "licenses": "Lizenzen"
     },
-    "copyright": "© 2024 Quantum AI. Alle Rechte vorbehalten."
+    "copyright": "© {year} QuantumAI. Alle Rechte vorbehalten.",
+    "bottomLinks": {
+      "terms": "Bedingungen",
+      "privacy": "Datenschutz",
+      "cookies": "Cookies"
+    }
   }
 } 

@@ -1,0 +1,852 @@
+{
+  "navigation": {
+    "home": "Home",
+    "features": "Functies",
+    "markets": "Markten",
+    "testimonials": "Ervaringen",
+    "faq": "FAQ"
+  },
+  "header": {
+    "login": "Inloggen",
+    "getStarted": "Aan de Slag",
+    "selectLanguage": "Taal Selecteren"
+  },
+  "hero": {
+    "title": "Quantum AI - Het Nieuwe Tijdperk van AI-gedreven Trading",
+    "description": "Stap in de toekomst van trading met Quantum AI—uw gateway naar slimmere, snellere en nauwkeurigere marktbeslissingen. Benut geavanceerde AI-technologie om uw trades te optimaliseren, risico's te minimaliseren en potentiële winsten te maximaliseren zoals nooit tevoren.",
+    "rating": "Beoordeeld met 4,8 sterren door meer dan 9.150 gebruikers",
+    "trustedBy": "Vertrouwd door Industrieleiders",
+    "formTitle": "Begin Nu met Handelen",
+    "form": {
+      "firstName": "Voornaam",
+      "lastName": "Achternaam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "submit": "Maak Uw Gratis Account Aan",
+      "terms": "Door u aan te melden, gaat u akkoord met onze",
+      "termsLink": "Gebruiksvoorwaarden",
+      "and": "en",
+      "privacyLink": "Privacybeleid"
+    }
+  },
+  "features": {
+    "title": "EENVOUDIG TE STARTEN",
+    "subtitle": "Betrouwbaar. Duidelijk. Snel.",
+    "steps": {
+      "join": {
+        "title": "Word Lid",
+        "description": "Voer simpelweg uw gegevens in om uw account in te stellen. Ons gestroomlijnde proces zorgt ervoor dat u binnen enkele minuten kunt handelen."
+      },
+      "connect": {
+        "title": "Verbind",
+        "description": "Maak verbinding met ons handelsplatform en benut de kracht van Quantum AI. Krijg toegang tot krachtige tools en inzichten."
+      },
+      "trade": {
+        "title": "Begin met Handelen",
+        "description": "Start met het maken van intelligente en winstgevende live trades, gebruikmakend van onze geavanceerde AI om uw handelsvaardigheid te verbeteren."
+      }
+    },
+    "security": "Hoogwaardige versleuteling beschermt uw gegevens te allen tijde.",
+    "page": {
+      "hero": {
+        "title": "Geavanceerde Functies voor Modern Handelen",
+        "description": "Ontdek de krachtige functies die Quantum AI de toonaangevende keuze maken voor handelaren wereldwijd. Ons platform combineert geavanceerde technologie met gebruiksvriendelijk design voor een ongeëvenaarde handelservaring."
+      },
+      "mainFeatures": {
+        "ai": {
+          "title": "AI-gedreven Trading",
+          "description": "Geavanceerde kunstmatige intelligentie-algoritmen analyseren marktpatronen en voorspellen potentiële handelsmogelijkheden met opmerkelijke nauwkeurigheid."
+        },
+        "analysis": {
+          "title": "Realtime Analyse",
+          "description": "Krijg directe inzichten met onze uitgebreide realtime marktanalysetools en geavanceerde grafiekmogelijkheden."
+        },
+        "security": {
+          "title": "Bankwaardige Beveiliging",
+          "description": "Uw activa worden beschermd door militaire versleuteling en meerlaagse beveiligingsprotocollen."
+        }
+      },
+      "additionalFeatures": {
+        "title": "Alles wat U Nodig Heeft om te Slagen",
+        "subtitle": "Krachtige tools en functies om uw handelservaring te verbeteren",
+        "realtime": {
+          "title": "Realtime Trading",
+          "description": "Voer trades direct uit met onze hoogwaardige handelsengine."
+        },
+        "portfolio": {
+          "title": "Portefeuillebeheer",
+          "description": "Volg en beheer uw investeringen met geavanceerde portfoliotools."
+        },
+        "security": {
+          "title": "Verbeterde Beveiliging",
+          "description": "Meerfactorauthenticatie en geavanceerde fraudebescherming."
+        },
+        "mobile": {
+          "title": "Mobiel Handelen",
+          "description": "Handel overal en altijd met ons krachtige mobiele platform."
+        },
+        "global": {
+          "title": "Wereldwijde Markten",
+          "description": "Toegang tot markten wereldwijd met 24/7 handelsmogelijkheden."
+        },
+        "support": {
+          "title": "Expert Ondersteuning",
+          "description": "Krijg hulp van ons team van handelsexperts wanneer u het nodig heeft."
+        }
+      },
+      "cta": {
+        "title": "Klaar om te Beginnen met Handelen?",
+        "description": "Sluit u aan bij duizenden succesvolle handelaren die de kracht van Quantum AI al hebben ontdekt.",
+        "button": "Nu Beginnen"
+      }
+    }
+  },
+  "advantages": {
+    "title": "WAT ONS ONDERSCHEIDT",
+    "subtitle": "Verbeter Uw Handelsstrategie met Quantum AI",
+    "items": {
+      "interface": {
+        "title": "Gebruiksvriendelijke Interface",
+        "description": "Ervaar moeiteloos handelen met ons Quantum AI platform, ontworpen voor eenvoud en gemak. Navigeer soepel door handelsbeslissingen zonder de gebruikelijke complexiteit."
+      },
+      "automated": {
+        "title": "Geautomatiseerd Handelssysteem",
+        "description": "Stel in en vergeet met Quantum AI's handelsbots. Automatiseer uw trades en geniet van meer winst met minder stress."
+      },
+      "secure": {
+        "title": "Vertrouwde Handelsomgeving",
+        "description": "Ons platform is ontwikkeld voor maximale veiligheid en biedt een veilige en betrouwbare handelsomgeving voor alle gebruikers."
+      },
+      "expert": {
+        "title": "Door Experts Ontworpen Strategieën",
+        "description": "Quantum AI brengt u zorgvuldig ontwikkelde handelsstrategieën, waarmee u kunt handelen als een ervaren professional."
+      },
+      "demo": {
+        "title": "Risicovrije Demo-modus",
+        "description": "Nieuwsgierig naar onze handelsrobot maar nog niet klaar om u te binden? Onze Gratis Demo-modus biedt een uitgebreide proefperiode, waarmee u risicovrij kunt verkennen en leren."
+      },
+      "security": {
+        "title": "Topniveau Beveiliging",
+        "description": "De Quantum AI app is grondig getest en geverifieerd door industrieleiders. Wees gerust, uw fondsen worden veilig beheerd door ons eersteklas AI-handelsalgoritme."
+      }
+    }
+  },
+  "support": {
+    "title": "ALTIJD TOT UW DIENST",
+    "subtitle": "24/7 Expert Assistentie",
+    "features": {
+      "availability": {
+        "title": "Beschikbaar bij Elk Abonnement en Service",
+        "description": "Wij zijn toegewijd om al onze abonnees, ongeacht hun gekozen plan, ononderbroken toegang te bieden tot ons supportteam — 24/7 beschikbaar, elke dag van het jaar."
+      },
+      "satisfaction": {
+        "title": "Uitzonderlijke Tevredenheidsniveaus",
+        "description": "Met een klanttevredenheid van 97% zijn we er altijd voor u, strevend naar uitmuntendheid en met als doel zo dicht mogelijk bij 100% tevredenheid te komen."
+      },
+      "multilingual": {
+        "title": "Meertalige Ondersteuning",
+        "description": "Quantum AI past zich aan uw taalvoorkeuren aan en biedt ondersteuning in het Engels, Spaans, Frans, Nederlands en Italiaans. Wissel op elk moment van taal naar wat voor u het prettigst is."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "ERVARINGEN",
+    "subtitle": "Vertrouwd door Handelaren Wereldwijd",
+    "page": {
+      "hero": {
+        "title": "Wat Onze Handelaren Zeggen",
+        "description": "Word lid van duizenden tevreden handelaren die hun handelsreis hebben getransformeerd met Quantum AI. Lees hun succesverhalen en ervaringen."
+      },
+      "stats": {
+        "title": "Vertrouwen & Erkenning",
+        "traders": {
+          "value": "50K+",
+          "label": "Actieve Handelaren"
+        },
+        "countries": {
+          "value": "150+",
+          "label": "Landen"
+        },
+        "rating": {
+          "value": "4,8/5",
+          "label": "Gemiddelde Beoordeling"
+        },
+        "volume": {
+          "value": "€2Mrd+",
+          "label": "Maandelijks Volume"
+        }
+      },
+      "featured": {
+        "title": "Uitgelichte Succesverhalen",
+        "subtitle": "Ontdek hoe handelaren hun doelen bereiken met Quantum AI",
+        "testimonials": {
+          "1": {
+            "name": "Sarah Johnson",
+            "role": "Professioneel Handelaar",
+            "location": "Londen, VK",
+            "image": "/testimonials/sarah.jpg",
+            "content": "Quantum AI heeft mijn handelsstrategie compleet gerevolutioneerd. De AI-gestuurde inzichten hebben me geholpen kansen te identificeren die ik anders had gemist. Mijn portfolio heeft een stijging van 40% gezien sinds ik het platform ben gaan gebruiken.",
+            "rating": 5,
+            "tag1": "Aandelen",
+            "tag2": "AI Trading",
+            "tagCount": 2
+          },
+          "2": {
+            "name": "Michael Chen",
+            "role": "Crypto Enthousiasteling",
+            "location": "Singapore",
+            "image": "/testimonials/michael.jpg",
+            "content": "De cryptomarkten slapen nooit, en Quantum AI ook niet. De geautomatiseerde handelsfuncties en realtime waarschuwingen hebben het mogelijk gemaakt om 24/7 van kansen te profiteren. Uitzonderlijk platform!",
+            "rating": 5,
+            "tag1": "Crypto",
+            "tag2": "Geautomatiseerd Handelen",
+            "tagCount": 2
+          },
+          "3": {
+            "name": "David Miller",
+            "role": "Forex Handelaar",
+            "location": "New York, VS",
+            "image": "/testimonials/david.jpg",
+            "content": "Als forex handelaar zijn timing en precisie alles. Quantum AI's slimme uitvoering en nul slippage hebben me een significant voordeel gegeven in de markten. De risicobeheertools zijn bijzonder indrukwekkend.",
+            "rating": 5,
+            "tag1": "Forex",
+            "tag2": "Risicobeheer",
+            "tagCount": 2
+          },
+          "4": {
+            "name": "Emma Thompson",
+            "role": "Beleggingsadviseur",
+            "location": "Sydney, Australië",
+            "image": "/testimonials/emma.jpg",
+            "content": "Ik raad Quantum AI aan al mijn klanten aan. De gebruiksvriendelijke interface van het platform in combinatie met geavanceerde handelstools maakt het perfect voor zowel beginners als ervaren handelaren.",
+            "rating": 5,
+            "tag1": "Beleggingen",
+            "tag2": "Gebruikerservaring",
+            "tagCount": 2
+          }
+        }
+      },
+      "reviews": {
+        "title": "Recente Beoordelingen",
+        "subtitle": "Lees wat onze community te zeggen heeft",
+        "items": {
+          "1": {
+            "name": "Alex Rivera",
+            "date": "2 dagen geleden",
+            "content": "De technische analysetools zijn eersteklas. Ik hou vooral van de aangepaste indicatorfunctie.",
+            "rating": 5
+          },
+          "2": {
+            "name": "Sophie Martin",
+            "date": "1 week geleden",
+            "content": "De klantenservice is ongelooflijk responsief en behulpzaam. Ze hebben me begeleid bij het opzetten van mijn eerste geautomatiseerde strategie.",
+            "rating": 5
+          },
+          "3": {
+            "name": "James Wilson",
+            "date": "2 weken geleden",
+            "content": "De mobiele app is fantastisch! Ik kan mijn trades overal monitoren en waarschuwingen ontvangen.",
+            "rating": 4
+          },
+          "4": {
+            "name": "Lisa Anderson",
+            "date": "3 weken geleden",
+            "content": "De AI-voorspellingen zijn opmerkelijk nauwkeurig. Het is alsof je een professionele analist aan je zijde hebt.",
+            "rating": 5
+          },
+          "5": {
+            "name": "Robert Kim",
+            "date": "1 maand geleden",
+            "content": "Geweldig platform voor zowel daytrading als langetermijnbeleggingsstrategieën.",
+            "rating": 5
+          },
+          "6": {
+            "name": "Maria Garcia",
+            "date": "1 maand geleden",
+            "content": "De demo-accountfunctie hielp me te oefenen en vertrouwen op te bouwen voordat ik met echt geld ging handelen.",
+            "rating": 5
+          }
+        }
+      },
+      "cta": {
+        "title": "Word Lid van Onze Groeiende Community",
+        "description": "Begin vandaag uw succesverhaal met Quantum AI. Sluit u aan bij duizenden tevreden handelaren wereldwijd.",
+        "button": "Begin Nu met Handelen",
+        "demo": "Probeer Demo Account"
+      }
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Veelgestelde Vragen",
+    "page": {
+      "hero": {
+        "title": "Hoe Kunnen We U Helpen?",
+        "description": "Vind antwoorden op veelvoorkomende vragen over het Quantum AI handelsplatform. Kunt u niet vinden wat u zoekt? Neem contact op met ons supportteam."
+      },
+      "categories": {
+        "general": {
+          "title": "Algemene Vragen",
+          "items": {
+            "1": {
+              "question": "Wat is het Quantum AI Handelsplatform?",
+              "answer": "Quantum AI is een geavanceerd handelsplatform dat kunstmatige intelligentie combineert met geavanceerde handelsalgoritmen. Ons platform analyseert marktgegevens in realtime om potentiële handelsmogelijkheden te identificeren en handelaren te helpen geïnformeerde beslissingen te nemen."
+            },
+            "2": {
+              "question": "Hoe begin ik met Quantum AI?",
+              "answer": "Beginnen is eenvoudig: 1) Maak uw gratis account aan, 2) Voltooi het verificatieproces, 3) Stort geld op uw account, en 4) Begin met handelen. Ons platform bevat een demo-account om te oefenen voordat u met echt geld handelt."
+            },
+            "3": {
+              "question": "Is Quantum AI geschikt voor beginners?",
+              "answer": "Ja! Quantum AI is ontworpen voor handelaren van alle ervaringsniveaus. We bieden uitgebreide educatieve bronnen, een gebruiksvriendelijke interface en een demo-account om beginners te helpen handelsstrategieën te leren en te oefenen."
+            }
+          }
+        },
+        "trading": {
+          "title": "Handelen & Markten",
+          "items": {
+            "1": {
+              "question": "In welke markten kan ik handelen op Quantum AI?",
+              "answer": "Quantum AI biedt toegang tot een breed scala aan markten, waaronder aandelen, cryptocurrencies, forex en grondstoffen. Ons platform ondersteunt handel in belangrijke wereldwijde markten met realtime gegevens en analyse."
+            },
+            "2": {
+              "question": "Wat zijn de handelsuren?",
+              "answer": "Handelsuren variëren per markt. Cryptocurrency-handel is 24/7 beschikbaar, terwijl aandelen de uren van hun respectievelijke beurzen volgen. Forex-handel is 24/5 beschikbaar, van zondagavond tot vrijdagmiddag EST."
+            },
+            "3": {
+              "question": "Welke handelstools zijn beschikbaar?",
+              "answer": "Ons platform biedt geavanceerde grafiektools, technische indicatoren, realtime marktanalyse, geautomatiseerde handelsstrategieën, risicobeheertools en door AI aangedreven marktinzichten."
+            }
+          }
+        },
+        "security": {
+          "title": "Beveiliging & Ondersteuning",
+          "items": {
+            "1": {
+              "question": "Hoe veilig is mijn account?",
+              "answer": "We implementeren bankwaardige beveiligingsmaatregelen, waaronder 2FA, versleuteling en regelmatige beveiligingsaudits. Uw fondsen worden bewaard in gescheiden rekeningen en we volgen strikte regelgevingsnormen."
+            },
+            "2": {
+              "question": "Welke klantenserviceopties zijn beschikbaar?",
+              "answer": "We bieden 24/7 klantenservice via live chat, e-mail en telefoon. Ons supportteam is meertalig en kan helpen met technische problemen, accountvragen en handelsadvies."
+            },
+            "3": {
+              "question": "Hoe beschermt u gebruikersgegevens?",
+              "answer": "We gebruiken geavanceerde versleutelingsprotocollen om uw persoonlijke en financiële gegevens te beschermen. Ons privacybeleid zorgt ervoor dat uw informatie nooit zonder uw toestemming met derden wordt gedeeld."
+            }
+          }
+        },
+        "account": {
+          "title": "Account & Betalingen",
+          "items": {
+            "1": {
+              "question": "Welke betaalmethoden worden geaccepteerd?",
+              "answer": "We accepteren verschillende betaalmethoden, waaronder credit/debit cards, bankoverschrijvingen en populaire e-wallets. Cryptocurrency-stortingen worden ook ondersteund voor geselecteerde valuta."
+            },
+            "2": {
+              "question": "Wat zijn de minimale stortingsvereisten?",
+              "answer": "De minimale storting varieert per accounttype, beginnend vanaf €250 voor standaardaccounts. Demo-accounts zijn gratis beschikbaar om te oefenen met handelen."
+            },
+            "3": {
+              "question": "Hoe lang duurt de verwerking van opnames?",
+              "answer": "Verwerkingstijden voor opnames variëren per methode: e-wallets (24 uur), creditcards (2-5 werkdagen), bankoverschrijvingen (3-7 werkdagen). Cryptocurrency-opnames worden meestal binnen 1 uur verwerkt."
+            }
+          }
+        }
+      },
+      "cta": {
+        "title": "Nog Vragen?",
+        "description": "Ons supportteam staat 24/7 voor u klaar",
+        "button": "Contact Opnemen",
+        "demo": "Probeer Demo Account"
+      }
+    }
+  },
+  "footer": {
+    "description": "Ervaar de toekomst van handelen met ons geavanceerde AI-gestuurde platform. Sluit u aan bij duizenden succesvolle handelaren wereldwijd.",
+    "categories": {
+      "product": "Product",
+      "company": "Bedrijf",
+      "support": "Ondersteuning",
+      "legal": "Juridisch"
+    },
+    "links": {
+      "features": "Functies",
+      "markets": "Markten",
+      "pricing": "Prijzen",
+      "demo": "Demo Account",
+      "about": "Over Ons",
+      "careers": "Carrières",
+      "press": "Pers",
+      "news": "Nieuws",
+      "help": "Helpcentrum",
+      "contact": "Contact",
+      "community": "Community",
+      "status": "Status",
+      "privacy": "Privacybeleid",
+      "terms": "Servicevoorwaarden",
+      "cookies": "Cookiebeleid",
+      "licenses": "Licenties"
+    },
+    "copyright": "© {year} QuantumAI. Alle rechten voorbehouden.",
+    "bottomLinks": {
+      "terms": "Voorwaarden",
+      "privacy": "Privacy",
+      "cookies": "Cookies"
+    }
+  },
+  "markets": {
+    "page": {
+      "hero": {
+        "title": "Wereldwijde Markten binnen Handbereik",
+        "description": "Krijg toegang tot een wereld van handelsmogelijkheden in aandelen, cryptocurrencies, forex, grondstoffen en meer. Ons AI-gestuurde platform biedt realtime inzichten en analyse voor geïnformeerde handelsbeslissingen."
+      },
+      "mainMarkets": {
+        "title": "Uitgelichte Markten",
+        "subtitle": "Verken onze meest populaire handelsmarkten",
+        "stocks": {
+          "title": "Wereldwijde Aandelen",
+          "description": "Handel in aandelen van 's werelds toonaangevende bedrijven met door AI aangedreven inzichten en realtime marktanalyse.",
+          "feature1": "Amerikaanse Aandelen",
+          "feature2": "Europese Markten",
+          "feature3": "Aziatische Markten",
+          "feature4": "Pre-market Trading"
+        },
+        "crypto": {
+          "title": "Cryptocurrency",
+          "description": "Toegang tot 24/7 cryptocurrency-markten met geavanceerde handelstools en directe uitvoering.",
+          "feature1": "Bitcoin",
+          "feature2": "Ethereum",
+          "feature3": "DeFi Tokens",
+          "feature4": "Opkomende Altcoins"
+        },
+        "forex": {
+          "title": "Forex Trading",
+          "description": "Handel in belangrijke, kleine en exotische valutaparen met competitieve spreads en expertanalyse.",
+          "feature1": "Belangrijke Paren",
+          "feature2": "Kleine Paren",
+          "feature3": "Opkomende Markten",
+          "feature4": "Edelmetalen"
+        }
+      },
+      "marketFeatures": {
+        "title": "Geavanceerde Handelsfuncties",
+        "subtitle": "Alles wat u nodig heeft voor succesvol handelen",
+        "analysis": {
+          "title": "Technische Analyse",
+          "description": "Geavanceerde grafiektools met meer dan 100+ technische indicatoren"
+        },
+        "execution": {
+          "title": "Slimme Uitvoering",
+          "description": "Bliksemsnelle handelsuitvoering zonder slippage"
+        },
+        "alerts": {
+          "title": "Marktwaarschuwingen",
+          "description": "Realtime meldingen voor marktbewegingen en kansen"
+        },
+        "research": {
+          "title": "Marktonderzoek",
+          "description": "Diepgaande marktanalyse en onderzoeksrapporten"
+        },
+        "automation": {
+          "title": "Geautomatiseerd Handelen",
+          "description": "Stel aangepaste handelsstrategieën in met onze AI-algoritmen"
+        },
+        "risk": {
+          "title": "Risicobeheer",
+          "description": "Geavanceerde tools voor portefeuillerisicobeheer"
+        }
+      },
+      "marketStats": {
+        "title": "Marktstatistieken",
+        "subtitle": "Realtime inzichten in wereldwijde markten",
+        "stats": {
+          "volume": "Dagelijks Handelsvolume",
+          "markets": "Beschikbare Markten",
+          "execution": "Uitvoeringssnelheid",
+          "uptime": "Platform Uptime"
+        },
+        "values": {
+          "volume": "€5,2Mrd+",
+          "markets": "2.000+",
+          "execution": "<0,1s",
+          "uptime": "99,99%"
+        }
+      },
+      "tradingTools": {
+        "title": "Professionele Handelstools",
+        "subtitle": "State-of-the-art tools voor elke handelaar",
+        "items": {
+          "charts": {
+            "title": "Geavanceerde Grafieken",
+            "description": "Professionele grafieken met aanpasbare layouts en indicatoren"
+          },
+          "scanner": {
+            "title": "Marktscanner",
+            "description": "Realtime marktscanning voor handelsmogelijkheden"
+          },
+          "news": {
+            "title": "Nieuwsintegratie",
+            "description": "Live nieuwsfeed met AI-gestuurde sentimentanalyse"
+          },
+          "calendar": {
+            "title": "Economische Kalender",
+            "description": "Uitgebreide kalender voor economische gebeurtenissen en bedrijfsresultaten"
+          }
+        }
+      },
+      "cta": {
+        "title": "Begin met Handelen op Wereldwijde Markten",
+        "description": "Sluit u aan bij duizenden handelaren wereldwijd en krijg toegang tot onbeperkte handelsmogelijkheden met Quantum AI.",
+        "button": "Open Handelsaccount",
+        "demo": "Probeer Demo Account"
+      }
+    }
+  },
+  "team": {
+    "page": {
+      "hero": {
+        "title": "Ontmoet Ons Wereldwijde Team",
+        "description": "Gepassioneerde individuen die samenwerken om de handelservaring te revolutioneren"
+      },
+      "stats": {
+        "title": "Team Statistieken",
+        "employees": "50+ Medewerkers",
+        "countries": "12 Landen",
+        "remote": "100% Thuiswerken",
+        "culture": "Één Cultuur"
+      },
+      "departments": {
+        "leadership": {
+          "title": "Leiderschap",
+          "description": "Het sturen van onze visie en strategie",
+          "members": {
+            "1": {
+              "name": "Alexander Chen",
+              "role": "Algemeen Directeur",
+              "bio": "Voormalig fintech executive met 15+ jaar ervaring in het bouwen van schaalbare handelsplatformen",
+              "location": "Singapore",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Sofia Rodriguez",
+              "role": "Technisch Directeur",
+              "bio": "Tech veteraan gespecialiseerd in hoogfrequente handelssystemen en blockchain-technologie",
+              "location": "Barcelona",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "github",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Marcus Thompson",
+              "role": "Product Directeur",
+              "bio": "Product strateeg gericht op gebruikersgerichte design en innovatie in fintech",
+              "location": "Londen",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        },
+        "engineering": {
+          "title": "Engineering",
+          "description": "Bouwen aan de toekomst van handelstechnologie",
+          "members": {
+            "1": {
+              "name": "Yuki Tanaka",
+              "role": "Lead Backend Engineer",
+              "bio": "Expert in gedistribueerde systemen met focus op hoogwaardige handelsengines",
+              "location": "Tokyo",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "github",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "linkedin",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Elena Popov",
+              "role": "Frontend Team Lead",
+              "bio": "React specialist in het creëren van intuïtieve handelsinterfaces",
+              "location": "Berlijn",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "github",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "dribbble",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Raj Patel",
+              "role": "Security Engineer",
+              "bio": "Cybersecurity expert die zorgt voor veilige en beveiligde handelsoperaties",
+              "location": "Mumbai",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "github",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        },
+        "product": {
+          "title": "Product & Design",
+          "description": "Het creëren van naadloze gebruikerservaringen",
+          "members": {
+            "1": {
+              "name": "Isabella Costa",
+              "role": "Product Manager",
+              "bio": "Ervaren in het bouwen van gebruikersgerichte handelsproducten",
+              "location": "São Paulo",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "medium",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Lucas Weber",
+              "role": "UX Research Lead",
+              "bio": "Uitvoeren van gebruikersonderzoek om handelsworkflows te optimaliseren",
+              "location": "Amsterdam",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "medium",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Zara Mitchell",
+              "role": "Senior UI Designer",
+              "bio": "Het creëren van mooie en functionele handelsinterfaces",
+              "location": "Sydney",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "dribbble",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "behance",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        },
+        "marketing": {
+          "title": "Marketing & Groei",
+          "description": "Uitbreiding van onze wereldwijde aanwezigheid",
+          "members": {
+            "1": {
+              "name": "Pierre Dubois",
+              "role": "Marketing Directeur",
+              "bio": "Strategisch marketeer met expertise in wereldwijde fintech markten",
+              "location": "Parijs",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            },
+            "2": {
+              "name": "Sarah O'Connor",
+              "role": "Content Strategie Lead",
+              "bio": "Het creëren van educatieve content voor handelaren wereldwijd",
+              "location": "Dublin",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "medium",
+                  "url": "#"
+                }
+              }
+            },
+            "3": {
+              "name": "Mohammed Al-Rashid",
+              "role": "Growth Manager",
+              "bio": "Aandrijven van gebruikersacquisitie en retentiestrategieën",
+              "location": "Dubai",
+              "links": {
+                "count": 2,
+                "link1": {
+                  "type": "linkedin",
+                  "url": "#"
+                },
+                "link2": {
+                  "type": "twitter",
+                  "url": "#"
+                }
+              }
+            }
+          }
+        }
+      },
+      "joinUs": {
+        "title": "Word Lid van Ons Team",
+        "description": "We zijn altijd op zoek naar getalenteerde individuen om zich bij onze missie aan te sluiten",
+        "button": "Bekijk Openstaande Functies",
+        "culture": "Leer Over Onze Cultuur"
+      }
+    }
+  },
+  "auth": {
+    "signup": {
+      "title": "Begin Uw Handelsreis",
+      "subtitle": "Word lid van duizenden succesvolle handelaren op Quantum AI",
+      "benefits": {
+        "title": "Waarom Kiezen voor Quantum AI?",
+        "items": {
+          "ai": {
+            "title": "AI-Gedreven Handel",
+            "description": "Toegang tot geavanceerde kunstmatige intelligentie voor slimmere handelsbeslissingen"
+          },
+          "security": {
+            "title": "Bankwaardige Beveiliging",
+            "description": "Uw fondsen en gegevens worden beschermd door militaire versleuteling"
+          },
+          "support": {
+            "title": "24/7 Expert Ondersteuning",
+            "description": "Krijg hulp wanneer u het nodig heeft van ons ervaren team"
+          }
+        }
+      },
+      "form": {
+        "title": "Maak Uw Account Aan",
+        "firstName": {
+          "label": "Voornaam",
+          "placeholder": "Voer uw voornaam in"
+        },
+        "lastName": {
+          "label": "Achternaam",
+          "placeholder": "Voer uw achternaam in"
+        },
+        "email": {
+          "label": "E-mailadres",
+          "placeholder": "Voer uw e-mailadres in"
+        },
+        "phone": {
+          "label": "Telefoonnummer",
+          "placeholder": "Voer uw telefoonnummer in"
+        },
+        "password": {
+          "label": "Wachtwoord",
+          "placeholder": "Kies een sterk wachtwoord"
+        },
+        "confirmPassword": {
+          "label": "Bevestig Wachtwoord",
+          "placeholder": "Bevestig uw wachtwoord"
+        },
+        "submit": "Account Aanmaken",
+        "terms": "Door u aan te melden, gaat u akkoord met onze",
+        "termsLink": "Servicevoorwaarden",
+        "and": "en",
+        "privacyLink": "Privacybeleid",
+        "loginPrompt": "Heeft u al een account?",
+        "loginLink": "Inloggen"
+      }
+    },
+    "signin": {
+      "title": "Welkom Terug",
+      "subtitle": "Toegang tot uw Quantum AI handelsaccount",
+      "form": {
+        "title": "Log In op Uw Account",
+        "email": {
+          "label": "E-mailadres",
+          "placeholder": "Voer uw e-mailadres in"
+        },
+        "password": {
+          "label": "Wachtwoord",
+          "placeholder": "Voer uw wachtwoord in"
+        },
+        "rememberMe": "Onthoud mij",
+        "forgotPassword": "Wachtwoord Vergeten?",
+        "submit": "Inloggen",
+        "signupPrompt": "Nog geen account?",
+        "signupLink": "Registreren",
+        "demo": "Probeer Demo Account"
+      },
+      "features": {
+        "title": "Account Voordelen",
+        "items": {
+          "markets": {
+            "title": "Wereldwijde Markten",
+            "description": "Handel in aandelen, crypto, forex en meer"
+          },
+          "analysis": {
+            "title": "Geavanceerde Analyse",
+            "description": "Toegang tot professionele handelstools en inzichten"
+          },
+          "portfolio": {
+            "title": "Portefeuillebeheer",
+            "description": "Volg en optimaliseer uw investeringen"
+          }
+        }
+      }
+    }
+  }
+} 
