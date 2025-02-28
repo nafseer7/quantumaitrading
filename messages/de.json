@@ -220,5 +220,108 @@
       "privacy": "Datenschutz",
       "cookies": "Cookies"
     }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: 15. März 2024",
+    "introduction": {
+      "title": "Einführung",
+      "content": "Bei Quantum AI legen wir höchsten Wert auf den Schutz Ihrer persönlichen Daten und die Wahrung Ihrer Privatsphäre.",
+      "policyPurpose": "Unsere Datenschutzerklärung soll klar erläutern, wie wir die Daten, die Sie über unsere Website quantumaiplatform.com (im Folgenden als \"Website\" bezeichnet) bereitstellen, verwalten, erfassen, speichern und nutzen.",
+      "principles": "Unser Versprechen an Sie umfasst diese Grundprinzipien:",
+      "communication": {
+        "title": "Klare Kommunikation über die Nutzung Ihrer persönlichen Daten",
+        "content": "Wir sind bestrebt, Ihnen umfassende Informationen zur Verfügung zu stellen, die es Ihnen ermöglichen, fundierte Entscheidungen über die Verarbeitung Ihrer persönlichen Daten zu treffen. Unser Ziel ist es, relevante Details über den Umgang mit Ihren Daten klar und zeitnah bereitzustellen.",
+        "additionalInfo": "Sollte es darüber hinaus erforderlich sein, Ihnen bestimmte Informationen mitzuteilen, stellen wir sicher, dass dies zum geeignetsten Zeitpunkt und in der angemessensten Form geschieht.",
+        "contact": "Bei Fragen oder für weitere Klärung steht Ihnen unser Team im Rahmen der gesetzlichen Bestimmungen zur Verfügung. Zögern Sie nicht, uns unter support@quantumaiplatform.com zu kontaktieren."
+      }
+    },
+    "dataProcessing": {
+      "title": "Verarbeitung Ihrer Daten",
+      "content": "Ihre persönlichen Daten können für verschiedene Zwecke verarbeitet werden. Dazu gehören der Zugang und die Nutzung unserer Website, die Verbesserung der Benutzererfahrung, die Optimierung unserer Dienste (einschließlich der Website selbst), der Schutz unserer rechtlichen Interessen, die Durchführung von Geschäfts- und Verwaltungsaufgaben zur Unterstützung der Dienstleistungserbringung, die Einhaltung gesetzlicher und/oder regulatorischer Verpflichtungen sowie das Verständnis Ihrer Präferenzen und Bedürfnisse."
+    },
+    "rights": {
+      "title": "Ihre Rechte und Datensicherheit",
+      "content": "Wir erkennen Ihre Rechte als betroffene Person an und respektieren diese. Sie können sich jederzeit an uns wenden, um Ihre persönlichen Daten einzusehen, Änderungen oder Löschungen zu beantragen, deren Nutzung für bestimmte Aktivitäten oder vollständig einzuschränken oder sie an Sie oder Dritte übertragen zu lassen. Seien Sie versichert, dass wir in Übereinstimmung mit den gesetzlichen Anforderungen handeln werden.",
+      "security": "Auch wenn absolute Sicherheit nie garantiert werden kann, möchten wir Ihnen versichern, dass wir eine breite Palette von Strategien und Maßnahmen einsetzen, um Ihre persönlichen Daten zu schützen."
+    },
+    "scope": {
+      "title": "Umfang und Definitionen",
+      "content": "Diese Richtlinie beschreibt im Detail, wie wir mit persönlichen Daten umgehen, einschließlich ihrer Erfassung, Nutzung, Weitergabe, Schutz, Verarbeitung und mehr.",
+      "personalData": "Personenbezogene Daten in dieser Richtlinie beziehen sich auf alle Informationen, die sich auf eine identifizierbare Person beziehen. Eine identifizierbare Person ist jemand, der direkt oder indirekt anhand der Informationen, die wir haben oder auf die wir zugreifen können, identifiziert werden kann.",
+      "processing": "Der Begriff Verarbeitung umfasst hier jede Operation mit personenbezogenen Daten, wie Erhebung, Aufzeichnung, Organisation, Speicherung, Änderung, Abruf, Nutzung, Offenlegung, Kombination, Einschränkung, Löschung oder Vernichtung.",
+      "children": "Wir richten unsere Dienste nicht an Kinder unter 18 Jahren und erheben wissentlich keine Daten von ihnen. Sollten wir feststellen, dass wir versehentlich Daten von einem Kind erfasst haben, werden wir diese umgehend löschen."
+    },
+    "collection": {
+      "title": "Datenerfassung und -verarbeitung",
+      "content": "Wir erfassen personenbezogene Daten, wenn Sie mit unseren Diensten interagieren, unsere Website besuchen oder uns kontaktieren. Manchmal stellen Sie diese Daten freiwillig zur Verfügung; in anderen Fällen erfassen wir sie durch die Analyse Ihrer Interaktionen mit unseren Diensten.",
+      "voluntary": "Die Bereitstellung Ihrer persönlichen Daten ist zwar nicht verpflichtend, aber eine Nichtbereitstellung kann unsere Fähigkeit einschränken, unsere Dienste zu erbringen, Ihr Website-Erlebnis beeinträchtigen oder die Funktionalität unserer Dienste reduzieren."
+    },
+    "dataTypes": {
+      "title": "Arten der erfassten Daten",
+      "intro": "Wir erfassen während Ihrer Besuche auf unserer Website folgende Daten:",
+      "types": [
+        "Online-Aktivitätsprotokolle",
+        "Verkehrsdaten (IP-Adressen, Zugriffszeiten, besuchte Seiten)",
+        "Spracheinstellungen",
+        "Absturzberichte",
+        "Browsertypen",
+        "Geräteinformationen",
+        "Freiwillig bereitgestellte persönliche Daten",
+        "Mit Dritten geteilte Daten"
+      ]
+    },
+    "legalBasis": {
+      "title": "Rechtsgrundlage für die Verarbeitung",
+      "intro": "Wir verarbeiten Ihre personenbezogenen Daten auf Grundlage folgender Rechtsgrundlagen:",
+      "bases": [
+        "Ihre ausdrückliche Einwilligung",
+        "Berechtigte Interessen, die von uns oder Dritten verfolgt werden",
+        "Einhaltung gesetzlicher Verpflichtungen"
+      ]
+    },
+    "sharing": {
+      "title": "Datenweitergabe",
+      "intro": "Quantum AI kann Ihre personenbezogenen Daten weitergeben an:",
+      "recipients": [
+        "Externe Dienstleister",
+        "Kryptowährungs-Handelsplattformen von Drittanbietern",
+        "Partner und Geschäftspartner",
+        "Rechtliche und regulatorische Behörden",
+        "Potenzielle Käufer oder Investoren im Falle von Geschäftstransaktionen"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies und Tracking",
+      "intro": "Wir verwenden Cookies und ähnliche Tracking-Technologien, darunter:",
+      "types": {
+        "essential": "Essentielle Cookies - Notwendig für Navigation und Funktionen",
+        "functional": "Funktionale Cookies - Speichern Präferenzen und erkennen wiederkehrende Besuche",
+        "performance": "Performance-Cookies - Sammeln Statistiken zur Optimierung der Leistung"
+      },
+      "control": "Sie können Ihre Cookie-Einstellungen über Ihren Browser anpassen. Unser Service reagiert derzeit nicht auf Do-Not-Track-Signale."
+    },
+    "international": {
+      "title": "Internationale Datenübermittlung",
+      "content": "Ihre personenbezogenen Daten können international übermittelt werden. Wir stellen geeignete Schutzmaßnahmen sicher, um Ihre Daten zu schützen und durchsetbare Rechte und Rechtsmittel bereitzustellen. Für EWR-Einwohner umfassen diese Schutzmaßnahmen von der EU-Kommission genehmigte Datenschutzmaßnahmen."
+    },
+    "userRights": {
+      "title": "Ihre Rechte",
+      "intro": "Sie haben folgende Rechte in Bezug auf Ihre personenbezogenen Daten:",
+      "rights": [
+        "Recht auf Auskunft",
+        "Recht auf Berichtigung",
+        "Recht auf Löschung",
+        "Recht auf Einschränkung der Verarbeitung",
+        "Recht auf Datenübertragbarkeit",
+        "Recht auf Widerspruch",
+        "Recht auf Widerruf der Einwilligung",
+        "Recht auf Beschwerde bei einer Aufsichtsbehörde"
+      ]
+    },
+    "contact": {
+      "title": "Kontakt",
+      "content": "Bei Fragen zu dieser Datenschutzerklärung oder zur Ausübung Ihrer Rechte kontaktieren Sie uns bitte unter support@quantumaiplatform.com"
+    }
   }
 } 

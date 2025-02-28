@@ -1,126 +1,147 @@
 'use client';
 
 import LegalPageLayout from "@/app/components/LegalPageLayout";
+import { useTranslations } from 'next-intl';
 
 export default function PrivacyPolicyPage() {
+  const t = useTranslations('privacy');
+
+  // Helper function to safely get array translations
+  const getArrayTranslation = (key: string): string[] => {
+    try {
+      const value = t.raw(key);
+      return Array.isArray(value) ? value : [];
+    } catch (e) {
+      console.error(`Error getting translation array for key: ${key}`, e);
+      return [];
+    }
+  };
+
+  const dataTypes = getArrayTranslation('dataTypes.types');
+  const legalBases = getArrayTranslation('legalBasis.bases');
+  const recipients = getArrayTranslation('sharing.recipients');
+  const rights = getArrayTranslation('userRights.rights');
+
   return (
     <LegalPageLayout
-      title="Privacy Policy"
-      lastUpdated="March 15, 2024"
+      title={t('title')}
+      lastUpdated={t('lastUpdated')}
     >
       <div className="text-white space-y-8">
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Introduction</h2>
+          <h2 className="text-2xl font-semibold mb-4">{t('introduction.title')}</h2>
           <p className="mb-4">
-            At Quantum AI, we take your privacy seriously. This Privacy Policy explains how we collect,
-            use, disclose, and safeguard your information when you use our trading platform and services.
+            {t('introduction.content')}
+            <br /><br />
+            {t('introduction.policyPurpose')}
+            <br /><br />
+            {t('introduction.principles')}
+            <br /><br />
+            {t('introduction.communication.title')}
+            <br /><br />
+            {t('introduction.communication.content')}
+            <br /><br />
+            {t('introduction.communication.additionalInfo')}
+            <br /><br />
+            {t('introduction.communication.contact')}
           </p>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Information We Collect</h2>
-          <h3 className="text-xl font-semibold mb-2">Personal Information</h3>
-          <p className="mb-4">We collect information that you provide directly to us, including:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Name and contact information</li>
-            <li>Date of birth and government-issued identification</li>
-            <li>Financial information and trading history</li>
-            <li>Communication preferences</li>
-          </ul>
-
-          <h3 className="text-xl font-semibold mb-2 mt-6">Automatically Collected Information</h3>
-          <p className="mb-4">When you use our platform, we automatically collect:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Device and browser information</li>
-            <li>IP address and location data</li>
-            <li>Usage patterns and preferences</li>
-            <li>Trading activity and performance</li>
-          </ul>
+          <h2 className="text-2xl font-semibold mb-4">{t('dataProcessing.title')}</h2>
+          <p className="mb-4">{t('dataProcessing.content')}</p>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">How We Use Your Information</h2>
-          <p className="mb-4">We use the collected information to:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Provide and improve our trading services</li>
-            <li>Process your transactions</li>
-            <li>Comply with regulatory requirements</li>
-            <li>Detect and prevent fraud</li>
-            <li>Send you important updates and communications</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2 className="text-2xl font-semibold mb-4">Data Security</h2>
+          <h2 className="text-2xl font-semibold mb-4">{t('rights.title')}</h2>
           <p className="mb-4">
-            We implement robust security measures to protect your information, including encryption,
-            firewalls, and secure server infrastructure. However, no method of transmission over the
-            Internet is 100% secure.
+            {t('rights.content')}
+            <br /><br />
+            {t('rights.security')}
           </p>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Information Sharing</h2>
-          <p className="mb-4">We may share your information with:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Financial institutions and trading partners</li>
-            <li>Regulatory authorities</li>
-            <li>Service providers and contractors</li>
-            <li>Legal and compliance consultants</li>
-          </ul>
+          <h2 className="text-2xl font-semibold mb-4">{t('scope.title')}</h2>
+          <p className="mb-4">
+            {t('scope.content')}
+            <br /><br />
+            {t('scope.personalData')}
+            <br /><br />
+            {t('scope.processing')}
+            <br /><br />
+            {t('scope.children')}
+          </p>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Your Rights</h2>
-          <p className="mb-4">You have the right to:</p>
+          <h2 className="text-2xl font-semibold mb-4">{t('collection.title')}</h2>
+          <p className="mb-4">
+            {t('collection.content')}
+            <br /><br />
+            {t('collection.voluntary')}
+          </p>
+        </section>
+
+        <section>
+          <h2 className="text-2xl font-semibold mb-4">{t('dataTypes.title')}</h2>
+          <p className="mb-4">{t('dataTypes.intro')}</p>
           <ul className="list-disc pl-6 space-y-2">
-            <li>Access your personal information</li>
-            <li>Correct inaccurate data</li>
-            <li>Request deletion of your data</li>
-            <li>Opt-out of marketing communications</li>
-            <li>Data portability</li>
+            {dataTypes.map((type, index) => (
+              <li key={index}>{type}</li>
+            ))}
           </ul>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Cookies and Tracking</h2>
-          <p className="mb-4">
-            We use cookies and similar tracking technologies to enhance your experience. You can
-            control cookie preferences through your browser settings. For more information, please
-            see our Cookie Policy.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('legalBasis.title')}</h2>
+          <p className="mb-4">{t('legalBasis.intro')}</p>
+          <ul className="list-disc pl-6 space-y-2">
+            {legalBases.map((basis, index) => (
+              <li key={index}>{basis}</li>
+            ))}
+          </ul>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">International Data Transfers</h2>
-          <p className="mb-4">
-            Your information may be transferred to and processed in countries other than your own.
-            We ensure appropriate safeguards are in place for such transfers.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sharing.title')}</h2>
+          <p className="mb-4">{t('sharing.intro')}</p>
+          <ul className="list-disc pl-6 space-y-2">
+            {recipients.map((recipient, index) => (
+              <li key={index}>{recipient}</li>
+            ))}
+          </ul>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Children&apos;s Privacy</h2>
-          <p className="mb-4">
-            Our services are not intended for individuals under 18. We do not knowingly collect
-            information from minors.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('cookies.title')}</h2>
+          <p className="mb-4">{t('cookies.intro')}</p>
+          <ul className="list-disc pl-6 space-y-2">
+            <li>{t('cookies.types.essential')}</li>
+            <li>{t('cookies.types.functional')}</li>
+            <li>{t('cookies.types.performance')}</li>
+          </ul>
+          <p className="mt-4">{t('cookies.control')}</p>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Changes to This Policy</h2>
-          <p className="mb-4">
-            We may update this Privacy Policy periodically. We will notify you of any material
-            changes through our platform or via email.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('international.title')}</h2>
+          <p className="mb-4">{t('international.content')}</p>
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
-          <p className="mb-4">
-            If you have questions about this Privacy Policy or our privacy practices, please
-            contact our Data Protection Officer at privacy@quantumai.com
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('userRights.title')}</h2>
+          <p className="mb-4">{t('userRights.intro')}</p>
+          <ul className="list-disc pl-6 space-y-2">
+            {rights.map((right, index) => (
+              <li key={index}>{right}</li>
+            ))}
+          </ul>
+        </section>
+
+        <section>
+          <h2 className="text-2xl font-semibold mb-4">{t('contact.title')}</h2>
+          <p className="mb-4">{t('contact.content')}</p>
         </section>
       </div>
     </LegalPageLayout>

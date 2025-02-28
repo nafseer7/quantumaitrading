@@ -857,5 +857,138 @@
         }
       }
     }
+  },
+  "elonMusk": {
+    "title": "Opheldering over Quantum AI en Elon Musk",
+    "disclaimer": {
+      "title": "Belangrijke Disclaimer",
+      "content": "We willen absoluut duidelijk zijn: Elon Musk heeft geen enkele connectie met de handelssoftware van Quantum AI, Quantum AI Ltd, de Quantum AI-app, het platform, de robot of enige van onze diensten. Elke bewering die het tegendeel suggereert, is onjuist."
+    },
+    "sections": {
+      "independent": {
+        "title": "Begrip van de Onafhankelijke Werking van Quantum AI",
+        "content": "Quantum AI opereert als een autonome entiteit en biedt gespecialiseerde diensten voor de financiële markt. Onze suite omvat geavanceerde handelssoftware, een uitgebreid platform, een gebruiksvriendelijke applicatie en een geautomatiseerd handelssysteem. We integreren geavanceerde quantum computing-technologie in ons handelssysteem, wat een belangrijke vooruitgang betekent in de mogelijkheden van geautomatiseerd handelen."
+      },
+      "platform": {
+        "title": "Kenmerken van het Quantum AI-platform",
+        "content": "Onze handelssoftware onderscheidt zich door zijn effectiviteit en transformerende impact op handelsdynamiek. Het platform stelt handelaren in staat hun instellingen aan te passen, terwijl onze AI-gestuurde bot binnen deze parameters werkt en traditionele handelsmethoden revolutioneert. We hebben met succes verschillende uitdagingen aangepakt en overwonnen om onze legitimiteit op de markt te vestigen."
+      },
+      "muskVentures": {
+        "title": "Elon Musk's Echte AI-Projecten",
+        "content": "Hoewel Elon Musk geen associatie heeft met Quantum AI, is zijn oprechte interesse in kunstmatige intelligentie opmerkelijk. Als de innovator achter Tesla en SpaceX pleit Musk voor verantwoordelijke AI-ontwikkeling, met name via zijn werk met OpenAI en Tesla's AI-initiatieven."
+      },
+      "security": {
+        "title": "Veiligheid en Regulering",
+        "content": "We benadrukken het belang van samenwerken met gereguleerde makelaars om veiligheid en betrouwbaarheid in financiële handel te waarborgen. Dit principe leidt onze activiteiten bij Quantum AI, waar we een strikte naleving van regelgevende normen handhaven."
+      }
+    },
+    "cta": {
+      "title": "Begin met Handelen met Quantum AI",
+      "description": "Ervaar de kracht van geavanceerde AI-gestuurde handelstechnologie. Maak vandaag nog een account aan en sluit je aan bij duizenden succesvolle handelaren.",
+      "button": "Begin Nu"
+    }
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "lastUpdated": "Laatst bijgewerkt: 15 maart 2024",
+    "introduction": {
+      "title": "Inleiding",
+      "content": "Bij Quantum AI hechten we de hoogste waarde aan het beschermen van jouw persoonlijke gegevens en het waarborgen van jouw privacy.",
+      "policyPurpose": "Ons Privacybeleid is ontworpen om duidelijk uit te leggen hoe we jouw gegevens beheren, verzamelen, opslaan en gebruiken via onze website quantumaiplatform.com (hierna de \"Website\" genoemd).",
+      "principles": "Onze belofte aan jou omvat deze kernprincipes:",
+      "communication": {
+        "title": "Duidelijke communicatie over het gebruik van jouw persoonlijke gegevens",
+        "content": "We zijn toegewijd aan het verstrekken van uitgebreide informatie, zodat je goed geïnformeerde keuzes kunt maken over de verwerking van jouw persoonlijke gegevens. Ons doel is om relevante details op een duidelijke en tijdige manier te verstrekken.",
+        "additionalInfo": "Daarnaast, als het nodig is om specifieke informatie aan jou te communiceren, zorgen we ervoor dat dit gebeurt op het meest geschikte moment en op de meest passende manier.",
+        "contact": "Voor vragen of verdere verduidelijking staat ons team klaar om je te helpen binnen de wettelijke grenzen. Neem gerust contact met ons op via support@quantumaiplatform.com."
+      }
+    },
+    "dataProcessing": {
+      "title": "Verwerking van jouw gegevens",
+      "content": "Jouw persoonlijke gegevens kunnen voor verschillende doeleinden worden verwerkt, waaronder het mogelijk maken van toegang tot en gebruik van onze Website, het verbeteren van de gebruikerservaring, het optimaliseren van onze diensten, het beschermen van onze juridische rechten, het naleven van wettelijke verplichtingen en het begrijpen van jouw voorkeuren en behoeften."
+    },
+    "rights": {
+      "title": "Jouw rechten en gegevensbeveiliging",
+      "content": "We erkennen en respecteren jouw rechten als betrokkene. Je kunt ons altijd contacteren om jouw persoonlijke gegevens te bekijken, wijzigingen of verwijdering aan te vragen, het gebruik ervan te beperken of de overdracht ervan te regelen. We handelen steeds in overeenstemming met de toepasselijke wetgeving.",
+      "security": "Hoewel absolute veiligheid niet kan worden gegarandeerd, willen we je verzekeren dat we diverse strategieën en maatregelen implementeren om jouw persoonlijke gegevens te beschermen."
+    },
+    "scope": {
+      "title": "Toepassingsgebied en definities",
+      "content": "Dit beleid beschrijft hoe we omgaan met persoonlijke gegevens, inclusief de verzameling, het gebruik, de delen, de bescherming en de verwerking ervan.",
+      "personalData": "Onder Persoonlijke Gegevens verstaan we in dit beleid alle informatie die betrekking heeft op een identificeerbare persoon, direct of indirect, met behulp van de gegevens waarover wij beschikken of waartoe wij toegang hebben.",
+      "processing": "De term verwerking omvat hier elke handeling met betrekking tot persoonlijke gegevens, zoals verzameling, registratie, organisatie, opslag, wijziging, opvraging, gebruik, openbaarmaking, combinatie, beperking, verwijdering of vernietiging.",
+      "children": "Onze diensten zijn niet bedoeld voor kinderen onder de 18 jaar en we verzamelen niet bewust gegevens van hen. Indien we ontdekken dat we onbedoeld gegevens van een kind hebben verzameld, zullen we deze onmiddellijk verwijderen."
+    },
+    "collection": {
+      "title": "Gegevensverzameling en verwerking",
+      "content": "We verzamelen persoonlijke gegevens wanneer je interacteert met onze Diensten, onze Website bezoekt of contact met ons opneemt. Soms verstrek je deze gegevens vrijwillig; andere keren verzamelen we ze door jouw interacties met onze Diensten te analyseren.",
+      "voluntary": "Het verstrekken van jouw persoonlijke gegevens is niet verplicht, maar als je dit niet doet, kan dit de functionaliteit van onze Diensten beperken of jouw ervaring met de Website beïnvloeden."
+    },
+    "dataTypes": {
+      "title": "Soorten verzamelde gegevens",
+      "intro": "We verzamelen gegevens tijdens jouw bezoek aan onze Website, waaronder:",
+      "types": [
+        "Online activiteitslogs",
+        "Verkeersgegevens (IP-adressen, toegangstijden, bezochte pagina’s)",
+        "Taalvoorkeuren",
+        "Crashrapporten",
+        "Browsertype",
+        "Apparaatgegevens",
+        "Vrijwillig verstrekte persoonlijke gegevens",
+        "Gegevens gedeeld met derden"
+      ]
+    },
+    "legalBasis": {
+      "title": "Wettelijke basis voor verwerking",
+      "intro": "Wij verwerken jouw Persoonlijke Gegevens op basis van de volgende rechtsgronden:",
+      "bases": [
+        "Jouw expliciete toestemming",
+        "Gerechtvaardigde belangen die door ons of derden worden nagestreefd",
+        "Naleving van wettelijke verplichtingen"
+      ]
+    },
+    "sharing": {
+      "title": "Delen van gegevens",
+      "intro": "Quantum AI kan jouw Persoonlijke Gegevens delen met:",
+      "recipients": [
+        "Externe serviceproviders",
+        "Derde cryptocurrency-handelsplatformen",
+        "Partnerbedrijven en zakelijke partners",
+        "Wettelijke en regelgevende instanties",
+        "Potentiële kopers of investeerders in geval van zakelijke transacties"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies en tracking",
+      "intro": "We maken gebruik van cookies en soortgelijke trackingtechnologieën, waaronder:",
+      "types": {
+        "essential": "Essentiële cookies - Noodzakelijk voor navigatie en basisfunctionaliteiten",
+        "functional": "Functionele cookies - Onthouden voorkeuren en herkennen terugkerende bezoekers",
+        "performance": "Prestatiecookies - Verzamelen statistieken om de prestaties te optimaliseren"
+      },
+      "control": "Je kunt jouw browserinstellingen aanpassen om cookies te beheren. Onze service reageert momenteel niet op Do-Not-Track-signalen."
+    },
+    "international": {
+      "title": "Internationale gegevensoverdracht",
+      "content": "Jouw Persoonlijke Gegevens kunnen internationaal worden overgedragen. We waarborgen passende beschermingsmaatregelen om jouw gegevens te beschermen en om afdwingbare rechten en rechtsmiddelen te bieden. Voor inwoners van de EER omvatten deze waarborgen door de EU-Commissie goedgekeurde gegevensbeschermingsmaatregelen."
+    },
+    "userRights": {
+      "title": "Jouw rechten",
+      "intro": "Je hebt de volgende rechten met betrekking tot jouw Persoonlijke Gegevens:",
+      "rights": [
+        "Recht op inzage",
+        "Recht op rectificatie",
+        "Recht op verwijdering",
+        "Recht op beperking van verwerking",
+        "Recht op gegevensoverdraagbaarheid",
+        "Recht van bezwaar",
+        "Recht om toestemming in te trekken",
+        "Recht om een klacht in te dienen"
+      ]
+    },
+    "contact": {
+      "title": "Neem contact met ons op",
+      "content": "Voor vragen over dit Privacybeleid of om jouw rechten uit te oefenen, neem contact met ons op via support@quantumai.com.ai"
+    }
   }
 }

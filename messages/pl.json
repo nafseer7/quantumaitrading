@@ -402,7 +402,6 @@
             "regulations": "Uwaga: W Stanach Zjednoczonych handel opcjami na towary jest ograniczony do giełd zatwierdzonych przez CFTC lub legalnych wyjątków. Mieszkańcy Wielkiej Brytanii podlegają polityce FCA PS20/10 dotyczącej kontraktów CFD.",
             "consent": "Korzystając z naszej usługi, wyrażasz zgodę na udostępnianie swoich informacji zewnętrznym usługom handlowym zgodnie z naszą Polityką Prywatności. Możesz wybrać między handlem automatycznym, brokerami ludzkimi lub samodzielnym handlem."
         },
-        
         "copyright": "© {year} QuantumAI. Wszelkie prawa zastrzeżone.",
         "bottomLinks": {
             "terms": "Regulamin",
@@ -862,6 +861,139 @@
                     }
                 }
             }
+        }
+    },
+    "elonMusk": {
+        "title": "Wyjaśnienie związku między Quantum AI a Elonem Muskiem",
+        "disclaimer": {
+            "title": "Ważne zastrzeżenie",
+            "content": "Chcemy to wyjaśnić w sposób absolutnie jasny: Elon Musk nie ma żadnego związku z oprogramowaniem handlowym Quantum AI, Quantum AI Ltd, aplikacją Quantum AI, platformą, robotem ani żadną z naszych usług. Wszelkie twierdzenia sugerujące inaczej są nieprawdziwe."
+        },
+        "sections": {
+            "independent": {
+                "title": "Niezależne funkcjonowanie Quantum AI",
+                "content": "Quantum AI działa jako niezależny podmiot, oferując wyspecjalizowane usługi na rynku finansowym. Nasza oferta obejmuje zaawansowane oprogramowanie do handlu, kompleksową platformę, przyjazną dla użytkownika aplikację oraz zautomatyzowany system handlowy. Integrujemy najnowocześniejszą technologię obliczeń kwantowych w naszym systemie handlowym, co stanowi znaczący krok naprzód w możliwościach automatyzowanego handlu."
+            },
+            "platform": {
+                "title": "Funkcje platformy Quantum AI",
+                "content": "Nasze oprogramowanie handlowe wyróżnia się skutecznością i transformacyjnym wpływem na dynamikę handlu. Platforma umożliwia inwestorom dostosowanie swoich ustawień, a nasz bot oparty na sztucznej inteligencji działa w ich ramach, rewolucjonizując tradycyjne podejście do handlu. Skutecznie pokonaliśmy liczne wyzwania, aby ugruntować naszą wiarygodność na rynku."
+            },
+            "muskVentures": {
+                "title": "Prawdziwe przedsięwzięcia Elona Muska związane ze sztuczną inteligencją",
+                "content": "Chociaż Elon Musk nie ma żadnych powiązań z Quantum AI, jego zainteresowanie sztuczną inteligencją jest godne uwagi. Jako innowator stojący za Teslą i SpaceX, Musk aktywnie promuje odpowiedzialny rozwój AI, szczególnie poprzez swoje działania w OpenAI oraz inicjatywy AI w Tesli."
+            },
+            "security": {
+                "title": "Bezpieczeństwo i regulacje",
+                "content": "Podkreślamy znaczenie współpracy z regulowanymi brokerami w celu zapewnienia bezpieczeństwa i wiarygodności transakcji finansowych. Ta zasada jest kluczowa dla naszej działalności w Quantum AI, gdzie ściśle przestrzegamy obowiązujących norm regulacyjnych."
+            }
+        },
+        "cta": {
+            "title": "Rozpocznij handel z Quantum AI",
+            "description": "Doświadcz mocy zaawansowanej technologii handlu opartej na sztucznej inteligencji. Załóż konto już dziś i dołącz do tysięcy odnoszących sukcesy inwestorów.",
+            "button": "Rozpocznij teraz"
+        }
+    },
+    "privacy": {
+        "title": "Polityka Prywatności",
+        "lastUpdated": "Ostatnia aktualizacja: 15 marca 2024",
+        "introduction": {
+            "title": "Wprowadzenie",
+            "content": "W Quantum AI przywiązujemy najwyższą wagę do ochrony Twoich danych osobowych i zachowania prywatności.",
+            "policyPurpose": "Nasza Polityka Prywatności została stworzona w celu jasnego wyjaśnienia, w jaki sposób zarządzamy, zbieramy, przechowujemy i wykorzystujemy dane, które nam przekazujesz za pośrednictwem naszej strony internetowej quantumaiplatform.com (zwanej dalej \"Stroną\").",
+            "principles": "Nasze zobowiązania wobec Ciebie obejmują następujące kluczowe zasady:",
+            "communication": {
+                "title": "Jasna komunikacja dotycząca wykorzystania Twoich danych osobowych",
+                "content": "Dostarczamy kompleksowe informacje, które pozwalają Ci podejmować świadome decyzje dotyczące przetwarzania Twoich danych osobowych. Naszym celem jest przekazywanie istotnych informacji w sposób przejrzysty i terminowy.",
+                "additionalInfo": "Dodatkowo, jeśli zachodzi konieczność przekazania Ci określonych informacji, zapewniamy, że zostanie to zrobione w odpowiednim czasie i we właściwy sposób.",
+                "contact": "W razie pytań lub potrzeby wyjaśnień nasz zespół jest gotowy do pomocy w granicach obowiązującego prawa. Skontaktuj się z nami pod adresem support@quantumaiplatform.com."
+            }
+        },
+        "dataProcessing": {
+            "title": "Przetwarzanie Twoich danych",
+            "content": "Twoje dane osobowe mogą być przetwarzane w różnych celach, takich jak umożliwienie dostępu do Strony, poprawa doświadczenia użytkownika, ulepszanie naszych usług, ochrona prawnych interesów, prowadzenie działalności administracyjnej, przestrzeganie wymogów prawnych oraz zrozumienie Twoich preferencji i potrzeb."
+        },
+        "rights": {
+            "title": "Twoje prawa i bezpieczeństwo danych",
+            "content": "Uznajemy i respektujemy Twoje prawa jako osoby, której dane dotyczą. Możesz się z nami skontaktować w celu przeglądu swoich danych osobowych, żądania ich modyfikacji lub usunięcia, ograniczenia ich przetwarzania lub przekazania ich Tobie lub stronie trzeciej. Działamy zgodnie z obowiązującym prawem.",
+            "security": "Chociaż nie możemy zagwarantować absolutnego bezpieczeństwa, stosujemy szeroki zakres strategii i środków ochrony Twoich danych osobowych."
+        },
+        "scope": {
+            "title": "Zakres i definicje",
+            "content": "Niniejsza Polityka określa sposób, w jaki przetwarzamy dane osobowe, w tym ich zbieranie, wykorzystywanie, udostępnianie, ochronę i przetwarzanie.",
+            "personalData": "Dane osobowe w tej Polityce oznaczają wszelkie informacje dotyczące zidentyfikowanej lub możliwej do zidentyfikowania osoby fizycznej.",
+            "processing": "Przetwarzanie danych obejmuje każdą operację, taką jak zbieranie, przechowywanie, organizowanie, modyfikowanie, udostępnianie, usuwanie lub niszczenie danych osobowych.",
+            "children": "Nasze usługi nie są przeznaczone dla dzieci poniżej 18 roku życia i nie gromadzimy ich danych. Jeśli przypadkowo zbierzemy takie dane, zostaną one natychmiast usunięte."
+        },
+        "collection": {
+            "title": "Zbieranie i przetwarzanie danych",
+            "content": "Zbieramy dane osobowe podczas interakcji z naszymi Usługami, odwiedzania Strony lub kontaktowania się z nami. Część danych jest przekazywana dobrowolnie przez Ciebie, a część jest zbierana poprzez analizę Twojej interakcji z naszymi Usługami.",
+            "voluntary": "Podanie danych osobowych nie jest obowiązkowe, ale ich brak może ograniczyć funkcjonalność Usług lub wpłynąć na Twoje doświadczenie na Stronie."
+        },
+        "dataTypes": {
+            "title": "Rodzaje zbieranych danych",
+            "intro": "Podczas korzystania z naszej Strony zbieramy następujące dane:",
+            "types": [
+                "Dzienniki aktywności online",
+                "Dane o ruchu (adresy IP, godziny dostępu, odwiedzone strony)",
+                "Preferencje językowe",
+                "Raporty o awariach",
+                "Typy przeglądarek",
+                "Informacje o urządzeniu",
+                "Dobrowolnie przekazane dane osobowe",
+                "Dane udostępniane stronom trzecim"
+            ]
+        },
+        "legalBasis": {
+            "title": "Podstawa prawna przetwarzania danych",
+            "intro": "Przetwarzamy Twoje dane osobowe na podstawie:",
+            "bases": [
+                "Twojej wyraźnej zgody",
+                "Prawnie uzasadnionych interesów realizowanych przez nas lub stronę trzecią",
+                "Obowiązujących przepisów prawa"
+            ]
+        },
+        "sharing": {
+            "title": "Udostępnianie danych",
+            "intro": "Quantum AI może udostępniać Twoje dane osobowe następującym podmiotom:",
+            "recipients": [
+                "Zewnętrznym dostawcom usług",
+                "Zewnętrznym platformom handlu kryptowalutami",
+                "Partnerom biznesowym",
+                "Organom prawnym i regulacyjnym",
+                "Potencjalnym nabywcom lub inwestorom w przypadku transakcji biznesowych"
+            ]
+        },
+        "cookies": {
+            "title": "Pliki cookie i śledzenie",
+            "intro": "Używamy plików cookie i podobnych technologii śledzenia, w tym:",
+            "types": {
+                "essential": "Niezbędne pliki cookie – wymagane do podstawowej nawigacji i funkcji",
+                "functional": "Funkcjonalne pliki cookie – zapamiętują preferencje i rozpoznają powracających użytkowników",
+                "performance": "Wydajnościowe pliki cookie – zbierają dane statystyczne w celu optymalizacji wydajności"
+            },
+            "control": "Możesz zmienić ustawienia przeglądarki, aby kontrolować pliki cookie. Nasza usługa nie obsługuje obecnie sygnałów Do-Not-Track."
+        },
+        "international": {
+            "title": "Międzynarodowy transfer danych",
+            "content": "Twoje dane osobowe mogą być przekazywane międzynarodowo. Zapewniamy odpowiednie środki ochrony w celu ochrony Twoich danych oraz zapewnienia egzekwowalnych praw i środków prawnych."
+        },
+        "userRights": {
+            "title": "Twoje prawa",
+            "intro": "Masz następujące prawa w odniesieniu do swoich danych osobowych:",
+            "rights": [
+                "Prawo dostępu",
+                "Prawo do sprostowania",
+                "Prawo do usunięcia",
+                "Prawo do ograniczenia przetwarzania",
+                "Prawo do przenoszenia danych",
+                "Prawo do sprzeciwu",
+                "Prawo do wycofania zgody",
+                "Prawo do wniesienia skargi"
+            ]
+        },
+        "contact": {
+            "title": "Kontakt",
+            "content": "W przypadku pytań dotyczących Polityki Prywatności lub w celu skorzystania ze swoich praw skontaktuj się z nami pod adresem support@quantumai.com.ai"
         }
     }
 }

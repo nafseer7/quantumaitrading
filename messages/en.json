@@ -892,5 +892,108 @@
       "description": "Experience the power of advanced AI-driven trading technology. Create your account today and join thousands of successful traders.",
       "button": "Get Started Now"
     }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: March 15, 2024",
+    "introduction": {
+      "title": "Introduction",
+      "content": "At Quantum AI, we place utmost importance on protecting your personal information and maintaining your privacy.",
+      "policyPurpose": "Our Privacy Policy is crafted to clearly explain how we manage, gather, store, and use the data you provide through our website quantumaiplatform.com (referred to hereafter as the \"Website\").",
+      "principles": "Our pledge to you encompasses these core principles:",
+      "communication": {
+        "title": "Clear Communication on Your Personal Data Usage",
+        "content": "We are dedicated to providing you with comprehensive information, enabling you to make well-informed choices about your personal data processing. Our goal is to offer relevant details about how your data is handled in a clear and timely fashion.",
+        "additionalInfo": "Additionally, should there be a specific need to convey certain information to you, we ensure that it will be done at the most appropriate time and in the most suitable manner.",
+        "contact": "For any questions or further clarification, our team is ready to assist within the confines of the law. Please don't hesitate to contact us at support@quantumaiplatform.com."
+      }
+    },
+    "dataProcessing": {
+      "title": "Processing Your Data",
+      "content": "Your personal data may be processed for various purposes. These include enabling access and usage of our Website, enhancing user experience, improving our services (including the Website itself), protecting our legal rights and interests, conducting business and administrative tasks to support service delivery to users, complying with legal and/or regulatory obligations, and understanding your preferences and needs."
+    },
+    "rights": {
+      "title": "Your Rights and Data Security",
+      "content": "We recognize and uphold your rights as a data subject. You are always welcome to contact us to review your personal data, request modifications or deletion, restrict its use for certain activities or entirely, or have it transferred to you or a third party. Rest assured, we will act in accordance with legal requirements.",
+      "security": "While absolute security can never be guaranteed, we want to assure you that we employ a wide range of strategies and measures to protect your personal data."
+    },
+    "scope": {
+      "title": "Scope and Definitions",
+      "content": "This Policy details how we handle personal data, including its collection, use, sharing, protection, processing, and more.",
+      "personalData": "Personal Data in this policy refers to any information related to an identifiable individual. An identifiable person is someone who can be identified, directly or indirectly, using the information we have or can access.",
+      "processing": "The term processing here includes any operation on personal data, such as collection, recording, organization, storage, alteration, retrieval, use, disclosure, combination, restriction, erasure, or destruction.",
+      "children": "We do not target our services at children under 18 and do not knowingly collect their data. If we find that we have inadvertently collected data from a child, we will delete it immediately."
+    },
+    "collection": {
+      "title": "Data Collection and Processing",
+      "content": "We collect personal data when you interact with our Services, navigate our Website, or contact us. Sometimes, you provide this data voluntarily; other times, we gather it by analyzing your interactions with our Services.",
+      "voluntary": "While providing your personal data is not mandatory, not doing so may limit our ability to deliver our Services, affect your Website experience, or reduce the functionality of our Services."
+    },
+    "dataTypes": {
+      "title": "Types of Data Collected",
+      "intro": "We gather data during your visits to our Website, including:",
+      "types": [
+        "Online activity logs",
+        "Traffic data (IP addresses, access times, pages visited)",
+        "Language preferences",
+        "Crash reports",
+        "Browser types",
+        "Device information",
+        "Voluntarily provided personal data",
+        "Data shared with third parties"
+      ]
+    },
+    "legalBasis": {
+      "title": "Legal Basis for Processing",
+      "intro": "We process your Personal Data based on the following legal foundations:",
+      "bases": [
+        "Your explicit consent",
+        "Legitimate interests pursued by us or third parties",
+        "Compliance with legal obligations"
+      ]
+    },
+    "sharing": {
+      "title": "Data Sharing",
+      "intro": "Quantum AI may share your Personal Data with:",
+      "recipients": [
+        "External service providers",
+        "Third-party cryptocurrency trading platforms",
+        "Affiliates and business partners",
+        "Legal and regulatory authorities",
+        "Potential acquirers or investors in case of business transactions"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies and Tracking",
+      "intro": "We use cookies and similar tracking technologies, including:",
+      "types": {
+        "essential": "Essential Cookies - Necessary for navigation and features",
+        "functional": "Functional Cookies - Remember preferences and recognize return visits",
+        "performance": "Performance Cookies - Aggregate statistics to optimize performance"
+      },
+      "control": "You can adjust your browser settings to control cookies. Our service currently doesn't respond to Do-Not-Track signals."
+    },
+    "international": {
+      "title": "International Data Transfers",
+      "content": "Your Personal Data may be transferred internationally. We ensure appropriate safeguards to protect your data and provide enforceable rights and legal remedies. For EEA residents, these safeguards include EU Commission-approved data protection measures."
+    },
+    "userRights": {
+      "title": "Your Rights",
+      "intro": "You have the following rights regarding your Personal Data:",
+      "rights": [
+        "Right of Access",
+        "Right to Rectification",
+        "Right to Erasure",
+        "Right to Restrict Processing",
+        "Right to Data Portability",
+        "Right to Object",
+        "Right to Withdraw Consent",
+        "Right to Lodge a Complaint"
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "For any questions about this Privacy Policy or to exercise your rights, please contact us at support@quantumai.com.ai.com"
+    }
   }
 } 

@@ -762,5 +762,233 @@
         "culture": "Découvrez Notre Culture"
       }
     }
+  },
+  "auth": {
+    "signup": {
+      "title": "Commencez Votre Aventure de Trading",
+      "subtitle": "Rejoignez des milliers de traders à succès sur Quantum AI",
+      "benefits": {
+        "title": "Pourquoi Choisir Quantum AI ?",
+        "items": {
+          "ai": {
+            "title": "Trading Alimenté par l'IA",
+            "description": "Accédez à une intelligence artificielle de pointe pour des décisions de trading plus intelligentes"
+          },
+          "security": {
+            "title": "Sécurité de Niveau Bancaire",
+            "description": "Vos fonds et vos données sont protégés par un chiffrement de niveau militaire"
+          },
+          "support": {
+            "title": "Support Expert 24/7",
+            "description": "Obtenez de l'aide à tout moment grâce à notre équipe expérimentée"
+          }
+        }
+      },
+      "form": {
+        "title": "Créez Votre Compte",
+        "firstName": {
+          "label": "Prénom",
+          "placeholder": "Entrez votre prénom"
+        },
+        "lastName": {
+          "label": "Nom",
+          "placeholder": "Entrez votre nom"
+        },
+        "email": {
+          "label": "Adresse Email",
+          "placeholder": "Entrez votre adresse email"
+        },
+        "phone": {
+          "label": "Numéro de Téléphone",
+          "placeholder": "Entrez votre numéro de téléphone"
+        },
+        "password": {
+          "label": "Mot de Passe",
+          "placeholder": "Choisissez un mot de passe sécurisé"
+        },
+        "confirmPassword": {
+          "label": "Confirmer le Mot de Passe",
+          "placeholder": "Confirmez votre mot de passe"
+        },
+        "submit": "Créer un Compte",
+        "terms": "En vous inscrivant, vous acceptez nos",
+        "termsLink": "Conditions d'Utilisation",
+        "and": "et",
+        "privacyLink": "Politique de Confidentialité",
+        "loginPrompt": "Vous avez déjà un compte ?",
+        "loginLink": "Se Connecter"
+      }
+    },
+    "signin": {
+      "title": "Bon Retour",
+      "subtitle": "Accédez à votre compte de trading Quantum AI",
+      "form": {
+        "title": "Connectez-vous à Votre Compte",
+        "email": {
+          "label": "Adresse Email",
+          "placeholder": "Entrez votre adresse email"
+        },
+        "password": {
+          "label": "Mot de Passe",
+          "placeholder": "Entrez votre mot de passe"
+        },
+        "rememberMe": "Se souvenir de moi",
+        "forgotPassword": "Mot de Passe Oublié ?",
+        "submit": "Se Connecter",
+        "signupPrompt": "Vous n'avez pas de compte ?",
+        "signupLink": "S'inscrire",
+        "demo": "Essayer un Compte Démo"
+      },
+      "features": {
+        "title": "Avantages du Compte",
+        "items": {
+          "markets": {
+            "title": "Marchés Mondiaux",
+            "description": "Tradez des actions, des cryptos, du forex et plus encore"
+          },
+          "analysis": {
+            "title": "Analyse Avancée",
+            "description": "Accédez à des outils professionnels d'analyse et d'informations de trading"
+          },
+          "portfolio": {
+            "title": "Gestion de Portefeuille",
+            "description": "Suivez et optimisez vos investissements"
+          }
+        }
+      }
+    }
+  },
+  "elonMusk": {
+    "title": "Clarification sur Quantum AI et Elon Musk",
+    "disclaimer": {
+      "title": "Avertissement important",
+      "content": "Nous voulons être absolument clairs : Elon Musk n’a aucun lien avec le logiciel de trading Quantum AI, Quantum AI Ltd, l’application Quantum AI, la plateforme, le robot ou l’un de nos services. Toute affirmation contraire est incorrecte."
+    },
+    "sections": {
+      "independent": {
+        "title": "Comprendre l'indépendance de Quantum AI",
+        "content": "Quantum AI fonctionne en tant qu'entité autonome, fournissant des services spécialisés pour le marché financier. Notre suite comprend un logiciel de trading avancé, une plateforme complète, une application intuitive et un système de trading automatisé. Nous intégrons la technologie de l'informatique quantique dans notre système de trading, représentant une avancée majeure dans les capacités du trading automatisé."
+      },
+      "platform": {
+        "title": "Fonctionnalités de la plateforme Quantum AI",
+        "content": "Notre logiciel de trading se distingue par son efficacité et son impact transformateur sur les dynamiques de trading. La plateforme permet aux traders de personnaliser leurs paramètres, tandis que notre robot alimenté par l'IA opère dans ces limites, révolutionnant les approches traditionnelles du trading. Nous avons relevé et surmonté de nombreux défis pour établir notre légitimité sur le marché."
+      },
+      "muskVentures": {
+        "title": "Les véritables projets d’Elon Musk en IA",
+        "content": "Bien qu'Elon Musk n'ait aucun lien avec Quantum AI, son intérêt pour l'intelligence artificielle est notable. En tant qu'innovateur derrière Tesla et SpaceX, Musk plaide pour un développement responsable de l'IA, notamment à travers son travail avec OpenAI et les initiatives d'IA de Tesla."
+      },
+      "security": {
+        "title": "Sécurité et réglementation",
+        "content": "Nous insistons sur l'importance de collaborer avec des courtiers réglementés afin de garantir la sécurité et la fiabilité du trading financier. Ce principe guide nos opérations chez Quantum AI, où nous respectons strictement les normes réglementaires."
+      }
+    },
+    "cta": {
+      "title": "Commencez à trader avec Quantum AI",
+      "description": "Découvrez la puissance de la technologie de trading avancée alimentée par l’IA. Créez votre compte dès aujourd’hui et rejoignez des milliers de traders à succès.",
+      "button": "Commencer maintenant"
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdated": "Dernière mise à jour : 15 mars 2024",
+    "introduction": {
+      "title": "Introduction",
+      "content": "Chez Quantum AI, nous attachons une importance primordiale à la protection de vos informations personnelles et au respect de votre vie privée.",
+      "policyPurpose": "Notre Politique de Confidentialité est conçue pour expliquer clairement comment nous gérons, collectons, stockons et utilisons les données que vous fournissez via notre site Web quantumaiplatform.com (ci-après dénommé le « Site Web »).",
+      "principles": "Notre engagement envers vous repose sur ces principes fondamentaux :",
+      "communication": {
+        "title": "Communication claire sur l'utilisation de vos données personnelles",
+        "content": "Nous nous engageons à vous fournir des informations complètes afin que vous puissiez prendre des décisions éclairées sur le traitement de vos données personnelles. Notre objectif est de vous fournir des détails pertinents sur la gestion de vos données de manière claire et en temps opportun.",
+        "additionalInfo": "De plus, si la nécessité de vous communiquer certaines informations spécifiques se présente, nous veillerons à le faire au moment et de la manière les plus appropriés.",
+        "contact": "Si vous avez des questions ou souhaitez des précisions supplémentaires, notre équipe est disponible pour vous aider dans les limites de la loi. N’hésitez pas à nous contacter à support@quantumaiplatform.com."
+      }
+    },
+    "dataProcessing": {
+      "title": "Traitement de vos données",
+      "content": "Vos données personnelles peuvent être traitées à diverses fins, notamment pour permettre l'accès et l'utilisation de notre Site Web, améliorer l'expérience utilisateur, optimiser nos services, protéger nos droits légaux, respecter nos obligations légales et réglementaires et comprendre vos préférences et besoins."
+    },
+    "rights": {
+      "title": "Vos droits et sécurité des données",
+      "content": "Nous reconnaissons et respectons vos droits en tant que personne concernée. Vous pouvez nous contacter à tout moment pour consulter vos données personnelles, demander des modifications ou leur suppression, restreindre leur utilisation ou demander leur transfert à un tiers. Nous nous conformerons aux exigences légales applicables.",
+      "security": "Bien que la sécurité absolue ne puisse être garantie, nous souhaitons vous assurer que nous mettons en place diverses stratégies et mesures pour protéger vos données personnelles."
+    },
+    "scope": {
+      "title": "Portée et définitions",
+      "content": "Cette politique détaille comment nous gérons les données personnelles, y compris leur collecte, leur utilisation, leur partage, leur protection et leur traitement.",
+      "personalData": "Les Données Personnelles dans cette politique désignent toute information relative à une personne identifiable, directement ou indirectement, à partir des informations en notre possession ou accessibles.",
+      "processing": "Le terme traitement ici inclut toute opération sur les données personnelles, comme la collecte, l'enregistrement, l'organisation, le stockage, la modification, la récupération, l'utilisation, la divulgation, la combinaison, la restriction, la suppression ou la destruction.",
+      "children": "Nos services ne sont pas destinés aux enfants de moins de 18 ans et nous ne collectons pas intentionnellement leurs données. Si nous découvrons que nous avons collecté des informations sur un enfant, nous les supprimerons immédiatement."
+    },
+    "collection": {
+      "title": "Collecte et traitement des données",
+      "content": "Nous collectons des données personnelles lorsque vous interagissez avec nos Services, naviguez sur notre Site Web ou nous contactez. Dans certains cas, vous fournissez ces données volontairement ; dans d'autres, nous les collectons en analysant vos interactions avec nos Services.",
+      "voluntary": "Bien qu’il ne soit pas obligatoire de fournir vos données personnelles, ne pas le faire peut limiter notre capacité à vous fournir nos Services, affecter votre expérience sur le Site Web ou réduire la fonctionnalité de nos Services."
+    },
+    "dataTypes": {
+      "title": "Types de données collectées",
+      "intro": "Nous recueillons des données lors de vos visites sur notre Site Web, y compris :",
+      "types": [
+        "Journaux d'activité en ligne",
+        "Données de trafic (adresses IP, heures d'accès, pages visitées)",
+        "Préférences linguistiques",
+        "Rapports de plantage",
+        "Types de navigateurs",
+        "Informations sur l'appareil",
+        "Données personnelles fournies volontairement",
+        "Données partagées avec des tiers"
+      ]
+    },
+    "legalBasis": {
+      "title": "Base légale du traitement",
+      "intro": "Nous traitons vos Données Personnelles sur la base des fondements juridiques suivants :",
+      "bases": [
+        "Votre consentement explicite",
+        "Intérêts légitimes poursuivis par nous ou des tiers",
+        "Respect des obligations légales"
+      ]
+    },
+    "sharing": {
+      "title": "Partage des données",
+      "intro": "Quantum AI peut partager vos Données Personnelles avec :",
+      "recipients": [
+        "Fournisseurs de services externes",
+        "Plateformes de trading de cryptomonnaies tierces",
+        "Affiliés et partenaires commerciaux",
+        "Autorités légales et réglementaires",
+        "Acheteurs ou investisseurs potentiels en cas de transactions commerciales"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies et suivi",
+      "intro": "Nous utilisons des cookies et des technologies de suivi similaires, y compris :",
+      "types": {
+        "essential": "Cookies essentiels - Nécessaires pour la navigation et les fonctionnalités",
+        "functional": "Cookies fonctionnels - Mémorisent les préférences et reconnaissent les visites précédentes",
+        "performance": "Cookies de performance - Collectent des statistiques pour optimiser les performances"
+      },
+      "control": "Vous pouvez ajuster les paramètres de votre navigateur pour contrôler les cookies. Actuellement, notre service ne répond pas aux signaux 'Do Not Track'."
+    },
+    "international": {
+      "title": "Transferts internationaux de données",
+      "content": "Vos Données Personnelles peuvent être transférées à l'international. Nous garantissons des mesures de protection appropriées pour protéger vos données et fournir des droits exécutoires et des recours légaux. Pour les résidents de l'EEE, ces garanties incluent des mesures de protection des données approuvées par la Commission européenne."
+    },
+    "userRights": {
+      "title": "Vos droits",
+      "intro": "Vous disposez des droits suivants concernant vos Données Personnelles :",
+      "rights": [
+        "Droit d'accès",
+        "Droit de rectification",
+        "Droit à l'effacement",
+        "Droit à la limitation du traitement",
+        "Droit à la portabilité des données",
+        "Droit d'opposition",
+        "Droit de retirer son consentement",
+        "Droit de déposer une plainte"
+      ]
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "content": "Si vous avez des questions concernant cette Politique de Confidentialité ou souhaitez exercer vos droits, veuillez nous contacter à support@quantumai.com.ai"
+    }
   }
 }

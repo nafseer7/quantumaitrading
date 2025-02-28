@@ -856,5 +856,138 @@
         }
       }
     }
+  },
+  "elonMusk": {
+    "title": "Aclarando la relación entre Quantum AI y Elon Musk",
+    "disclaimer": {
+      "title": "Aviso Importante",
+      "content": "Queremos ser completamente claros: Elon Musk no tiene ninguna conexión con el software de trading de Quantum AI, Quantum AI Ltd, la aplicación Quantum AI, la plataforma, el robot o cualquiera de nuestros servicios. Cualquier afirmación que sugiera lo contrario es incorrecta."
+    },
+    "sections": {
+      "independent": {
+        "title": "Comprendiendo la Independencia Operativa de Quantum AI",
+        "content": "Quantum AI opera como una entidad autónoma, proporcionando servicios especializados en el mercado financiero. Nuestro conjunto de soluciones incluye software de trading avanzado, una plataforma integral, una aplicación fácil de usar y un sistema de trading automatizado. Integramos tecnología de computación cuántica de vanguardia en nuestro sistema de trading, representando un gran avance en las capacidades de trading automatizado."
+      },
+      "platform": {
+        "title": "Características de la Plataforma Quantum AI",
+        "content": "Nuestro software de trading se distingue por su eficacia y su impacto transformador en la dinámica del mercado. La plataforma permite a los traders personalizar sus configuraciones, mientras que nuestro bot impulsado por IA opera dentro de estos parámetros, revolucionando los enfoques tradicionales de trading. Hemos abordado y superado varios desafíos para establecer nuestra legitimidad en el mercado."
+      },
+      "muskVentures": {
+        "title": "Los Verdaderos Proyectos de Elon Musk en IA",
+        "content": "Si bien Elon Musk no tiene ninguna relación con Quantum AI, su interés genuino en la inteligencia artificial es destacable. Como innovador detrás de Tesla y SpaceX, Musk aboga por el desarrollo responsable de la IA, especialmente a través de su trabajo con OpenAI y las iniciativas de IA de Tesla."
+      },
+      "security": {
+        "title": "Seguridad y Regulación",
+        "content": "Enfatizamos la importancia de trabajar con corredores regulados para garantizar la seguridad y confiabilidad en el trading financiero. Este principio guía nuestras operaciones en Quantum AI, donde mantenemos un estricto cumplimiento de los estándares regulatorios."
+      }
+    },
+    "cta": {
+      "title": "Comienza a Operar con Quantum AI",
+      "description": "Experimenta el poder de la tecnología avanzada de trading basada en IA. Crea tu cuenta hoy y únete a miles de traders exitosos.",
+      "button": "Comenzar Ahora"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: 15 de marzo de 2024",
+    "introduction": {
+      "title": "Introducción",
+      "content": "En Quantum AI, damos la máxima importancia a la protección de su información personal y a la preservación de su privacidad.",
+      "policyPurpose": "Nuestra Política de Privacidad está diseñada para explicar claramente cómo gestionamos, recopilamos, almacenamos y utilizamos los datos que proporciona a través de nuestro sitio web quantumaiplatform.com (en adelante, el \"Sitio Web\").",
+      "principles": "Nuestra promesa para usted abarca estos principios fundamentales:",
+      "communication": {
+        "title": "Comunicación clara sobre el uso de sus datos personales",
+        "content": "Nos comprometemos a proporcionarle información detallada para que pueda tomar decisiones informadas sobre el tratamiento de sus datos personales. Nuestro objetivo es brindarle detalles relevantes sobre cómo se manejan sus datos de manera clara y oportuna.",
+        "additionalInfo": "Además, si surge la necesidad de comunicarle información específica, nos aseguraremos de hacerlo en el momento y de la manera más adecuada.",
+        "contact": "Si tiene preguntas o necesita aclaraciones adicionales, nuestro equipo está disponible para ayudarle dentro de los límites de la ley. No dude en contactarnos a través de support@quantumaiplatform.com."
+      }
+    },
+    "dataProcessing": {
+      "title": "Procesamiento de sus datos",
+      "content": "Sus datos personales pueden ser procesados con diversos fines, incluyendo permitir el acceso y uso de nuestro Sitio Web, mejorar la experiencia del usuario, optimizar nuestros servicios, proteger nuestros derechos legales, cumplir con nuestras obligaciones legales y regulatorias, y comprender sus preferencias y necesidades."
+    },
+    "rights": {
+      "title": "Sus derechos y seguridad de los datos",
+      "content": "Reconocemos y respetamos sus derechos como titular de los datos. Puede contactarnos en cualquier momento para revisar sus datos personales, solicitar modificaciones o eliminación, restringir su uso o transferirlos a usted o a un tercero. Cumpliremos con los requisitos legales aplicables.",
+      "security": "Si bien no se puede garantizar una seguridad absoluta, queremos asegurarle que empleamos una variedad de estrategias y medidas para proteger sus datos personales."
+    },
+    "scope": {
+      "title": "Ámbito y definiciones",
+      "content": "Esta política detalla cómo manejamos los datos personales, incluyendo su recopilación, uso, intercambio, protección y procesamiento.",
+      "personalData": "Los Datos Personales en esta política se refieren a cualquier información relacionada con una persona identificable, directa o indirectamente, mediante los datos que poseemos o podemos acceder.",
+      "processing": "El término procesamiento aquí incluye cualquier operación sobre los datos personales, como la recopilación, el registro, la organización, el almacenamiento, la alteración, la recuperación, el uso, la divulgación, la combinación, la restricción, la eliminación o la destrucción.",
+      "children": "No dirigimos nuestros servicios a menores de 18 años y no recopilamos conscientemente sus datos. Si descubrimos que hemos recopilado información de un menor de edad, la eliminaremos de inmediato."
+    },
+    "collection": {
+      "title": "Recopilación y procesamiento de datos",
+      "content": "Recopilamos datos personales cuando interactúa con nuestros Servicios, navega por nuestro Sitio Web o se comunica con nosotros. En algunos casos, proporciona estos datos voluntariamente; en otros, los recopilamos al analizar sus interacciones con nuestros Servicios.",
+      "voluntary": "Aunque no es obligatorio proporcionar sus datos personales, no hacerlo puede limitar nuestra capacidad para ofrecerle nuestros Servicios, afectar su experiencia en el Sitio Web o reducir la funcionalidad de nuestros Servicios."
+    },
+    "dataTypes": {
+      "title": "Tipos de datos recopilados",
+      "intro": "Recopilamos datos durante sus visitas a nuestro Sitio Web, incluyendo:",
+      "types": [
+        "Registros de actividad en línea",
+        "Datos de tráfico (direcciones IP, tiempos de acceso, páginas visitadas)",
+        "Preferencias de idioma",
+        "Informes de fallos",
+        "Tipos de navegadores",
+        "Información del dispositivo",
+        "Datos personales proporcionados voluntariamente",
+        "Datos compartidos con terceros"
+      ]
+    },
+    "legalBasis": {
+      "title": "Base legal para el procesamiento",
+      "intro": "Procesamos sus Datos Personales con base en los siguientes fundamentos legales:",
+      "bases": [
+        "Su consentimiento explícito",
+        "Intereses legítimos de nuestra empresa o de terceros",
+        "Cumplimiento de obligaciones legales"
+      ]
+    },
+    "sharing": {
+      "title": "Intercambio de datos",
+      "intro": "Quantum AI puede compartir sus Datos Personales con:",
+      "recipients": [
+        "Proveedores de servicios externos",
+        "Plataformas de comercio de criptomonedas de terceros",
+        "Afiliados y socios comerciales",
+        "Autoridades legales y regulatorias",
+        "Posibles compradores o inversionistas en caso de transacciones comerciales"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies y seguimiento",
+      "intro": "Utilizamos cookies y tecnologías de seguimiento similares, incluyendo:",
+      "types": {
+        "essential": "Cookies esenciales - Necesarias para la navegación y funcionalidad",
+        "functional": "Cookies funcionales - Recuerdan preferencias y reconocen visitas previas",
+        "performance": "Cookies de rendimiento - Recopilan estadísticas para optimizar el rendimiento"
+      },
+      "control": "Puede ajustar la configuración de su navegador para controlar las cookies. Actualmente, nuestro servicio no responde a señales de 'No rastrear'."
+    },
+    "international": {
+      "title": "Transferencias internacionales de datos",
+      "content": "Sus Datos Personales pueden ser transferidos internacionalmente. Garantizamos las salvaguardias adecuadas para proteger sus datos y proporcionar derechos ejecutables y recursos legales. Para los residentes del EEE, estas salvaguardias incluyen medidas de protección de datos aprobadas por la Comisión Europea."
+    },
+    "userRights": {
+      "title": "Sus derechos",
+      "intro": "Tiene los siguientes derechos con respecto a sus Datos Personales:",
+      "rights": [
+        "Derecho de acceso",
+        "Derecho de rectificación",
+        "Derecho de supresión",
+        "Derecho a la limitación del procesamiento",
+        "Derecho a la portabilidad de datos",
+        "Derecho de oposición",
+        "Derecho a retirar el consentimiento",
+        "Derecho a presentar una queja"
+      ]
+    },
+    "contact": {
+      "title": "Contáctenos",
+      "content": "Si tiene alguna pregunta sobre esta Política de Privacidad o desea ejercer sus derechos, contáctenos en support@quantumai.com.ai"
+    }
   }
 }

@@ -23,6 +23,7 @@ const staggerContainer = {
 
 export default function ElonMuskPage() {
   const t = useTranslations('auth.signup');
+  const elonMuskT = useTranslations('elonMusk');
 
   const countryOptions = [
     { code: '+93', flag: '🇦🇫', name: 'Afghanistan' },
@@ -162,23 +163,19 @@ export default function ElonMuskPage() {
 
   const sections = [
     {
-      title: "Understanding Quantum AI's Independent Operation",
-      content: "Quantum AI operates as an autonomous entity, delivering specialized services for the financial market. Our suite includes advanced trading software, a comprehensive platform, a user-friendly application, and an automated trading system. We integrate cutting-edge quantum computing technology in our trading system, marking a significant leap forward in automated trading capabilities.",
+      key: 'independent',
       icon: <Cpu className="w-6 h-6" />
     },
     {
-      title: "Quantum AI Platform Features",
-      content: "Our trading software distinguishes itself through its effectiveness and transformative impact on trading dynamics. The platform enables traders to customize their settings, while our AI-driven bot operates within these parameters, revolutionizing traditional trading approaches. We've successfully addressed and overcome various challenges to establish our legitimacy in the market.",
+      key: 'platform',
       icon: <Robot className="w-6 h-6" />
     },
     {
-      title: "Elon Musk's Actual AI Ventures",
-      content: "While Elon Musk has no association with Quantum AI, his genuine interest in artificial intelligence is noteworthy. As the innovator behind Tesla and SpaceX, Musk advocates for responsible AI development, particularly through his work with OpenAI and Tesla's AI initiatives.",
+      key: 'muskVentures',
       icon: <Brain className="w-6 h-6" />
     },
     {
-      title: "Security and Regulation",
-      content: "We emphasize the importance of working with regulated brokers to ensure security and trustworthiness in financial trading. This principle guides our operations at Quantum AI, where we maintain strict compliance with regulatory standards.",
+      key: 'security',
       icon: <Lock className="w-6 h-6" />
     }
   ];
@@ -203,11 +200,11 @@ export default function ElonMuskPage() {
             className="text-center mb-12 sm:mb-16"
           >
             <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-white mb-4 sm:mb-6">
-              {t('title')}
+              {elonMuskT('title')}
             </h1>
-            <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto px-4 sm:px-0 mb-12">
-              {t('subtitle')}
-            </p>
+            {/* <p className="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto px-4 sm:px-0 mb-12">
+              {elonMuskT('subtitle')}
+            </p> */}
           </motion.div>
 
           <div className="grid lg:grid-cols-2 gap-8 sm:gap-10 lg:gap-12 items-start mb-20">
@@ -371,18 +368,18 @@ export default function ElonMuskPage() {
             className="text-center mb-12 sm:mb-16 lg:mb-20"
           >
             <h2 className="text-3xl sm:text-4xl font-bold text-white mb-6">
-              Clarifying Quantum AI and Elon Musk
+              {elonMuskT('disclaimer.title')}
             </h2>
             <div className="max-w-4xl mx-auto">
               <div className="bg-red-500/10 border border-red-500/20 rounded-xl p-4 sm:p-6 mb-8">
                 <div className="flex items-center gap-3 mb-3">
                   <AlertTriangle className="w-6 h-6 text-red-500" />
                   <h3 className="text-xl sm:text-2xl font-semibold text-red-500">
-                    Important Disclaimer
+                    {elonMuskT('disclaimer.title')}
                   </h3>
                 </div>
                 <p className="text-gray-300 text-lg">
-                  We want to be absolutely clear: Elon Musk has no connection to Quantum AI's trading software, Quantum AI Ltd, the Quantum AI app, platform, robot, or any of our services. Any claims suggesting otherwise are incorrect.
+                  {elonMuskT('disclaimer.content')}
                 </p>
               </div>
             </div>
@@ -395,9 +392,9 @@ export default function ElonMuskPage() {
             animate="animate"
             className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 lg:gap-12 mb-16"
           >
-            {sections.map((section, index) => (
+            {sections.map((section) => (
               <motion.div
-                key={section.title}
+                key={section.key}
                 variants={fadeInUp}
                 className="bg-white/5 backdrop-blur-xl rounded-xl sm:rounded-2xl p-6 sm:p-8 border border-white/10
                          transform transition-all duration-300 hover:bg-white/10"
@@ -407,11 +404,11 @@ export default function ElonMuskPage() {
                     {section.icon}
                   </div>
                   <h3 className="text-xl sm:text-2xl font-semibold text-white">
-                    {section.title}
+                    {elonMuskT(`sections.${section.key}.title`)}
                   </h3>
                 </div>
                 <p className="text-gray-300 leading-relaxed">
-                  {section.content}
+                  {elonMuskT(`sections.${section.key}.content`)}
                 </p>
               </motion.div>
             ))}
@@ -426,10 +423,10 @@ export default function ElonMuskPage() {
           >
             <div className="bg-white/5 backdrop-blur-xl rounded-xl sm:rounded-2xl p-8 sm:p-10 border border-white/10 max-w-3xl mx-auto">
               <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">
-                Start Trading with Quantum AI
+                {elonMuskT('cta.title')}
               </h2>
               <p className="text-gray-300 mb-8">
-                Experience the power of advanced AI-driven trading technology. Create your account today and join thousands of successful traders.
+                {elonMuskT('cta.description')}
               </p>
               <Link
                 href="/auth/signup"
@@ -438,7 +435,7 @@ export default function ElonMuskPage() {
                          hover:to-blue-700 transition-all duration-300 transform hover:scale-[1.02]
                          shadow-lg hover:shadow-blue-500/25"
               >
-                Get Started Now
+                {elonMuskT('cta.button')}
                 <ChevronRight className="w-5 h-5" />
               </Link>
             </div>
