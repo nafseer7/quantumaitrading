@@ -894,13 +894,13 @@
     "introduction": {
       "title": "Introduzione",
       "content": "Noi di Quantum AI diamo la massima importanza alla protezione delle tue informazioni personali e al mantenimento della tua privacy.",
-      "policyPurpose": "La nostra Politica sulla Privacy è stata creata per spiegare chiaramente come gestiamo, raccogliamo, archiviamo e utilizziamo i dati che fornisci tramite il nostro sito web quantumaiplatform.com (di seguito denominato \"Sito Web\").",
+      "policyPurpose": "La nostra Politica sulla Privacy è stata creata per spiegare chiaramente come gestiamo, raccogliamo, archiviamo e utilizziamo i dati che fornisci tramite il nostro sito web quantumai.com.ai (di seguito denominato \"Sito Web\").",
       "principles": "Il nostro impegno nei tuoi confronti si basa su questi principi fondamentali:",
       "communication": {
         "title": "Comunicazione chiara sull'uso dei tuoi dati personali",
         "content": "Ci impegniamo a fornirti informazioni complete per permetterti di prendere decisioni informate sul trattamento dei tuoi dati personali. Il nostro obiettivo è offrirti dettagli rilevanti sulla gestione dei tuoi dati in modo chiaro e tempestivo.",
         "additionalInfo": "Inoltre, se dovesse essere necessario comunicarti determinate informazioni specifiche, ci assicureremo che ciò avvenga nel momento più opportuno e nel modo più adeguato.",
-        "contact": "Per qualsiasi domanda o ulteriore chiarimento, il nostro team è pronto ad assisterti nei limiti della legge. Non esitare a contattarci all'indirizzo support@quantumaiplatform.com."
+        "contact": "Per qualsiasi domanda o ulteriore chiarimento, il nostro team è pronto ad assisterti nei limiti della legge. Non esitare a contattarci all'indirizzo support@quantumai.com.ai."
       }
     },
     "dataProcessing": {
@@ -989,6 +989,94 @@
     "contact": {
       "title": "Contattaci",
       "content": "Per qualsiasi domanda su questa Politica sulla Privacy o per esercitare i tuoi diritti, contattaci all'indirizzo support@quantumai.com.ai"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Termini di Servizio",
+      "lastUpdated": "Ultimo aggiornamento: 15 marzo 2024"
+    },
+    "sections": {
+      "welcome": {
+        "title": "1. Benvenuto",
+        "content": {
+          "greeting": "1.1 Benvenuto su quantumai.com.ai (\"il Sito Web\"). Per qualsiasi domanda, contattaci a support@quantumai.com.ai.",
+          "services": "1.2 Il nostro Sito Web fornisce informazioni su piattaforme di trading di terze parti (\"Piattaforme di Terze Parti\") e servizi correlati (i \"Servizi\").",
+          "agreement": "1.3 Il presente Accordo per l'Utente (\"Termini\") stabilisce le regole per l'uso del nostro Sito Web e dei nostri Servizi. Ti invitiamo a leggere attentamente questi Termini. Accedendo o utilizzando il nostro Sito Web e i Servizi, accetti questi Termini. Se non sei d'accordo con uno di questi Termini, ti preghiamo di non utilizzare il nostro Sito Web e i Servizi.",
+          "privacy": "1.4 La nostra Informativa sulla Privacy è parte integrante di questi Termini. Accettando questi Termini, accetti anche la nostra Informativa sulla Privacy."
+        }
+      },
+      "eligibility": {
+        "title": "2. Idoneità dell'Utente",
+        "intro": "2.1 Puoi utilizzare il Sito Web e i Servizi se:",
+        "requirements": {
+          "age": "2.1.1 Hai almeno 18 anni;",
+          "legal": "2.1.2 Hai la capacità legale di accettare questi Termini;",
+          "restrictions": "2.1.3 Non sei soggetto a restrizioni legali che ti impediscono di utilizzare il nostro Sito Web e i Servizi."
+        }
+      },
+      "access": {
+        "title": "3. Restrizioni di Accesso",
+        "content": {
+          "restrictions": "3.1 L'accesso al nostro Sito Web e ai Servizi potrebbe essere limitato in determinate aree geografiche o per determinati utenti per motivi legali, normativi o di gestione del rischio.",
+          "territories": "3.2 Gli utenti di alcuni paesi potrebbero essere soggetti a requisiti o condizioni aggiuntive. Nei Territori con Restrizioni, il nostro Sito Web e i Servizi potrebbero risultare inaccessibili o bloccati."
+        }
+      },
+      "useRestrictions": {
+        "title": "4. Restrizioni d'Uso",
+        "intro": "4.1 Utilizzando il nostro Sito Web e i Servizi, devi evitare attività che:",
+        "items": {
+          "rights": "4.1.1 Violino qualsiasi diritto, inclusi i diritti di proprietà intellettuale, la privacy o altri diritti;",
+          "content": "4.1.2 Includano contenuti dannosi, offensivi, diffamatori, razzisti o inappropriati;",
+          "malware": "4.1.3 Implichino software dannoso o virus;",
+          "laws": "4.1.4 Violino qualsiasi legge applicabile;",
+          "interference": "4.1.5 Interferiscano con l'accesso di altri utenti al Sito Web o ai Servizi."
+        }
+      },
+      "intellectualProperty": {
+        "title": "5. Proprietà Intellettuale",
+        "content": {
+          "ownership": "5.1 Tutti i contenuti presenti sul nostro Sito Web, inclusi testi, grafica, loghi e software, sono di nostra proprietà o concessi in licenza, protetti dalle leggi sulla proprietà intellettuale.",
+          "rights": "5.2 L'uso del nostro Sito Web e dei Servizi non concede alcun diritto sulla nostra proprietà intellettuale o su quella di terzi."
+        }
+      },
+      "liability": {
+        "title": "6. Limitazione di Responsabilità",
+        "content": {
+          "disclaimer": "6.1 Il nostro Sito Web e i Servizi sono forniti \"così come sono\" e \"secondo disponibilità\". Non garantiamo l'accuratezza, l'affidabilità, l'idoneità o la disponibilità del nostro Sito Web, dei Servizi o della relativa grafica.",
+          "limitation": "6.2 Non siamo responsabili per eventuali perdite o danni, diretti o indiretti, derivanti dall'uso del nostro Sito Web o dei Servizi."
+        }
+      },
+      "thirdParty": {
+        "title": "7. Servizi e Contenuti di Terze Parti",
+        "content": "7.1 I nostri Servizi possono includere contenuti o servizi di terze parti. Non abbiamo alcun controllo su tali contenuti o servizi e non li approviamo né ci assumiamo responsabilità per essi."
+      },
+      "externalLinks": {
+        "title": "8. Link Esterni",
+        "content": "8.1 Il nostro Sito Web può contenere link a siti Web di terze parti. Questi link sono forniti per comodità dell'utente, e non abbiamo alcun controllo o responsabilità sul contenuto di questi siti esterni."
+      },
+      "updates": {
+        "title": "9. Aggiornamenti dei Termini",
+        "content": {
+          "changes": "9.1 Ci riserviamo il diritto di modificare questi Termini in qualsiasi momento. Ti informeremo delle modifiche aggiornando i Termini su questa pagina.",
+          "review": "9.2 Ti consigliamo di controllare regolarmente questi Termini per eventuali aggiornamenti. Le modifiche entreranno in vigore una volta pubblicate su questa pagina."
+        }
+      },
+      "termination": {
+        "title": "10. Cessazione del Servizio",
+        "content": "10.1 Possiamo sospendere o terminare immediatamente il tuo accesso al nostro Sito Web e ai Servizi, senza preavviso o responsabilità, in caso di violazione di questi Termini."
+      },
+      "legal": {
+        "title": "11. Legge Applicabile",
+        "content": {
+          "jurisdiction": "11.1 Questi Termini sono regolati dalle leggi della giurisdizione in cui la nostra azienda è registrata, senza considerare i principi sui conflitti di legge.",
+          "consent": "11.2 Accetti la giurisdizione esclusiva dei tribunali della nostra giurisdizione per eventuali controversie relative a questi Termini o al nostro Sito Web o Servizi."
+        }
+      },
+      "contact": {
+        "title": "12. Contattaci",
+        "content": "12.1 Se hai domande su questi Termini, contattaci a support@quantumai.com.ai."
+      }
     }
   }
 }

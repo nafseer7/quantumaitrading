@@ -1,131 +1,119 @@
 'use client';
 
-import LegalPageLayout
- from "@/app/components/LegalPageLayout";
+import LegalPageLayout from "@/app/components/LegalPageLayout";
+import { useTranslations } from 'next-intl';
+
 export default function TermsOfServicePage() {
+  const t = useTranslations('terms');
+
   return (
     <LegalPageLayout
-      title="Terms of Service"
-      lastUpdated="March 15, 2024"
+      title={t('meta.title')}
+      lastUpdated={t('meta.lastUpdated')}
     >
       <div className="text-white space-y-8">
+        {/* Welcome Section */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Agreement to Terms</h2>
-          <p className="mb-4">
-            By accessing or using Quantum AI&apos;s trading platform and services, you agree to be bound
-            by these Terms of Service. If you disagree with any part of these terms, you may not
-            access our services.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.welcome.title')}</h2>
+          <div className="space-y-4">
+            <p>{t('sections.welcome.content.greeting')}</p>
+            <p>{t('sections.welcome.content.services')}</p>
+            <p>{t('sections.welcome.content.agreement')}</p>
+            <p>{t('sections.welcome.content.privacy')}</p>
+          </div>
         </section>
 
+        {/* User Eligibility */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Eligibility</h2>
-          <p className="mb-4">To use our services, you must:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Be at least 18 years old</li>
-            <li>Have the legal capacity to enter into a binding contract</li>
-            <li>Not be prohibited from using trading services under applicable laws</li>
-            <li>Provide accurate and complete registration information</li>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.eligibility.title')}</h2>
+          <p className="mb-4">{t('sections.eligibility.intro')}</p>
+          <ul className="list-none space-y-2 pl-6">
+            <li>{t('sections.eligibility.requirements.age')}</li>
+            <li>{t('sections.eligibility.requirements.legal')}</li>
+            <li>{t('sections.eligibility.requirements.restrictions')}</li>
           </ul>
         </section>
 
+        {/* Access Restrictions */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Account Registration</h2>
-          <p className="mb-4">
-            You are responsible for maintaining the confidentiality of your account credentials
-            and for all activities that occur under your account. You must immediately notify us
-            of any unauthorized use of your account.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.access.title')}</h2>
+          <div className="space-y-4">
+            <p>{t('sections.access.content.restrictions')}</p>
+            <p>{t('sections.access.content.territories')}</p>
+          </div>
         </section>
 
+        {/* Use Restrictions */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Trading Services</h2>
-          <h3 className="text-xl font-semibold mb-2">Platform Access</h3>
-          <p className="mb-4">
-            We grant you a limited, non-exclusive, non-transferable right to access and use our
-            trading platform for your personal use, subject to these terms.
-          </p>
-
-          <h3 className="text-xl font-semibold mb-2">Trading Risks</h3>
-          <p className="mb-4">
-            Trading involves substantial risk of loss. You acknowledge that:
-          </p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Past performance is not indicative of future results</li>
-            <li>You may lose some or all of your invested capital</li>
-            <li>Trading decisions are your sole responsibility</li>
-            <li>Our AI predictions and analysis are not guaranteed</li>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.useRestrictions.title')}</h2>
+          <p className="mb-4">{t('sections.useRestrictions.intro')}</p>
+          <ul className="list-none space-y-2 pl-6">
+            <li>{t('sections.useRestrictions.items.rights')}</li>
+            <li>{t('sections.useRestrictions.items.content')}</li>
+            <li>{t('sections.useRestrictions.items.malware')}</li>
+            <li>{t('sections.useRestrictions.items.laws')}</li>
+            <li>{t('sections.useRestrictions.items.interference')}</li>
           </ul>
         </section>
 
+        {/* Intellectual Property */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">User Obligations</h2>
-          <p className="mb-4">You agree to:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Comply with all applicable laws and regulations</li>
-            <li>Provide accurate and truthful information</li>
-            <li>Not engage in market manipulation or fraudulent activities</li>
-            <li>Not attempt to circumvent platform security measures</li>
-            <li>Not use the platform for illegal purposes</li>
-          </ul>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.intellectualProperty.title')}</h2>
+          <div className="space-y-4">
+            <p>{t('sections.intellectualProperty.content.ownership')}</p>
+            <p>{t('sections.intellectualProperty.content.rights')}</p>
+          </div>
         </section>
 
+        {/* Liability Limitation */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Fees and Payments</h2>
-          <p className="mb-4">
-            You agree to pay all applicable fees and charges associated with your account. We
-            reserve the right to modify our fee structure with prior notice.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.liability.title')}</h2>
+          <div className="space-y-4">
+            <p>{t('sections.liability.content.disclaimer')}</p>
+            <p>{t('sections.liability.content.limitation')}</p>
+          </div>
         </section>
 
+        {/* Third-Party Services */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Intellectual Property</h2>
-          <p className="mb-4">
-            All content, features, and functionality of our platform are owned by Quantum AI
-            and are protected by international copyright, trademark, and other intellectual
-            property laws.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.thirdParty.title')}</h2>
+          <p>{t('sections.thirdParty.content')}</p>
         </section>
 
+        {/* External Links */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Limitation of Liability</h2>
-          <p className="mb-4">
-            To the maximum extent permitted by law, Quantum AI shall not be liable for any
-            indirect, incidental, special, consequential, or punitive damages resulting from
-            your use or inability to use our services.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.externalLinks.title')}</h2>
+          <p>{t('sections.externalLinks.content')}</p>
         </section>
 
+        {/* Terms Updates */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Termination</h2>
-          <p className="mb-4">
-            We reserve the right to suspend or terminate your account at our sole discretion,
-            without notice, for any violation of these terms or for any other reason we deem
-            appropriate.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.updates.title')}</h2>
+          <div className="space-y-4">
+            <p>{t('sections.updates.content.changes')}</p>
+            <p>{t('sections.updates.content.review')}</p>
+          </div>
         </section>
 
+        {/* Service Termination */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Changes to Terms</h2>
-          <p className="mb-4">
-            We may modify these terms at any time. Continued use of our services after such
-            changes constitutes your acceptance of the new terms.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.termination.title')}</h2>
+          <p>{t('sections.termination.content')}</p>
         </section>
 
+        {/* Legal Governance */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Governing Law</h2>
-          <p className="mb-4">
-            These terms shall be governed by and construed in accordance with the laws of
-            [Jurisdiction], without regard to its conflict of law provisions.
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.legal.title')}</h2>
+          <div className="space-y-4">
+            <p>{t('sections.legal.content.jurisdiction')}</p>
+            <p>{t('sections.legal.content.consent')}</p>
+          </div>
         </section>
 
+        {/* Contact Information */}
         <section>
-          <h2 className="text-2xl font-semibold mb-4">Contact Information</h2>
-          <p className="mb-4">
-            For questions about these Terms of Service, please contact us at legal@quantumai.com
-          </p>
+          <h2 className="text-2xl font-semibold mb-4">{t('sections.contact.title')}</h2>
+          <p>{t('sections.contact.content')}</p>
         </section>
       </div>
     </LegalPageLayout>

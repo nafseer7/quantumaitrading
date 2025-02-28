@@ -899,13 +899,13 @@
     "introduction": {
       "title": "Introduction",
       "content": "At Quantum AI, we place utmost importance on protecting your personal information and maintaining your privacy.",
-      "policyPurpose": "Our Privacy Policy is crafted to clearly explain how we manage, gather, store, and use the data you provide through our website quantumaiplatform.com (referred to hereafter as the \"Website\").",
+      "policyPurpose": "Our Privacy Policy is crafted to clearly explain how we manage, gather, store, and use the data you provide through our website quantumai.com.ai (referred to hereafter as the \"Website\").",
       "principles": "Our pledge to you encompasses these core principles:",
       "communication": {
         "title": "Clear Communication on Your Personal Data Usage",
         "content": "We are dedicated to providing you with comprehensive information, enabling you to make well-informed choices about your personal data processing. Our goal is to offer relevant details about how your data is handled in a clear and timely fashion.",
         "additionalInfo": "Additionally, should there be a specific need to convey certain information to you, we ensure that it will be done at the most appropriate time and in the most suitable manner.",
-        "contact": "For any questions or further clarification, our team is ready to assist within the confines of the law. Please don't hesitate to contact us at support@quantumaiplatform.com."
+        "contact": "For any questions or further clarification, our team is ready to assist within the confines of the law. Please don't hesitate to contact us at support@quantumai.com.ai."
       }
     },
     "dataProcessing": {
@@ -994,6 +994,94 @@
     "contact": {
       "title": "Contact Us",
       "content": "For any questions about this Privacy Policy or to exercise your rights, please contact us at support@quantumai.com.ai.com"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Service",
+      "lastUpdated": "March 15, 2024"
+    },
+    "sections": {
+      "welcome": {
+        "title": "1. Welcome",
+        "content": {
+          "greeting": "1.1 Greetings to quantumai.com.ai (\"the Website\"). For any inquiries, please reach out to us at support@quantumai.com.ai.",
+          "services": "1.2 Our Website provides insights on third-party trading platforms (\"Third-Party Platforms\") along with related offerings (the \"Services\").",
+          "agreement": "1.3 The following User Agreement (\"Terms\") outlines the rules for your use of our Website and Services. We encourage you to read these Terms carefully. By accessing or utilizing our Website and Services, you agree to these Terms. If you disagree with any of these Terms, please do not use our Website and Services.",
+          "privacy": "1.4 Our Privacy Policy is a crucial part of these Terms. By agreeing to these Terms, you are also consenting to our Privacy Policy."
+        }
+      },
+      "eligibility": {
+        "title": "2. User Eligibility",
+        "intro": "2.1 You are welcome to use the Website and Services if you:",
+        "requirements": {
+          "age": "2.1.1 Are 18 years or older;",
+          "legal": "2.1.2 Have the legal right and ability to agree to these Terms;",
+          "restrictions": "2.1.3 Are not prohibited from using our Website and Services under your local laws."
+        }
+      },
+      "access": {
+        "title": "3. Access Restrictions",
+        "content": {
+          "restrictions": "3.1 Access to our Website and Services may be restricted in certain regions or for certain users for legal, regulatory, or risk management reasons.",
+          "territories": "3.2 Users from specific countries may be subject to additional requirements or conditions. In Restricted Territories, you may find our Website and Services to be inaccessible or blocked."
+        }
+      },
+      "useRestrictions": {
+        "title": "4. Use Restrictions",
+        "intro": "4.1 In using our Website and Services, you should avoid activities that:",
+        "items": {
+          "rights": "4.1.1 Infringe on any rights, including intellectual property, privacy, or other rights;",
+          "content": "4.1.2 Include harmful, offensive, defamatory, racist, or inappropriate content;",
+          "malware": "4.1.3 Involve malicious software or viruses;",
+          "laws": "4.1.4 Violate any laws;",
+          "interference": "4.1.5 Interfere with other Users' access to the Website or Services."
+        }
+      },
+      "intellectualProperty": {
+        "title": "5. Intellectual Property",
+        "content": {
+          "ownership": "5.1 All content on our Website, including text, graphics, logos, and software, is either our property or that of our licensors, protected by intellectual property laws.",
+          "rights": "5.2 Your use of our Website and Services does not grant you any rights over our intellectual property or that of third parties."
+        }
+      },
+      "liability": {
+        "title": "6. Liability Limitation",
+        "content": {
+          "disclaimer": "6.1 Our Website and Services are provided \"as is\" and \"as available\". We do not guarantee the accuracy, reliability, suitability, or availability of our Website, Services, or the associated graphics.",
+          "limitation": "6.2 We are not liable for any loss or damage, direct or indirect, that arises from your use of our Website or Services."
+        }
+      },
+      "thirdParty": {
+        "title": "7. Third-Party Services and Content",
+        "content": "7.1 Our Services may include materials or services from third parties. We do not have control over, nor do we endorse or assume responsibility for these third-party contents or services."
+      },
+      "externalLinks": {
+        "title": "8. External Links",
+        "content": "8.1 Our Website may feature links to external third-party websites. These links are for your convenience, and we have no control over, nor responsibility for, the content of these external sites."
+      },
+      "updates": {
+        "title": "9. Terms Updates",
+        "content": {
+          "changes": "9.1 We reserve the right to modify these Terms at any time. We will inform you of any changes by updating the Terms on this page.",
+          "review": "9.2 We recommend reviewing these Terms regularly for any updates. The changes become effective once posted on this page."
+        }
+      },
+      "termination": {
+        "title": "10. Service Termination",
+        "content": "10.1 We may terminate or suspend your access to our Website and Services immediately, without prior notice or liability, for any breach of these Terms."
+      },
+      "legal": {
+        "title": "11. Legal Governance",
+        "content": {
+          "jurisdiction": "11.1 These Terms are governed by the laws of the jurisdiction where our company is based, without regard to its conflict of law principles.",
+          "consent": "11.2 You consent to the exclusive jurisdiction of the courts in our company's jurisdiction for any disputes related to these Terms or our Website or Services."
+        }
+      },
+      "contact": {
+        "title": "12. Get in Touch",
+        "content": "12.1 If you have questions about these Terms, please reach out to us at support@quantumai.com.ai."
+      }
     }
   }
 } 

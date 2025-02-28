@@ -894,13 +894,13 @@
     "introduction": {
       "title": "Introduction",
       "content": "Chez Quantum AI, nous attachons une importance primordiale à la protection de vos informations personnelles et au respect de votre vie privée.",
-      "policyPurpose": "Notre Politique de Confidentialité est conçue pour expliquer clairement comment nous gérons, collectons, stockons et utilisons les données que vous fournissez via notre site Web quantumaiplatform.com (ci-après dénommé le « Site Web »).",
+      "policyPurpose": "Notre Politique de Confidentialité est conçue pour expliquer clairement comment nous gérons, collectons, stockons et utilisons les données que vous fournissez via notre site Web quantumai.com.ai (ci-après dénommé le « Site Web »).",
       "principles": "Notre engagement envers vous repose sur ces principes fondamentaux :",
       "communication": {
         "title": "Communication claire sur l'utilisation de vos données personnelles",
         "content": "Nous nous engageons à vous fournir des informations complètes afin que vous puissiez prendre des décisions éclairées sur le traitement de vos données personnelles. Notre objectif est de vous fournir des détails pertinents sur la gestion de vos données de manière claire et en temps opportun.",
         "additionalInfo": "De plus, si la nécessité de vous communiquer certaines informations spécifiques se présente, nous veillerons à le faire au moment et de la manière les plus appropriés.",
-        "contact": "Si vous avez des questions ou souhaitez des précisions supplémentaires, notre équipe est disponible pour vous aider dans les limites de la loi. N’hésitez pas à nous contacter à support@quantumaiplatform.com."
+        "contact": "Si vous avez des questions ou souhaitez des précisions supplémentaires, notre équipe est disponible pour vous aider dans les limites de la loi. N’hésitez pas à nous contacter à support@quantumai.com.ai."
       }
     },
     "dataProcessing": {
@@ -989,6 +989,94 @@
     "contact": {
       "title": "Contactez-nous",
       "content": "Si vous avez des questions concernant cette Politique de Confidentialité ou souhaitez exercer vos droits, veuillez nous contacter à support@quantumai.com.ai"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Conditions d'utilisation",
+      "lastUpdated": "Dernière mise à jour : 15 mars 2024"
+    },
+    "sections": {
+      "welcome": {
+        "title": "1. Bienvenue",
+        "content": {
+          "greeting": "1.1 Bienvenue sur quantumai.com.ai (\"le Site Web\"). Pour toute question, veuillez nous contacter à support@quantumai.com.ai.",
+          "services": "1.2 Notre Site Web fournit des informations sur des plateformes de trading tierces (\"Plateformes tierces\") ainsi que des services associés (les \"Services\").",
+          "agreement": "1.3 Le présent Accord d'Utilisateur (\"Conditions\") définit les règles d'utilisation de notre Site Web et de nos Services. Nous vous encourageons à lire ces Conditions attentivement. En accédant ou en utilisant notre Site Web et nos Services, vous acceptez ces Conditions. Si vous n'acceptez pas ces Conditions, veuillez ne pas utiliser notre Site Web et nos Services.",
+          "privacy": "1.4 Notre Politique de Confidentialité fait partie intégrante de ces Conditions. En acceptant ces Conditions, vous acceptez également notre Politique de Confidentialité."
+        }
+      },
+      "eligibility": {
+        "title": "2. Éligibilité de l'Utilisateur",
+        "intro": "2.1 Vous êtes autorisé à utiliser le Site Web et les Services si vous :",
+        "requirements": {
+          "age": "2.1.1 Avez 18 ans ou plus ;",
+          "legal": "2.1.2 Avez la capacité juridique et le droit d'accepter ces Conditions ;",
+          "restrictions": "2.1.3 N'êtes pas interdit d'utiliser notre Site Web et nos Services en vertu des lois locales."
+        }
+      },
+      "access": {
+        "title": "3. Restrictions d'Accès",
+        "content": {
+          "restrictions": "3.1 L'accès à notre Site Web et à nos Services peut être restreint dans certaines régions ou pour certains utilisateurs en raison de raisons légales, réglementaires ou de gestion des risques.",
+          "territories": "3.2 Les utilisateurs de certains pays peuvent être soumis à des exigences ou conditions supplémentaires. Dans les Territoires Restreints, notre Site Web et nos Services peuvent être inaccessibles ou bloqués."
+        }
+      },
+      "useRestrictions": {
+        "title": "4. Restrictions d'Utilisation",
+        "intro": "4.1 Lors de l'utilisation de notre Site Web et de nos Services, vous devez éviter les activités suivantes :",
+        "items": {
+          "rights": "4.1.1 Porter atteinte à tout droit, y compris la propriété intellectuelle, la vie privée ou d'autres droits ;",
+          "content": "4.1.2 Publier du contenu nuisible, offensant, diffamatoire, raciste ou inapproprié ;",
+          "malware": "4.1.3 Diffuser des logiciels malveillants ou des virus ;",
+          "laws": "4.1.4 Violer toute loi en vigueur ;",
+          "interference": "4.1.5 Interférer avec l'accès des autres utilisateurs au Site Web ou aux Services."
+        }
+      },
+      "intellectualProperty": {
+        "title": "5. Propriété Intellectuelle",
+        "content": {
+          "ownership": "5.1 Tout le contenu de notre Site Web, y compris les textes, graphiques, logos et logiciels, est notre propriété ou celle de nos concédants de licence, protégée par les lois sur la propriété intellectuelle.",
+          "rights": "5.2 L'utilisation de notre Site Web et de nos Services ne vous confère aucun droit sur notre propriété intellectuelle ou celle de tiers."
+        }
+      },
+      "liability": {
+        "title": "6. Limitation de Responsabilité",
+        "content": {
+          "disclaimer": "6.1 Notre Site Web et nos Services sont fournis \"tels quels\" et \"selon disponibilité\". Nous ne garantissons pas l'exactitude, la fiabilité, l'adéquation ou la disponibilité de notre Site Web, de nos Services ou des graphiques associés.",
+          "limitation": "6.2 Nous ne sommes pas responsables des pertes ou dommages, directs ou indirects, résultant de votre utilisation de notre Site Web ou de nos Services."
+        }
+      },
+      "thirdParty": {
+        "title": "7. Services et Contenus de Tiers",
+        "content": "7.1 Nos Services peuvent inclure du contenu ou des services de tiers. Nous n'avons aucun contrôle sur ces contenus ou services, et nous ne les approuvons ni n'en assumons la responsabilité."
+      },
+      "externalLinks": {
+        "title": "8. Liens Externes",
+        "content": "8.1 Notre Site Web peut contenir des liens vers des sites Web tiers. Ces liens sont fournis pour votre commodité, et nous n'avons aucun contrôle ni responsabilité sur leur contenu."
+      },
+      "updates": {
+        "title": "9. Mise à Jour des Conditions",
+        "content": {
+          "changes": "9.1 Nous nous réservons le droit de modifier ces Conditions à tout moment. Nous vous informerons des modifications en mettant à jour les Conditions sur cette page.",
+          "review": "9.2 Nous vous recommandons de consulter régulièrement ces Conditions pour être informé des mises à jour. Les modifications prennent effet dès leur publication sur cette page."
+        }
+      },
+      "termination": {
+        "title": "10. Résiliation du Service",
+        "content": "10.1 Nous pouvons suspendre ou résilier immédiatement votre accès à notre Site Web et à nos Services, sans préavis ni responsabilité, en cas de violation de ces Conditions."
+      },
+      "legal": {
+        "title": "11. Droit Applicable",
+        "content": {
+          "jurisdiction": "11.1 Ces Conditions sont régies par les lois de la juridiction où notre société est enregistrée, sans tenir compte des principes de conflit de lois.",
+          "consent": "11.2 Vous acceptez la juridiction exclusive des tribunaux de notre juridiction pour tout litige relatif à ces Conditions ou à notre Site Web ou Services."
+        }
+      },
+      "contact": {
+        "title": "12. Contactez-nous",
+        "content": "12.1 Si vous avez des questions concernant ces Conditions, veuillez nous contacter à support@quantumai.com.ai."
+      }
     }
   }
 }

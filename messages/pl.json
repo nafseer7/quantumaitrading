@@ -899,13 +899,13 @@
         "introduction": {
             "title": "Wprowadzenie",
             "content": "W Quantum AI przywiązujemy najwyższą wagę do ochrony Twoich danych osobowych i zachowania prywatności.",
-            "policyPurpose": "Nasza Polityka Prywatności została stworzona w celu jasnego wyjaśnienia, w jaki sposób zarządzamy, zbieramy, przechowujemy i wykorzystujemy dane, które nam przekazujesz za pośrednictwem naszej strony internetowej quantumaiplatform.com (zwanej dalej \"Stroną\").",
+            "policyPurpose": "Nasza Polityka Prywatności została stworzona w celu jasnego wyjaśnienia, w jaki sposób zarządzamy, zbieramy, przechowujemy i wykorzystujemy dane, które nam przekazujesz za pośrednictwem naszej strony internetowej quantumai.com.ai (zwanej dalej \"Stroną\").",
             "principles": "Nasze zobowiązania wobec Ciebie obejmują następujące kluczowe zasady:",
             "communication": {
                 "title": "Jasna komunikacja dotycząca wykorzystania Twoich danych osobowych",
                 "content": "Dostarczamy kompleksowe informacje, które pozwalają Ci podejmować świadome decyzje dotyczące przetwarzania Twoich danych osobowych. Naszym celem jest przekazywanie istotnych informacji w sposób przejrzysty i terminowy.",
                 "additionalInfo": "Dodatkowo, jeśli zachodzi konieczność przekazania Ci określonych informacji, zapewniamy, że zostanie to zrobione w odpowiednim czasie i we właściwy sposób.",
-                "contact": "W razie pytań lub potrzeby wyjaśnień nasz zespół jest gotowy do pomocy w granicach obowiązującego prawa. Skontaktuj się z nami pod adresem support@quantumaiplatform.com."
+                "contact": "W razie pytań lub potrzeby wyjaśnień nasz zespół jest gotowy do pomocy w granicach obowiązującego prawa. Skontaktuj się z nami pod adresem support@quantumai.com.ai."
             }
         },
         "dataProcessing": {
@@ -994,6 +994,94 @@
         "contact": {
             "title": "Kontakt",
             "content": "W przypadku pytań dotyczących Polityki Prywatności lub w celu skorzystania ze swoich praw skontaktuj się z nami pod adresem support@quantumai.com.ai"
+        }
+    },
+    "terms": {
+        "meta": {
+            "title": "Warunki korzystania",
+            "lastUpdated": "Ostatnia aktualizacja: 15 marca 2024"
+        },
+        "sections": {
+            "welcome": {
+                "title": "1. Witamy",
+                "content": {
+                    "greeting": "1.1 Witamy na quantumai.com.ai (\"Strona Internetowa\"). W przypadku jakichkolwiek pytań prosimy o kontakt pod adresem support@quantumai.com.ai.",
+                    "services": "1.2 Nasza Strona Internetowa dostarcza informacji na temat platform transakcyjnych stron trzecich (\"Platformy Stron Trzecich\") oraz powiązanych usług (\"Usługi\").",
+                    "agreement": "1.3 Niniejsza Umowa Użytkownika (\"Warunki\") określa zasady korzystania z naszej Strony Internetowej i Usług. Zalecamy dokładne zapoznanie się z tymi Warunkami. Korzystając z naszej Strony Internetowej i Usług, akceptujesz te Warunki. Jeśli nie zgadzasz się z jakimkolwiek z tych Warunków, prosimy o niekorzystanie z naszej Strony Internetowej i Usług.",
+                    "privacy": "1.4 Nasza Polityka Prywatności stanowi integralną część tych Warunków. Akceptując te Warunki, wyrażasz również zgodę na naszą Politykę Prywatności."
+                }
+            },
+            "eligibility": {
+                "title": "2. Kwalifikowalność użytkownika",
+                "intro": "2.1 Możesz korzystać ze Strony Internetowej i Usług, jeśli:",
+                "requirements": {
+                    "age": "2.1.1 Masz ukończone 18 lat;",
+                    "legal": "2.1.2 Masz prawo i zdolność prawną do zaakceptowania tych Warunków;",
+                    "restrictions": "2.1.3 Nie jesteś prawnie ograniczony w korzystaniu z naszej Strony Internetowej i Usług."
+                }
+            },
+            "access": {
+                "title": "3. Ograniczenia dostępu",
+                "content": {
+                    "restrictions": "3.1 Dostęp do naszej Strony Internetowej i Usług może być ograniczony w niektórych regionach lub dla niektórych użytkowników ze względów prawnych, regulacyjnych lub związanych z zarządzaniem ryzykiem.",
+                    "territories": "3.2 Użytkownicy z określonych krajów mogą podlegać dodatkowym wymaganiom lub warunkom. W Terytoriach Ograniczonych dostęp do naszej Strony Internetowej i Usług może być niemożliwy lub zablokowany."
+                }
+            },
+            "useRestrictions": {
+                "title": "4. Ograniczenia użytkowania",
+                "intro": "4.1 Podczas korzystania z naszej Strony Internetowej i Usług nie wolno podejmować działań, które:",
+                "items": {
+                    "rights": "4.1.1 Naruszają jakiekolwiek prawa, w tym prawa własności intelektualnej, prywatności lub inne prawa;",
+                    "content": "4.1.2 Zawierają szkodliwe, obraźliwe, zniesławiające, rasistowskie lub nieodpowiednie treści;",
+                    "malware": "4.1.3 Obejmują złośliwe oprogramowanie lub wirusy;",
+                    "laws": "4.1.4 Naruszają jakiekolwiek przepisy prawa;",
+                    "interference": "4.1.5 Zakłócają dostęp innych użytkowników do Strony Internetowej lub Usług."
+                }
+            },
+            "intellectualProperty": {
+                "title": "5. Własność intelektualna",
+                "content": {
+                    "ownership": "5.1 Cała zawartość naszej Strony Internetowej, w tym teksty, grafiki, logotypy i oprogramowanie, jest naszą własnością lub własnością naszych licencjodawców i jest chroniona przepisami prawa własności intelektualnej.",
+                    "rights": "5.2 Korzystanie z naszej Strony Internetowej i Usług nie przyznaje żadnych praw do naszej własności intelektualnej ani własności intelektualnej stron trzecich."
+                }
+            },
+            "liability": {
+                "title": "6. Ograniczenie odpowiedzialności",
+                "content": {
+                    "disclaimer": "6.1 Nasza Strona Internetowa i Usługi są udostępniane \"w stanie, w jakim się znajdują\" oraz \"w miarę dostępności\". Nie gwarantujemy dokładności, rzetelności, przydatności ani dostępności naszej Strony Internetowej, Usług ani powiązanych treści.",
+                    "limitation": "6.2 Nie ponosimy odpowiedzialności za jakiekolwiek straty lub szkody, bezpośrednie lub pośrednie, wynikające z korzystania z naszej Strony Internetowej lub Usług."
+                }
+            },
+            "thirdParty": {
+                "title": "7. Usługi i treści stron trzecich",
+                "content": "7.1 Nasze Usługi mogą zawierać treści lub usługi stron trzecich. Nie mamy nad nimi kontroli i nie ponosimy za nie odpowiedzialności."
+            },
+            "externalLinks": {
+                "title": "8. Zewnętrzne linki",
+                "content": "8.1 Nasza Strona Internetowa może zawierać linki do zewnętrznych stron internetowych stron trzecich. Linki te są udostępniane dla wygody użytkownika i nie ponosimy odpowiedzialności za treści znajdujące się na tych stronach."
+            },
+            "updates": {
+                "title": "9. Aktualizacje warunków",
+                "content": {
+                    "changes": "9.1 Zastrzegamy sobie prawo do zmiany tych Warunków w dowolnym momencie. O wszelkich zmianach powiadomimy poprzez aktualizację Warunków na tej stronie.",
+                    "review": "9.2 Zalecamy regularne sprawdzanie tych Warunków w celu zapoznania się z ewentualnymi zmianami. Zmiany wchodzą w życie po ich opublikowaniu na tej stronie."
+                }
+            },
+            "termination": {
+                "title": "10. Zakończenie usługi",
+                "content": "10.1 Możemy natychmiast zawiesić lub zakończyć Twój dostęp do naszej Strony Internetowej i Usług bez wcześniejszego powiadomienia lub odpowiedzialności, jeśli naruszysz te Warunki."
+            },
+            "legal": {
+                "title": "11. Obowiązujące prawo",
+                "content": {
+                    "jurisdiction": "11.1 Niniejsze Warunki podlegają prawu obowiązującemu w jurysdykcji, w której zarejestrowana jest nasza firma, bez względu na kolizję przepisów prawa.",
+                    "consent": "11.2 Użytkownik zgadza się, że wszelkie spory wynikające z niniejszych Warunków lub korzystania z naszej Strony Internetowej i Usług będą rozstrzygane przez właściwe sądy w naszej jurysdykcji."
+                }
+            },
+            "contact": {
+                "title": "12. Kontakt",
+                "content": "12.1 Jeśli masz pytania dotyczące tych Warunków, skontaktuj się z nami pod adresem support@quantumai.com.ai."
+            }
         }
     }
 }

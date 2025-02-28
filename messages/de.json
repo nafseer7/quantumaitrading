@@ -227,13 +227,13 @@
     "introduction": {
       "title": "Einführung",
       "content": "Bei Quantum AI legen wir höchsten Wert auf den Schutz Ihrer persönlichen Daten und die Wahrung Ihrer Privatsphäre.",
-      "policyPurpose": "Unsere Datenschutzerklärung soll klar erläutern, wie wir die Daten, die Sie über unsere Website quantumaiplatform.com (im Folgenden als \"Website\" bezeichnet) bereitstellen, verwalten, erfassen, speichern und nutzen.",
+      "policyPurpose": "Unsere Datenschutzerklärung soll klar erläutern, wie wir die Daten, die Sie über unsere Website quantumai.com.ai (im Folgenden als \"Website\" bezeichnet) bereitstellen, verwalten, erfassen, speichern und nutzen.",
       "principles": "Unser Versprechen an Sie umfasst diese Grundprinzipien:",
       "communication": {
         "title": "Klare Kommunikation über die Nutzung Ihrer persönlichen Daten",
         "content": "Wir sind bestrebt, Ihnen umfassende Informationen zur Verfügung zu stellen, die es Ihnen ermöglichen, fundierte Entscheidungen über die Verarbeitung Ihrer persönlichen Daten zu treffen. Unser Ziel ist es, relevante Details über den Umgang mit Ihren Daten klar und zeitnah bereitzustellen.",
         "additionalInfo": "Sollte es darüber hinaus erforderlich sein, Ihnen bestimmte Informationen mitzuteilen, stellen wir sicher, dass dies zum geeignetsten Zeitpunkt und in der angemessensten Form geschieht.",
-        "contact": "Bei Fragen oder für weitere Klärung steht Ihnen unser Team im Rahmen der gesetzlichen Bestimmungen zur Verfügung. Zögern Sie nicht, uns unter support@quantumaiplatform.com zu kontaktieren."
+        "contact": "Bei Fragen oder für weitere Klärung steht Ihnen unser Team im Rahmen der gesetzlichen Bestimmungen zur Verfügung. Zögern Sie nicht, uns unter support@quantumai.com.ai zu kontaktieren."
       }
     },
     "dataProcessing": {
@@ -321,7 +321,7 @@
     },
     "contact": {
       "title": "Kontakt",
-      "content": "Bei Fragen zu dieser Datenschutzerklärung oder zur Ausübung Ihrer Rechte kontaktieren Sie uns bitte unter support@quantumaiplatform.com"
+      "content": "Bei Fragen zu dieser Datenschutzerklärung oder zur Ausübung Ihrer Rechte kontaktieren Sie uns bitte unter support@quantumai.com.ai"
     }
   }
 } 

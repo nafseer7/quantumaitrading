@@ -894,13 +894,13 @@
     "introduction": {
       "title": "Inleiding",
       "content": "Bij Quantum AI hechten we de hoogste waarde aan het beschermen van jouw persoonlijke gegevens en het waarborgen van jouw privacy.",
-      "policyPurpose": "Ons Privacybeleid is ontworpen om duidelijk uit te leggen hoe we jouw gegevens beheren, verzamelen, opslaan en gebruiken via onze website quantumaiplatform.com (hierna de \"Website\" genoemd).",
+      "policyPurpose": "Ons Privacybeleid is ontworpen om duidelijk uit te leggen hoe we jouw gegevens beheren, verzamelen, opslaan en gebruiken via onze website quantumai.com.ai (hierna de \"Website\" genoemd).",
       "principles": "Onze belofte aan jou omvat deze kernprincipes:",
       "communication": {
         "title": "Duidelijke communicatie over het gebruik van jouw persoonlijke gegevens",
         "content": "We zijn toegewijd aan het verstrekken van uitgebreide informatie, zodat je goed geïnformeerde keuzes kunt maken over de verwerking van jouw persoonlijke gegevens. Ons doel is om relevante details op een duidelijke en tijdige manier te verstrekken.",
         "additionalInfo": "Daarnaast, als het nodig is om specifieke informatie aan jou te communiceren, zorgen we ervoor dat dit gebeurt op het meest geschikte moment en op de meest passende manier.",
-        "contact": "Voor vragen of verdere verduidelijking staat ons team klaar om je te helpen binnen de wettelijke grenzen. Neem gerust contact met ons op via support@quantumaiplatform.com."
+        "contact": "Voor vragen of verdere verduidelijking staat ons team klaar om je te helpen binnen de wettelijke grenzen. Neem gerust contact met ons op via support@quantumai.com.ai."
       }
     },
     "dataProcessing": {
@@ -989,6 +989,94 @@
     "contact": {
       "title": "Neem contact met ons op",
       "content": "Voor vragen over dit Privacybeleid of om jouw rechten uit te oefenen, neem contact met ons op via support@quantumai.com.ai"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Gebruiksvoorwaarden",
+      "lastUpdated": "Laatst bijgewerkt: 15 maart 2024"
+    },
+    "sections": {
+      "welcome": {
+        "title": "1. Welkom",
+        "content": {
+          "greeting": "1.1 Welkom bij quantumai.com.ai (\"de Website\"). Voor vragen kunt u contact met ons opnemen via support@quantumai.com.ai.",
+          "services": "1.2 Onze website biedt informatie over handelsplatforms van derden (\"Platforms van Derden\") en aanverwante diensten (de \"Diensten\").",
+          "agreement": "1.3 Deze Gebruikersovereenkomst (\"Voorwaarden\") bevat de regels voor het gebruik van onze Website en Diensten. Wij raden u aan deze Voorwaarden zorgvuldig te lezen. Door onze Website en Diensten te gebruiken, gaat u akkoord met deze Voorwaarden. Als u niet akkoord gaat met een van deze Voorwaarden, maak dan geen gebruik van onze Website en Diensten.",
+          "privacy": "1.4 Ons Privacybeleid maakt integraal deel uit van deze Voorwaarden. Door akkoord te gaan met deze Voorwaarden, stemt u ook in met ons Privacybeleid."
+        }
+      },
+      "eligibility": {
+        "title": "2. Gebruikersgeschiktheid",
+        "intro": "2.1 U kunt gebruik maken van de Website en Diensten als u:",
+        "requirements": {
+          "age": "2.1.1 Minstens 18 jaar oud bent;",
+          "legal": "2.1.2 De wettelijke bevoegdheid hebt om deze Voorwaarden te accepteren;",
+          "restrictions": "2.1.3 Niet wettelijk beperkt bent om onze Website en Diensten te gebruiken."
+        }
+      },
+      "access": {
+        "title": "3. Toegangsbeperkingen",
+        "content": {
+          "restrictions": "3.1 De toegang tot onze Website en Diensten kan in bepaalde regio's of voor bepaalde gebruikers worden beperkt om juridische, regelgevende of risicobeheerredenen.",
+          "territories": "3.2 Gebruikers uit bepaalde landen kunnen onderworpen zijn aan aanvullende voorwaarden of beperkingen. In Beperkte Gebieden kan het zijn dat onze Website en Diensten niet toegankelijk zijn."
+        }
+      },
+      "useRestrictions": {
+        "title": "4. Gebruikslimieten",
+        "intro": "4.1 Bij het gebruik van onze Website en Diensten moet u activiteiten vermijden die:",
+        "items": {
+          "rights": "4.1.1 De rechten van anderen schenden, inclusief intellectuele eigendomsrechten, privacy of andere rechten;",
+          "content": "4.1.2 Schadelijke, beledigende, lasterlijke, racistische of ongepaste inhoud bevatten;",
+          "malware": "4.1.3 Schadelijke software of virussen verspreiden;",
+          "laws": "4.1.4 Overtreding van toepasselijke wetgeving inhouden;",
+          "interference": "4.1.5 De toegang van andere gebruikers tot de Website of Diensten verstoren."
+        }
+      },
+      "intellectualProperty": {
+        "title": "5. Intellectueel Eigendom",
+        "content": {
+          "ownership": "5.1 Alle inhoud op onze Website, inclusief tekst, afbeeldingen, logo’s en software, is eigendom van ons of onze licentiegevers en is beschermd door wetten op intellectueel eigendom.",
+          "rights": "5.2 Het gebruik van onze Website en Diensten verleent u geen rechten op ons intellectueel eigendom of dat van derden."
+        }
+      },
+      "liability": {
+        "title": "6. Beperking van Aansprakelijkheid",
+        "content": {
+          "disclaimer": "6.1 Onze Website en Diensten worden aangeboden 'zoals ze zijn' en 'zoals beschikbaar'. Wij garanderen niet de nauwkeurigheid, betrouwbaarheid, geschiktheid of beschikbaarheid van onze Website, Diensten of gerelateerde inhoud.",
+          "limitation": "6.2 Wij zijn niet aansprakelijk voor enige directe of indirecte schade die voortvloeit uit uw gebruik van onze Website of Diensten."
+        }
+      },
+      "thirdParty": {
+        "title": "7. Diensten en Inhoud van Derden",
+        "content": "7.1 Onze Diensten kunnen inhoud of diensten van derden bevatten. Wij hebben geen controle over deze inhoud of diensten en aanvaarden hiervoor geen enkele verantwoordelijkheid."
+      },
+      "externalLinks": {
+        "title": "8. Externe Links",
+        "content": "8.1 Onze Website kan links bevatten naar externe websites van derden. Deze links zijn bedoeld voor uw gemak en wij zijn niet verantwoordelijk voor de inhoud van deze externe websites."
+      },
+      "updates": {
+        "title": "9. Wijzigingen in de Voorwaarden",
+        "content": {
+          "changes": "9.1 Wij behouden ons het recht voor om deze Voorwaarden op elk moment te wijzigen. Wij zullen u op de hoogte stellen van wijzigingen door de Voorwaarden op deze pagina bij te werken.",
+          "review": "9.2 Wij raden u aan deze Voorwaarden regelmatig te controleren op updates. De wijzigingen worden van kracht zodra ze op deze pagina worden gepubliceerd."
+        }
+      },
+      "termination": {
+        "title": "10. Beëindiging van de Dienst",
+        "content": "10.1 Wij kunnen uw toegang tot onze Website en Diensten onmiddellijk opschorten of beëindigen zonder voorafgaande kennisgeving of aansprakelijkheid als u deze Voorwaarden schendt."
+      },
+      "legal": {
+        "title": "11. Toepasselijk Recht",
+        "content": {
+          "jurisdiction": "11.1 Deze Voorwaarden worden beheerst door de wetten van het rechtsgebied waarin ons bedrijf is geregistreerd, zonder rekening te houden met conflicterende rechtsprincipes.",
+          "consent": "11.2 U stemt ermee in dat alle geschillen met betrekking tot deze Voorwaarden of onze Website en Diensten exclusief zullen worden behandeld door de bevoegde rechtbanken in onze rechtsgebieden."
+        }
+      },
+      "contact": {
+        "title": "12. Contact opnemen",
+        "content": "12.1 Als u vragen hebt over deze Voorwaarden, neem dan contact met ons op via support@quantumai.com.ai."
+      }
     }
   }
 }

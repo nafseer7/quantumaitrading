@@ -894,13 +894,13 @@
     "introduction": {
       "title": "Introdução",
       "content": "Na Quantum AI, damos a máxima importância à proteção das suas informações pessoais e à manutenção da sua privacidade.",
-      "policyPurpose": "Nossa Política de Privacidade foi elaborada para explicar claramente como gerenciamos, coletamos, armazenamos e usamos os dados que você fornece por meio do nosso site quantumaiplatform.com (doravante denominado \"Site\").",
+      "policyPurpose": "Nossa Política de Privacidade foi elaborada para explicar claramente como gerenciamos, coletamos, armazenamos e usamos os dados que você fornece por meio do nosso site quantumai.com.ai (doravante denominado \"Site\").",
       "principles": "Nosso compromisso com você inclui os seguintes princípios fundamentais:",
       "communication": {
         "title": "Comunicação clara sobre o uso dos seus dados pessoais",
         "content": "Estamos empenhados em fornecer informações detalhadas que permitam que você tome decisões informadas sobre o processamento dos seus dados pessoais. Nosso objetivo é oferecer detalhes relevantes sobre como os seus dados são tratados de maneira clara e oportuna.",
         "additionalInfo": "Além disso, se houver necessidade de comunicar informações específicas a você, garantimos que isso será feito no momento mais apropriado e da maneira mais adequada.",
-        "contact": "Caso tenha dúvidas ou precise de esclarecimentos, nossa equipe está à disposição para ajudar, dentro dos limites da lei. Entre em contato conosco pelo e-mail support@quantumaiplatform.com."
+        "contact": "Caso tenha dúvidas ou precise de esclarecimentos, nossa equipe está à disposição para ajudar, dentro dos limites da lei. Entre em contato conosco pelo e-mail support@quantumai.com.ai."
       }
     },
     "dataProcessing": {
@@ -989,6 +989,94 @@
     "contact": {
       "title": "Entre em Contato Conosco",
       "content": "Para qualquer dúvida sobre esta Política de Privacidade ou para exercer seus direitos, entre em contato conosco pelo e-mail support@quantumai.com.ai"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Termos de Serviço",
+      "lastUpdated": "Última atualização: 15 de março de 2024"
+    },
+    "sections": {
+      "welcome": {
+        "title": "1. Bem-vindo",
+        "content": {
+          "greeting": "1.1 Bem-vindo ao quantumai.com.ai (\"o Site\"). Para qualquer dúvida, entre em contato conosco pelo e-mail support@quantumai.com.ai.",
+          "services": "1.2 Nosso Site fornece informações sobre plataformas de negociação de terceiros (\"Plataformas de Terceiros\"), bem como serviços relacionados (\"Serviços\").",
+          "agreement": "1.3 O seguinte Acordo do Usuário (\"Termos\") define as regras para o uso do nosso Site e Serviços. Recomendamos a leitura atenta destes Termos. Ao acessar ou utilizar nosso Site e Serviços, você concorda com estes Termos. Se não concordar com algum deles, por favor, não utilize nosso Site e Serviços.",
+          "privacy": "1.4 Nossa Política de Privacidade é parte integrante destes Termos. Ao aceitar estes Termos, você também concorda com nossa Política de Privacidade."
+        }
+      },
+      "eligibility": {
+        "title": "2. Qualificação do Usuário",
+        "intro": "2.1 Você pode usar o Site e os Serviços se:",
+        "requirements": {
+          "age": "2.1.1 Tiver 18 anos ou mais;",
+          "legal": "2.1.2 Tiver capacidade legal para aceitar estes Termos;",
+          "restrictions": "2.1.3 Não for proibido de utilizar nosso Site e Serviços pelas leis locais."
+        }
+      },
+      "access": {
+        "title": "3. Restrições de Acesso",
+        "content": {
+          "restrictions": "3.1 O acesso ao nosso Site e Serviços pode ser restrito em determinadas regiões ou para certos usuários por razões legais, regulatórias ou de gestão de risco.",
+          "territories": "3.2 Usuários de determinados países podem estar sujeitos a requisitos ou condições adicionais. Em Territórios Restritos, o acesso ao nosso Site e Serviços pode estar indisponível ou bloqueado."
+        }
+      },
+      "useRestrictions": {
+        "title": "4. Restrições de Uso",
+        "intro": "4.1 Ao utilizar nosso Site e Serviços, você não deve realizar atividades que:",
+        "items": {
+          "rights": "4.1.1 Infrinjam quaisquer direitos, incluindo propriedade intelectual, privacidade ou outros direitos;",
+          "content": "4.1.2 Contenham conteúdo prejudicial, ofensivo, difamatório, racista ou inadequado;",
+          "malware": "4.1.3 Envolvam software malicioso ou vírus;",
+          "laws": "4.1.4 Violem quaisquer leis;",
+          "interference": "4.1.5 Interfiram no acesso de outros usuários ao Site ou Serviços."
+        }
+      },
+      "intellectualProperty": {
+        "title": "5. Propriedade Intelectual",
+        "content": {
+          "ownership": "5.1 Todo o conteúdo do nosso Site, incluindo textos, gráficos, logotipos e software, é de nossa propriedade ou de nossos licenciadores e está protegido por leis de propriedade intelectual.",
+          "rights": "5.2 O uso do nosso Site e Serviços não concede a você quaisquer direitos sobre nossa propriedade intelectual ou a de terceiros."
+        }
+      },
+      "liability": {
+        "title": "6. Limitação de Responsabilidade",
+        "content": {
+          "disclaimer": "6.1 Nosso Site e Serviços são fornecidos \"como estão\" e \"conforme disponíveis\". Não garantimos a precisão, confiabilidade, adequação ou disponibilidade do nosso Site, Serviços ou gráficos associados.",
+          "limitation": "6.2 Não somos responsáveis por quaisquer perdas ou danos, diretos ou indiretos, decorrentes do uso do nosso Site ou Serviços."
+        }
+      },
+      "thirdParty": {
+        "title": "7. Serviços e Conteúdos de Terceiros",
+        "content": "7.1 Nossos Serviços podem incluir materiais ou serviços de terceiros. Não temos controle sobre esses conteúdos ou serviços e não nos responsabilizamos por eles."
+      },
+      "externalLinks": {
+        "title": "8. Links Externos",
+        "content": "8.1 Nosso Site pode conter links para sites externos de terceiros. Esses links são fornecidos para sua conveniência e não temos controle nem responsabilidade sobre o conteúdo desses sites externos."
+      },
+      "updates": {
+        "title": "9. Atualizações dos Termos",
+        "content": {
+          "changes": "9.1 Reservamo-nos o direito de modificar estes Termos a qualquer momento. Informaremos sobre quaisquer alterações atualizando os Termos nesta página.",
+          "review": "9.2 Recomendamos revisar estes Termos regularmente para acompanhar possíveis atualizações. As alterações entrarão em vigor assim que forem publicadas nesta página."
+        }
+      },
+      "termination": {
+        "title": "10. Encerramento do Serviço",
+        "content": "10.1 Podemos encerrar ou suspender seu acesso ao nosso Site e Serviços imediatamente, sem aviso prévio ou responsabilidade, se você violar estes Termos."
+      },
+      "legal": {
+        "title": "11. Jurisdição Legal",
+        "content": {
+          "jurisdiction": "11.1 Estes Termos são regidos pelas leis da jurisdição onde nossa empresa está sediada, sem considerar conflitos de princípios legais.",
+          "consent": "11.2 Você concorda que qualquer disputa relacionada a estes Termos ou ao uso do nosso Site ou Serviços será resolvida nos tribunais competentes da nossa jurisdição."
+        }
+      },
+      "contact": {
+        "title": "12. Entre em Contato",
+        "content": "12.1 Se você tiver dúvidas sobre estes Termos, entre em contato conosco pelo e-mail support@quantumai.com.ai."
+      }
     }
   }
 }
