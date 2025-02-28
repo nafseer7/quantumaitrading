@@ -28,7 +28,7 @@ const footerLinkKeys = {
   legal: [
     { key: 'privacy', href: '/privacy' },
     { key: 'terms', href: '/terms' },
-    { key: 'cookies', href: '/cookies' },
+    // { key: 'cookies', href: '/cookies' },
     // { key: 'licenses', href: '/licenses' }
   ]
 };
@@ -132,12 +132,12 @@ const Footer = () => {
               >
                 {t('bottomLinks.privacy')}
               </Link>
-              <Link
+              {/* <Link
                 href="/cookies"
                 className="text-gray-400 hover:text-blue-400 transition-colors"
               >
                 {t('bottomLinks.cookies')}
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
